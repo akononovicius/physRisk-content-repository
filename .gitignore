@@ -1,0 +1,4 @@
+/uploads
+/uploads/*
+.htaccess
+no-hotlink.png
