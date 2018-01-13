@@ -27,3 +27,7 @@ We are always happy to accept contributed texts from external authors. Especiall
 ## Submission
 
 If you are willing to submit content, please contact website maintainer (currently [Aleksejus Kononovicius](http://kononovicius.lt)). Texts will be reviewed by the maintainer and might not be accepted if they violate the guidelines or in some other (not listed) edge cases. After review the contributions will be published under the same license as other content on Physics of Risk website ([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/)).
+
+## If you have noticed an error
+
+You could report your finding to the current website maintainer [Aleksejus Kononovičius](http://kononovicius.lt), write us via Facebook message (our Facebook page can be found at [https://www.facebook.com/physics.risk/](https://www.facebook.com/physics.risk/)) or use proper GitHub tools (links to repositories can be found in the sidebar).

@@ -20,6 +20,15 @@ Currently this website is maintaned by [Aleksejus Kononovičius](http://kononovi
 
 
 ## If you want to use content presented on this website
-You may do so according to [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) licence. Simply put - you may use or modify it, as long as you do so for non-commercial purpose and as long as you appropriately attribute (refer/link to) this website.
+
+You may do so according to [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) license. Simply put - you may use or modify it, as long as you do so for non-commercial purpose and as long as you appropriately attribute (refer/link to) this website.
 
 If in doubt, please contact the current website maintainer [Aleksejus Kononovičius](http://kononovicius.lt).
+
+Markdown files used to produce posts and pages on Physics of Risk are stored on GitHub (see [https://github.com/akononovicius/physRisk-content-repository](https://github.com/akononovicius/physRisk-content-repository)).
+
+Interactive app source code can be also found on GitHub (see [https://github.com/akononovicius/physRisk-model-repository](https://github.com/akononovicius/physRisk-model-repository)).
+
+## If you have noticed an error
+
+You could contact the current website maintainer [Aleksejus Kononovičius](http://kononovicius.lt), write us via Facebook message (our Facebook page can be found at [https://www.facebook.com/physics.risk/](https://www.facebook.com/physics.risk/)) or use proper GitHub tools (links to repositories can be found in the paragraphs above or in the sidebar).
