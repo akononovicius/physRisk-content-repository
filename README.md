@@ -2,7 +2,7 @@
 
 This repository stores raw markdown files, which are used to generate content of the [Physics of Risk](http://rf.mokslasplius.lt/) blog. The blog is generated using [Pelican](http://docs.getpelican.com/en/stable/).
 
-Interactive implementation of the models are stored in another GitHub repository: [https://github.com/akononovicius/physRisk-model-repository](https://github.com/akononovicius/physRisk-model-repository).
+Interactive implementations of the models are stored in another GitHub repository: [https://github.com/akononovicius/physRisk-model-repository](https://github.com/akononovicius/physRisk-model-repository).
 
 Images and other external files are not uploaded to any GitHub repository.
 
