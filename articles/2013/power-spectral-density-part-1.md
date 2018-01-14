@@ -21,7 +21,7 @@ on the old Physics of Risk (written by dr. Julius Ruseckas).
 Fourier transform and power spectral density
 --------------------------------------------
 
-In between XVIII and XIX centuries french mathematician Fourier
+In between XVIII and XIX centuries French mathematician Fourier
 discovered that many mathematical functions might be expanded as a
 series of periodic functions! Mathematically it can be written as a sum
 of certain coefficients an functions themselves:
@@ -44,7 +44,7 @@ This function is obtained as follows:
 \end{equation}
 
 
-This expression is also known as Fourier transform, which formaly
+This expression is also known as Fourier transform, which formally
 translates the data from the time domain (further in the text we will
 use \\\(  x \\\) and \\\(  t \\\)) to the frequency domain (to note
 frequency will use \\\(  \nu \\\)). Inverse transformation is done in a
@@ -52,7 +52,7 @@ very similar manner:
 
 
 \begin{equation}
- f(x) = \int\_{-\infty}^{\infty} F(\nu) \exp\left\[ 2 \pii \nu x \right\] \mathrm{d} \nu . 
+ f(x) = \int\_{-\infty}^{\infty} F(\nu) \exp\left\[ 2 \pi i \nu x \right\] \mathrm{d} \nu . 
 \end{equation}
 
 
