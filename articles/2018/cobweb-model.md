@@ -3,7 +3,7 @@ Date: 2018-01-16 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Economics, market price, free market, supply and demand, price formation series
 Slug: price-formation-cobweb-model
-Status: draft
+Status: published
 Image_url: uploads/2017/12/cobweb-convergence.png
 
 Couple of months ago I have started a [series of posts](/tag/price-formation-series/) on price formation in the free market or how and why the free market does (not) work.
@@ -34,6 +34,6 @@ Note that:
 
 * if \\\( \alpha_s < \alpha_d \\\), then the trajectory diverges,
 * if \\\( \alpha_s = \alpha_d \\\), then a cycle is observed,
-* while if \\\( \alpha_s > \alpha_d \\\), then the trajectory convergs.
+* while if \\\( \alpha_s > \alpha_d \\\), then the trajectory will eventually converge.
 
 The divergence paradox is considered in multiple empirical works, which conduct social experiments or polls and show that \\\( \alpha_s < \alpha_d \\\) never occurs in practice.
