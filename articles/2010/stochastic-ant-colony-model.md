@@ -233,8 +233,8 @@ results using same parameter values (see [Fig 1.](#attachment_788)).
 ![image](/uploads/2010/11/sde_abm_comparison.png "Comparison of probability density function (a) and power
 spectral density (b) of external observable, x, time series, which were
 produced by agent based model (points) and stochastic model (lines).
-Parameters are set as follows: h=1 (same in all cases), σ~1~=0.2 (red
-points, blue lines), σ~1~=16 (magenta points, cyan lines), σ~2~=5 (same
+Parameters are set as follows: \\\( h=1 \\\) (same in all cases), \\\( \sigma_1 =0.2 \\\) (red
+points, blue lines), \\\( \sigma_1 =16 \\\) (magenta points, cyan lines), \\\( \sigma_2=5 \\\) (same
 in all
 cases)."){#attachment_788} 
 

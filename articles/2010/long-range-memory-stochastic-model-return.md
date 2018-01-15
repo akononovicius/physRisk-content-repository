@@ -216,10 +216,9 @@ great agreement with empirical data (see [Fig. 3](#attachment_910)).
 (New York Stock Exchange - red curve, Vilnius - blue) statistical
 properties, non-zero value probability density function ((a) ir (c)) and
 power spectral density ((b) ir (d)), in different time scales (1 min -
-(a) and (b), 30 min - (c) and (d)). Model parameters: τ~s~=2 10^-4^ (1
-min) and τ~s~=6 10^-3^ (30 min), λ~2~=5, r̄~0~=0.4, λ=3.6, ε=0.017,
-η=2.5,
-x~max~=1000."){#attachment_910} 
+(a) and (b), 30 min - (c) and (d)). Model parameters: \\\( \tau_s =2 \cdot 10^{-4} \\\) (1
+min) and \\\( τ_s=6 \cdot 10^{-3} \\\) (30 min), \\\( λ_2 = 5 \\\), \\\( {\bar r}_0=0.4 \\\), \\\( \lambda=3.6 \\\), \\\( \varepsilon =0.017 \\\),
+\\\( \eta =2.5 \\\), \\\( x_{max}=1000 \\\)."){#attachment_910} 
 
 Applet
 ------

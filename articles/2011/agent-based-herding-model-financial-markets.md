@@ -313,12 +313,11 @@ distinct cases (see [Fig 1.](#attachment_1776), this figure is featured
 in \[cite id="Kononovicius2012PhysA"\]).
 
 ![image](/uploads/2011/06/kirmanour.png "Numerically calculated PDF (a) and power spectral
-density (b) in three distinct cases, α=0 (red squares), α=1 (blue
-circles) and α=2 (magenta triangles), of considered stochastic model,
-Eq. (6). Other model parameters were set as follows: ε~1~=0, ε~2~=2-α.
-Solid curves are inverse power law fits: (a) λ=3 (all three cases), (b)
-β=1 (all three
-cases)."){#attachment_1776} 
+density (b) in three distinct cases, \\\( \alpha =0 \\\) (red squares), \\\( \alpha=1 \\\) (blue
+circles) and \\\( \alpha=2 \\\) (magenta triangles), of considered stochastic model,
+Eq. (6). Other model parameters were set as follows: \\\( \varepsilon_1=0 \\\), \\\( \varepsilon_2 =2-\alpha \\\).
+Solid curves are inverse power law fits: (a) \\\( \lambda=3 \\\) (all three cases), (b)
+\\\( \beta = 1 \\\) (all three cases)."){#attachment_1776} 
 
 The above comparison is very important as stochastic differential
 equation \[eqref id="oursde"\] is a more general case of our stochastic
@@ -379,11 +378,11 @@ defined by Eq. \[eqref id="lany"\].
 
 ![image](/uploads/2011/06/kirmancev.png "Numerically calculated PDF (a) and power spectral
 density (b) of considered stochastic model, Eq. (6), with linearized
-drift function in three distinct cases, α=0 (red squares), α=1 (blue
-circles) and α=0 (magenta triangles). Other model parameters were set as
-follows: ε~1~=ε~2~=2. Solid curves provide inverse power law fits for
-modelic data: (a) λ=3 (red squares), λ=4 (blue circles), λ=5 (magenta
-triangles), (b) β=1 (red squares), β=1.5 (blue circles), β=1.66 (magenta
+drift function in three distinct cases, \\\( \alpha=0 \\\) (red squares), \\\( \alpha=1 \\\) (blue
+circles) and \\\( \alpha=2 \\\) (magenta triangles). Other model parameters were set as
+follows: \\\( \varepsilon_1 = \varepsilon_2 =2 \\\). Solid curves provide inverse power law fits for
+modelic data: (a) \\\( \lambda=3 \\\) (red squares), \\\( \lambda=4 \\\) (blue circles), \\\( \lambda=5 \\\) (magenta
+triangles), (b) \\\( \beta=1 \\\) (red squares), \\\( \beta=1.5 \\\) (blue circles), \\\( \beta=1.66 \\\) (magenta
 triangles)."){#attachment_1777} 
 
 Applet

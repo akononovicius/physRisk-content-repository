@@ -199,10 +199,10 @@ The [World Bank](http://data.worldbank.org/) data can be retrieved using
 following information:
 
 -   GDPper capitaUSD - World Development Indicators, GDP per capita
-    (current US\$) -
+    (current US$) -
     [NY.GDP.PCAP.CD](http://data.worldbank.org/indicator/NY.GDP.PCAP.CD)
 -   GDPpercapitaPPP\_USD - World Development Indicators, GDP per capita,
-    PPP (current international \$) -
+    PPP (current international $) -
     [NY.GDP.PCAP.PP.CD](http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD)
 -   PriceLevel - World Development Indicators, PPP conversion factor
     (GDP) to market exchange rate ratio -
