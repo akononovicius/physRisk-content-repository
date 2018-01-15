@@ -33,7 +33,7 @@ Economic nationalism stifles the competition between the suppliers. Hence the su
 
 ## So what should we do?
 
-We should approach economics as a complex system. We should understand that models work and fail for some reasons, which need to be understood. The key to this is understanding that the reasons lie in the assumptions of the models. As the assumption are violated, the models fail.
+Debate between the free market ideology and economic nationalists suggests that these are the only two possible choices. But such claims are [wrong](https://en.wikipedia.org/wiki/False_dilemma). We are not forced to choose between two alternatives, we should figure out a reasonable middle (or even "perpendicular") way. We should approach economics as a complex system. We should understand that models work and fail for some reasons, which need to be understood. The key to this is understanding that the reasons lie in the assumptions of the models. As the assumption are violated, the models fail.
 
 Having all of this in mind it is rather easy to conclude that we must stay with the free markets, but we must adjust our understanding of what that means. Anarchism as well as strict regulation will definitely fail, thus reasonable regulation (guided by science and not ideological BS) is a must.
 
