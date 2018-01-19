@@ -47,8 +47,8 @@ Articles with old Java applets
     return](/long-range-memory-stochastic-model-return "Long-range memory stochastic model of return"),
 -   [Three group Kirman’s agent based model for financial
     markets](/three-group-kirman-agent-based-model-for-financial-markets "Three group Kirmans agent based model for financial markets"),
--   [Brust statistics in non-linear stochastic
-    models](/brust-statistics-non-linear-stochastic-models "Brust statistics in non-linear stochastic models"),
+-   [Burst statistics in non-linear stochastic
+    models](/burst-statistics-non-linear-stochastic-models "Burst statistics in non-linear stochastic models"),
 -   [Multifractality of time
     series](/multifractality-time-series "Multifractality of time series"),
 -   [Newton-Raphson
