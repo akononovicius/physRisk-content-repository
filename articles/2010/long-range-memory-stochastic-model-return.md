@@ -223,36 +223,32 @@ min) and \\\( τ_s=6 \cdot 10^{-3} \\\) (30 min), \\\( λ_2 = 5 \\\), \\\( {\bar
 Applet
 ------
 
-Java applet below solves differential equations above using
+HTML5 applet below solves differential equations above using
 Euler-Maruyama method \[cite id="Kloeden1999Springer"\]. We also use
 variable time step. In such case stochastic differential equations
 becomes a set of difference equations for time and return. In case of
 the last stochastic differential above
 
-
 \begin{equation}
  x\_{i+1} = x\_{i} + \kappa^2 \left \[ \eta -\frac{\lambda}{2} - \left( \frac{x\_i}{x\_{max}} \right)^2\right\] x\_i + \kappa \sqrt{1+x\_i^2} \xi\_i , 
 \end{equation}
-
-
 
 \begin{equation}
  t\_{i+1} = t\_{i} + \kappa^2 \frac{\left( 1 + \epsilon\sqrt{1+x\_i^2} \right)^2}{\left( 1+x\_i^2 \right)^{\eta-1}},
 \end{equation}
 
-
 here \\\(  \xi\_i  \\\) is Gaussian noise (zero mean, unit variance) and
 \\\(  \kappa  \\\) is numerical precision parameter.
 
-<div class="applet-embed">
-    <applet code="returnModel" acrhive="/uploads/2010/12/returnModelAppletEn.jar" width="400" height="200"></applet>
-    <p>Above this text you might see a Java applet. Though you might not see it as Java is more-or-less a dying web technology. Namely, most likely you have not installed Java Runtime Environment on your computer, or your browser prevents JRE plugin from running. You could try installing the most recent JRE and/or enabling JRE plugin in your browser, but we do not advise to do this as this might not help and this could cause potential security risks. Please be patient - some day we possibly will update this article with HTML5 applet. If you have programming skills, you may dowload jar archive and open it - inside you'll find the source code for the applet. Feel free to use it.</p>
-</div>
+[html5-interactive
+url="/uploads/models/grk-return-model/index.html"
+width="515" height="615" mode="iframe"]
 
-
-You can download full java program with GUI in
+If you came here to find the previously used Java applet, it is still
+available [here](/uploads/models/old-java/return model-en.html).
+The functionality of both, new HTML5 and old Java, applets is almost
+identical, but some noticeable differences are present. You can also
+download a full java program with GUI in
 [Lithuanian](/uploads/2010/12/returnModel.jar)
-or
-[English](/uploads/2010/12/returnModelEn.jar)
-language. Note that only GUI was localized - meaning that console is
-English in both cases.
+or [English](/uploads/2010/12/returnModelEn.jar) language. Note that
+only GUI was localized - meaning that CLI is English in both cases.
