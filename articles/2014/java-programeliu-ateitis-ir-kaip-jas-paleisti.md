@@ -43,8 +43,8 @@ Articles with old Java applets
     model](/kirman-ants "Kirmans ant colony model")</del>,
 -   <del>[Agent based herding model of financial
     markets](/agent-based-herding-model-financial-markets "Agent based herding model of financial markets")</del>,
--   [Long-range memory stochastic model of
-    return](/long-range-memory-stochastic-model-return "Long-range memory stochastic model of return"),
+-   <del>[Long-range memory stochastic model of
+    return](/long-range-memory-stochastic-model-return "Long-range memory stochastic model of return"),</del>
 -   [Three group Kirman’s agent based model for financial
     markets](/three-group-kirman-agent-based-model-for-financial-markets "Three group Kirmans agent based model for financial markets"),
 -   [Burst statistics in non-linear stochastic
