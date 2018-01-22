@@ -167,14 +167,18 @@ than 10) or overlap (H larger 1000).
 ![image](/uploads/2011/09/spectra.png "Spectral density (red curve) of absolute return time
 series obtained by numerically evaluating the discussed model and its
 power law fits (blue curves). Powers of power law fits: \\\( \beta=0.68 \\\), \\\( \beta=0.22 \\\).
-Model parameters: \\\( a_1=a_2=b_1=c_1=30 \\\), \\\( b_2=c_2=500 \\\), \\\( h=50 \\\),
-\\\( \Delta t=0.001 \\\)."){#attachment_1908} 
+Model parameters: \\\( a_1=a_2=b_1=c_1=30 \\\), \\\( b_2=c_2=500 \\\), \\\( h_{cf}=1 \\\), \\\( H=50 \\\),
+\\\( T=0.001 \\\)."){#attachment_1908} 
 
 Applet
 ------
 
-<div class="applet-embed">
-    <applet code="al" acrhive="/uploads/2011/09/abmThreeTypeEn.jar" width="500" height="355"></applet>
-    <p>Above this text you might see a Java applet. Though you might not see it as Java is more-or-less a dying web technology. Namely, most likely you have not installed Java Runtime Environment on your computer, or your browser prevents JRE plugin from running. You could try installing the most recent JRE and/or enabling JRE plugin in your browser, but we do not advise to do this as this might not help and this could cause potential security risks. Please be patient - some day we possibly will update this article with HTML5 applet. If you have programming skills, you may dowload jar archive and open it - inside you'll find the source code for the applet. Feel free to use it.</p>
-</div>
+[html5-interactive
+url="/uploads/models/three-state-return-model/index.html"
+width="515" height="385" mode="iframe"]
 
+If you came here to find the previously used Java applet, it is still
+available [here](/uploads/models/old-java/three-state-model-en.html).
+The functionality of both, new HTML5 and old Java, applets is almost
+identical.
+  
