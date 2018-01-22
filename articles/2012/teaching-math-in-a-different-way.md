@@ -1,7 +1,7 @@
 Title: Teaching math in a different way
 Date: 2012-12-31 08:14
 Author: Aleksejus Kononovicius
-Tags: General information, General models, A. Kononovicius, Monty Hall problem, internet, literature, paradox, popular culture, science.memebase.com
+Tags: General information, General models, A. Kononovicius, Monty Hall problem, literature, paradox, popular culture, science.memebase.com
 Slug: teaching-math-in-a-different-way
 Status: published
 

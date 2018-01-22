@@ -1,7 +1,7 @@
 Title: Philip Evans: How data will transform business?
 Date: 2014-04-14 07:00
 Author: Aleksejus Kononovicius
-Tags: Business processes, Big data, internet, literature, popular culture, ted.com, video
+Tags: Business processes, Big data, literature, popular culture, ted.com, video
 Slug: philip-evans-kaip-didieji-duomenys-pakeis-versla
 Status: published
 

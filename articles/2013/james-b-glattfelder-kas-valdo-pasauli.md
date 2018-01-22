@@ -1,7 +1,7 @@
 Title: James B. Glattfelder: Who controls the world?
 Date: 2013-06-17 07:30
 Author: Aleksejus Kononovicius
-Tags: Network models, J. B. Glattfelder, open access, internet, popular culture, ted.com, video
+Tags: Network models, J. B. Glattfelder, open access, popular culture, ted.com, video
 Slug: james-b-glattfelder-kas-valdo-pasauli
 Status: published
 

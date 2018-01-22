@@ -1,7 +1,7 @@
 Title: Jens Krause: Swarm Intelligence
 Date: 2014-03-17 07:48
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General models, J. Krause, biology, internet, literature, popular culture, sociology, ted.com, control, video
+Tags: Agent-based models, General models, J. Krause, biology, literature, popular culture, sociology, ted.com, control, video
 Slug: jens-krause-swarm-intelligence
 Status: published
 

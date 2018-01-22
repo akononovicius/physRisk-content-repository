@@ -1,7 +1,7 @@
 Title: B. Mandelbrot: Fractals and the art of roughness
 Date: 2014-09-01 07:50
 Author: Aleksejus Kononovicius
-Tags: Fractals, B. Mandelbrot, internet, literature, popular culture, ted.com, video
+Tags: Fractals, B. Mandelbrot, literature, popular culture, ted.com, video
 Slug: b-mandelbrot-fraktalai-ir-siurkstumo-menas
 Status: published
 

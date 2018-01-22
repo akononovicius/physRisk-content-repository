@@ -1,7 +1,7 @@
 Title: ekonomika.lt: World of finance - too complex to work flawlessly
 Date: 2013-10-21 07:09
 Author: Aleksejus Kononovicius
-Tags: Economics, ekonomika.lt, financial markets, internet
+Tags: Economics, ekonomika.lt, financial markets
 Slug: ekonomika-lt-finansu-pasaulis-pernelyg-sudetingas-kad-veiktu-sklandziai
 Status: published
 
