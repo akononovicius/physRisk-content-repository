@@ -30,7 +30,7 @@ There is a group of such variables, which is closely related to the
 estimation of risk, known as *burst statistics* \[cite
 id="Alaburda2011JDySES, Kaulakys2009AIP"\]. In this text we will discuss
 these variables and their statistical properties. At the end of the text
-we also present interactive java applet, using which one can reproduce
+we also present an interactive HTML5 applet, using which one can reproduce
 burst statistics of certain stochastic model.<!--more-->
 
 Burst statistics
@@ -72,13 +72,13 @@ Numerical evaluation of simple non-linear stochastic model,
 \end{equation}
 
 
-provides \\\(  S \propto T^2  \\\), \\\(  p(\tau) \sim\tau^{-1.5}  \\\), \\\(  p(T) \sim T^{-1.4}  \\\), \\\( p(\theta) \sim \theta^{-1.4}  \\\) relations, where p is
+provides \\\(  S \propto T^2  \\\), \\\(  p(\tau) \sim\tau^{-1.5}  \\\), \\\(  p(T) \sim T^{-1.5}  \\\), \\\( p(\theta) \sim \theta^{-1.5}  \\\) relations, where p is
 probability density function of certain variable. It was shown that
 these relations hold for \\\(  \eta \geq 1 \\\) case \[cite
 id="Kaulakys2009AIP"\] and are very similar, power law nature is
 retained, but powers themselves slightly differ, in \\\(  \eta &lt;1 \\\) case \[cite id="Alaburda2011JDySES"\]. Bellow, see [Fig.
 2](#attachment_1881), we have shown typical results obtained by using
-interactive Java applet provided at [the end of this text](#java).
+interactive applet provided at [the end of this text](#applet).
 
 ![image](/uploads/2011/08/bursts_stats.png "Burst statistics observed in non-linear stochastic
 model. All scales are lg-lg. (a) S versus T, (b) τ , (c) T and (d) θ
@@ -136,10 +136,16 @@ analyzing one minute absolute return time series. All analyzed time
 series were filtered using one hour moving average filter prior to
 analysis. We have set burst threshold value to 1, h=1.
 
-Java applet {#java}
+HTML5 applet {#applet}
 -----------
 
-<div class="applet-embed">
-    <applet code="al" acrhive="/uploads/2011/08/pikaiRetSimpleEn.jar" width="500" height="580"></applet>
-    <p>Above this text you might see a Java applet. Though you might not see it as Java is more-or-less a dying web technology. Namely, most likely you have not installed Java Runtime Environment on your computer, or your browser prevents JRE plugin from running. You could try installing the most recent JRE and/or enabling JRE plugin in your browser, but we do not advise to do this as this might not help and this could cause potential security risks. Please be patient - some day we possibly will update this article with HTML5 applet. If you have programming skills, you may dowload jar archive and open it - inside you'll find the source code for the applet. Feel free to use it.</p>
-</div>
+[html5-interactive
+url="/uploads/models/grk-return-model/bursts.html"
+width="515" height="515" mode="iframe"]
+
+If you came here to find the previously used Java applet, it is still
+available
+[here](/uploads/models/old-java/bursts-en.html).
+The functionality of both, new HTML5 and old Java, applets is almost
+identical.
+

@@ -47,12 +47,10 @@ Articles with old Java applets
     return](/long-range-memory-stochastic-model-return "Long-range memory stochastic model of return"),</del>
 -   <del>[Three group Kirman’s agent based model for financial
     markets](/three-group-kirman-agent-based-model-for-financial-markets "Three group Kirmans agent based model for financial markets"),</del>
--   [Burst statistics in non-linear stochastic
-    models](/burst-statistics-non-linear-stochastic-models "Burst statistics in non-linear stochastic models"),
--   [Multifractality of time
-    series](/multifractality-time-series "Multifractality of time series"),
--   [Newton-Raphson
-    method](/newton-raphson "Newton-Raphson method").
+-   <del>[Burst statistics in non-linear stochastic
+    models](/burst-statistics-non-linear-stochastic-models "Burst statistics in non-linear stochastic models"),</del>
+-   [Multifractality of time series](/multifractality-time-series "Multifractality of time series"),
+-   [Newton-Raphson method](/newton-raphson "Newton-Raphson method").
 
 The updated applets will be checked off the list (similarly to the
 [Unidirectional Kirman
