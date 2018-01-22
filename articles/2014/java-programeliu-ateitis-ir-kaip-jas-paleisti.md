@@ -45,8 +45,8 @@ Articles with old Java applets
     markets](/agent-based-herding-model-financial-markets "Agent based herding model of financial markets")</del>,
 -   <del>[Long-range memory stochastic model of
     return](/long-range-memory-stochastic-model-return "Long-range memory stochastic model of return"),</del>
--   [Three group Kirman’s agent based model for financial
-    markets](/three-group-kirman-agent-based-model-for-financial-markets "Three group Kirmans agent based model for financial markets"),
+-   <del>[Three group Kirman’s agent based model for financial
+    markets](/three-group-kirman-agent-based-model-for-financial-markets "Three group Kirmans agent based model for financial markets"),</del>
 -   [Burst statistics in non-linear stochastic
     models](/burst-statistics-non-linear-stochastic-models "Burst statistics in non-linear stochastic models"),
 -   [Multifractality of time
