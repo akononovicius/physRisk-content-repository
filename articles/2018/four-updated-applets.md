@@ -1,4 +1,4 @@
-Title: Four updated applets
+Title: <del>Four</del> Three updated applets
 Date: 2018-01-23 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, General information, java
@@ -8,7 +8,7 @@ Status: published
 In the recent few days we have replaced another four Java applets
 with their HTML5 counterparts. The following articles were updated:
 
-* [Agent based herding model of financial markets](/agent-based-herding-model-financial-markets "Agent based herding model of financial markets"),
+* <del>[Agent based herding model of financial markets](/agent-based-herding-model-financial-markets "Agent based herding model of financial markets"),</del>
 * [Long-range memory stochastic model of return](/long-range-memory-stochastic-model-return "Long-range memory stochastic model of return"),
 * [Three group Kirman’s agent based model for financial markets](/three-group-kirman-agent-based-model-for-financial-markets "Three group Kirmans agent based model for financial markets"),
 * [Burst statistics in non-linear stochastic models](/burst-statistics-non-linear-stochastic-models "Burst statistics in non-linear stochastic models"),
@@ -26,3 +26,6 @@ I have also made available the code of another "ancient" Java applet,
 implementing vizualization of Mandelbrot and Julia sets, developed for
 Physics of Risk back in the 2006-2008 time period (find the repository
 [here](https://github.com/akononovicius/Mandelbrot-Julia-applet)).
+
+**edit:** A minor factual error -- only three applets were updated recently,
+the fourth one was updated long ago.
