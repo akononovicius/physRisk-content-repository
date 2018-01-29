@@ -1,9 +1,9 @@
-Title: Price formation from game theory perspective
+Title: Price formation from the game theory perspective
 Date: 2018-01-30 08:00
 Author: Aleksejus Kononovicius
 Tags: Economics, market price, free market, supply and demand, competition, game theory, price formation series
 Slug: price-formation-game-theory
-Status: draft
+Status: published
 Image_url: uploads/2018/shift-in-supply.png
 
 Couple of months ago I have started a [series of posts](/tag/price-formation-series/) on price formation in the free market or how and why the free market does (not) work.
@@ -14,7 +14,7 @@ In the [second part]({filename}/articles/2018/price-formation-printing-press.md)
 
 In the [third part]({filename}/articles/2018/cobweb-model.md) of the series we have discussed the implications of the cobweb model, which attempts to explain how the prices and produced quantity converge to equilibrium. We have noted that this convergence is not immediate and may take some time.
 
-Previously we have mentioned that supply and demand laws should be reformulated as areas. As anything above the supply curve is good for the supplier and anything below the the demand curve is good for the customer. What we have not yet talked about is why the curves are where they are.
+Previously we have mentioned that supply and demand laws should be reformulated as areas. As anything above the supply curve is good for the supplier and anything below the demand curve is good for the customer. What we have not yet talked about is why the curves are where they are.
 
 ## Shifts in supply and demand curves
 
