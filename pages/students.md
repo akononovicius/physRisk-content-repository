@@ -7,6 +7,7 @@ We are always happy to accept students from different backgrounds (physics, math
 
 ## Completed thesis, term papers and internships
 
+* During **the autumn of 2017** Edvomas Butiškis, fourth year student at Vilnius University Faculty of Physics, wrote a term paper "Kirman model as a generalized description of herding interactions in social systems". The student was supervised by dr. Vygintas Gontis.
 * On **November 29, 2017** Vaidas Juknevičius defended doctoral dissertation in Physics. Topic: "Spatio-temporal behavior in continuum surface growth models". The doctoral candidate was supervised by Bronislovas Kaulakys.
 * On **November 28, 2017** Rytis Kazakevičius defended doctoral dissertation in Physics. Topic: "Complex nonlinear system affected by colored and non-Gausian external noise". The doctoral candidate was supervised by Julius Ruseckas.
 * During **the spring of 2017** Lukas Bagdonavičius, fourth year student at Vilnius University Faculty of Physics, wrote a bachelor thesis "Power spectrum analysis of a point process driven by the fractional Gaussian noise". The student was supervised by Aleksejus Kononovičius.
