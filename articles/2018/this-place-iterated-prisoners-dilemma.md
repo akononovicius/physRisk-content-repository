@@ -3,7 +3,7 @@ Date: 2018-02-06 08:00
 Author: Aleksejus Kononovicius
 Tags: This Place, game theory, popular culture, video, market price, Economics, free market, prisoner's dilemma, competition, conflicts
 Slug: this-place-iterated-prisoners-dilemma-evolution-cooperation
-Status: draft
+Status: published
 
 Few months ago I have started an [interesting topic about the price formation](/tag/price-formation-series/). This topic is rather important in the contemporary context as it is often claimed (by the media and some lobbyists) that we should "let (the markets) go" (fr. *Laissez-faire*) with out any regulation or influence from the government. Supposedly free markets would discover the fairest prices and allocate the resources to the most capable. Yet for this to be true, some assumptions must hold. One of these assumptions is the presence of fierce competition and this assumption seems to not hold well as in the repeated games cooperation emerges.
 
