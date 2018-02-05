@@ -3,7 +3,7 @@ Date: 2017-10-13
 Slug: students
 Order: 5
 
-We are always happy to accept students from different backgrounds (physics, mathematics, social sciences) who would be interested in complex socio-economic systems. Having good skills in programming or mathematics would be extremely helpful as well as having a good grasp of statistical physics or social sciences, but these are surely not mandatory as with proper determination and with enough effort anything can be learned.
+We are always happy to accept students from different backgrounds (physics, mathematics, social sciences) who would be interested in complex socio-economic systems. Having good skills in programming or mathematics would be extremely helpful as well as having a good grasp of statistical physics or social sciences, but these are surely not mandatory as with proper determination and with enough effort anything can be learnt.
 
 ## Completed thesis, term papers and internships
 
