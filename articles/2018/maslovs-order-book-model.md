@@ -1,12 +1,12 @@
 Title: Maslov's order book model
-Date: 2018-04-24 08:00
+Date: 2018-05-08 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, financial markets, order book
-Slug: Maslovs-order-book-model
+Slug: maslovs-order-book-model
 Status: draft
 Image_url: uploads/2018/maslovs-order-book-model.png
 
-Last time we have discussed what [order book]({filename}/articles/2018/what-the-order-book-is.md) is, and now we will present a simple model for the order book [cite id="Maslov2000PhysA"].
+Previously we have discussed what [order book]({filename}/articles/2018/what-the-order-book-is.md) is. We have also discussed simplified model inspired by physics ([here]({filename}/articles/2018/bak-order-book-model.md). Let us now consider another simple model [cite id="Maslov2000PhysA"], which appears to be a bit more realistic model of the order book.
 
 ## The model
 
