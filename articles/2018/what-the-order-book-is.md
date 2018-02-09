@@ -14,9 +14,11 @@ The most obvious way to differentiate between the orders is buy-sell category. B
 
 The orders may also be either market orders or limit orders. 
 
-**Limit orders** are orders that may take some time to execute, but these orders are executed at some fixed price or a better price. For example a bid limit order could be formulated as "buy stock if someone is willing to sell it at 60 monies per unit or less". Ask limit order could be formulated similarly as "sell stock if someone is willing to buy for 100 monies per unit or less". Until limit orders are executed they are stored in the order book. Of course if at the time of submission of the limit order there is a suitable order of the opposite type (in bid-ask terms), then the limit order is executed immediately.
+**Limit orders** are orders that may take some time to execute, but these orders are executed at some fixed price or a better price (this price is often referred to as **quote**). For example a bid limit order could be formulated as "buy stock if someone is willing to sell it at 60 monies per unit or less". Ask limit order could be formulated similarly as "sell stock if someone is willing to buy for 100 monies per unit or less". Until limit orders are executed they are stored in the order book. Of course if at the time of submission of the limit order there is a suitable order of the opposite type (in bid-ask terms), then the limit order is executed immediately.
 
 Often limit orders have some expiry time or they are removed if the order book grows too much.
+
+**Spread** of the order book is defined as distance between best ask and best bid quotes. Best ask order is the one with lowest quote (left most order), while best bid order is the right most (highest quote) bid order. Spread is always positive as if it would shrink to zero or become negative, then overlapping order would be immediately executed and the spread would be restored to a positive value.
 
 **Market orders** are orders that are executed immediately at the best available price. For example bid market order is executed at the best available ask limit order price. They are much simpler than the limit orders.
 
