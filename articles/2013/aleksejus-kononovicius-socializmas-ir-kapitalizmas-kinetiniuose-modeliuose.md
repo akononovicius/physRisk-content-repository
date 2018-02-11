@@ -64,7 +64,7 @@ appropriately modify the expression for \\\(  \Delta w\_{ij} \\\).
 
 ![Internet folklore: socialism vs
 capitalism.](/uploads/2013/11/socialism-vs-capitalism.jpg "
-Internet folklore on the economical ideologies (taken form
+Internet folklore on the economic ideologies (taken form
 [politifake.org](http://politifake.org))."){#attachment_2584} 
 
 Socialism
@@ -205,7 +205,7 @@ Instead of conclusions
 In this text we have review two possible modifications of [elementary
 kinetic exchange
 models](/elementary-kinetic-exchange-models "Elementary kinetic exchange models").
-We have seen how the simplistic sketches of the main economical
+We have seen how the simplistic sketches of the main economic
 ideologies affect the energy distribution in these models. It appears
 that the model for "socialism" works well, though it somewhat encourages
 laziness. The model for "capitalism" on the other hand severely punishes
