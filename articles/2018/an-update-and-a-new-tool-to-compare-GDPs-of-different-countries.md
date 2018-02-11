@@ -1,0 +1,27 @@
+Title: An update and a new tool to compare GDPs of different countries
+Date: 2018-02-20 08:00
+Author: Aleksejus Kononovicius
+Tags: Economics, Interactive models, A. Kononovicius, Baltic countries, World Bank, V. Gontis, gross domestic product, economic convergence, macroeconomics, politics 
+Slug: an-update-and-a-new-tool-to-compare-GDPs-of-different-countries
+Status: draft
+Image_url: {og_image}
+
+Over the years we have written multiple posts about the
+[economic convergence](/tag/economic-convergence) phenomenon. We have also
+provided a couple of interesting apps, which could be used to study the real
+world data. Recently we have updated one of them with new data from World Bank
+(see [this post]({filename}/articles/2013/the-phenomenon-of-economic-growth-of-baltic-states.md)
+or go straight to [the related app](http://rf.mokslasplius.lt/uploads/models/gdp-comparison/#lang=En)).
+
+Furthermore we have modified the old app to work with somewhat different data.
+Namely, the old app plotted GDP per capita series and the new app plots GDP per
+capita PPP series. GDP PPP is more interesting to some researchers as this GDP
+index is controlled for differing price levels between the countries. 
+
+We invite you to explore the data using the new app!
+
+[html5-interactive
+url="/uploads/models/gdp-comparison/index-ppp.html\#lang=En.countries=132,65,134,177,207,49,92.fromy=1990.toy=-9999.normy=1995"
+mode="img" imgurl="/uploads/models/gdp-comparison/gdp-comparison-ppp.jpg"]
+
+ 
