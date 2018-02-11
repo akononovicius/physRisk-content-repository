@@ -120,14 +120,4 @@ equal to \\\( 1 \\\)).
 src="/uploads/models/cristelli-order-book-model/index.html" width="515"
 height="490" mode="iframe"]
 
-<hr/>
-
-![esf logo]({filename}/uploads/2018/esf.png){.float-right}
-
-**Acknowledgement.** This post was written while reviewing literature for my
-postdoctoral fellowship ''Physical modeling of order-book and opinion dynamics''
-([09.3.3-LMT-K-712-02-0026](http://www.esinvesticijos.lt/lt/applications/sandoriu-knygos-ir-nuomoniu-dinamikos-modeliavimas-fizikos-metodais)).
-The fellowship is funded by the European Social Fund under the No 09.3.3-LMT-K-712
-''Development of Competences of Scientists, other Researchers and Students
-through Practical Research Activities'' measure.
-
+[acknowledge id="postdoc-ak-2017"]
