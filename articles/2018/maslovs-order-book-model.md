@@ -1,5 +1,5 @@
 Title: Maslov's order book model
-Date: 2018-05-08 08:00
+Date: 2018-05-22 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, financial markets, order book
 Slug: maslovs-order-book-model
