@@ -33,3 +33,15 @@ src="/uploads/models/maslov-order-book-model/ob-vizualization-en.html" width="51
 height="360" mode="iframe"]
 
 Note that new bid orders arrive to the left of the last price. While the new ask orders arrive to the right of the last price. Note that there are never bid and ask orders at the same price level. If there would be any "overlaping" limit orders, the orders would be immediately executed and removed from the order book until no overlap is left. Another key thing to note is that always the right-most (largest) bid and the left-most (lowest) ask are executed.
+
+<hr/>
+
+![esf logo]({filename}/uploads/2018/esf.png){.float-right}
+
+**Acknowledgement.** This post was written while reviewing literature for my
+postdoctoral fellowship ''Physical modeling of order-book and opinion dynamics''
+([09.3.3-LMT-K-712-02-0026](http://www.esinvesticijos.lt/lt/applications/sandoriu-knygos-ir-nuomoniu-dinamikos-modeliavimas-fizikos-metodais)).
+The fellowship is funded by the European Social Fund under the No 09.3.3-LMT-K-712
+''Development of Competences of Scientists, other Researchers and Students
+through Practical Research Activities'' measure.
+
