@@ -3,7 +3,7 @@ Date: 2018-02-13 08:00
 Author: Aleksejus Kononovicius
 Tags: Economics, market price, free market, supply and demand, competition, game theory, price formation series
 Slug: price-war-game
-Status: draft
+Status: published
 Image_url: uploads/2018/price-war-game.png
 
 Couple of months ago I have started a [series of posts](/tag/price-formation-series/) on price formation in the free market or how and why the free market does (not) work. This text is a slightly detour from the [part four]({filename}/articles/2018/price-formation-game-theory.md) of the series. In which I would like to delve into interesting properties of the gameI have introduced in the [part four]({filename}/articles/2018/price-formation-game-theory.md).
