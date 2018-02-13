@@ -20,10 +20,10 @@ cause power-law fluctuations.
 We initialize this model by filling it with order uniformly distributed around
 best bids. The original paper did not specify any specific model initialization
 rules, hence we picked on our own. So please allow certain burn-in period for
-the model to allow to its true dynamics (around 5000-10000 time ticks should be
-enough).
+the model to allow for its true dynamics to emerge (around 5000-10000 time ticks
+should be enough).
 
-The price in this model is defined as average between the best bids:
+The price in this model is defined as an average between the best bids:
 
 \begin{equation}
 p(t) = \frac{a_0(t) + b_0(t)}{2} ,
@@ -31,8 +31,8 @@ p(t) = \frac{a_0(t) + b_0(t)}{2} ,
 
 here \\\( a_0(t) \\\) and \\\( b_0(t) \\\) are best ask and bid quotes (prices
 associated with the order) at certain time \\\( t \\\) respectively. We took
-liberty to define the price in case of any side of the order book would be empty
-as last executed order price.
+liberty to define the price, in case of any side of the order book would be emptied,
+as the last executed order price.
 
 In this model quotes are defined in integer price ticks relative to some
 reference level (price at "zero" level). No quote may be expressed in fractional
@@ -67,7 +67,7 @@ If order book would be empty on the respective side, if \\\( b_0(t) \\\) or
 from the last executed order price. This is once again our interpretation, which
 is not present in the original article.
 
-If the order is market order it simply triggers the best opposite quote.
+If the order is market order, then it simply triggers the best opposite quote.
 
 This model also includes simple order cancellation mechanic. Each order is
 canceled after \\\( \tau \\\) time ticks. The original paper argues that for this
@@ -101,8 +101,9 @@ the model in question.
 
 First of all instead traditional price, or log-price,
 series plot on the bottom left you see relative price series plot. Recall that
-this model operates using distances in price ticks and actual price. To get
-price series you should add some fixed number (price at "zero" level).
+this model operates using distances in price ticks from some undefined reference
+level. To get price series you should add some fixed number (price at "zero"
+level).
 
 Another difference is related to how return is measured in
 [cite id="Cristelli2010EPJB"]. In the paper return is measured as absolute
