@@ -26,7 +26,7 @@ In the example below we have shown an order book, which had 10 bid limit orders 
 
 ![Example events in the order book.]({filename}/uploads/2018/order-book.svg.png "Example events in the order book.")
 
-Below you can also find a somewhat interactive preview of the model we will discuss some time in the future (the most impatient will find the detailed description in [cite id="Maslov2000PhysA"]). It shows the same plot as above: number of order vs price. Both limit and market orders here arrive at random and are executed if it is possible. If not, then limit orders are placed into order book (number of bids at given price level are shown as red dots, while number of asks as blue dots). Dark dot corresponds to the last price.
+Below you can also find a somewhat interactive preview of the model we will discuss some time in the future (the most impatient will find the detailed description in [cite id="Maslov2000PhysA"]). It shows the same plot as above: number of order vs price. Both limit and market orders here arrive at random and are executed if it is possible. If not, then limit orders are placed into order book (number of bids at given price level are shown as red dots, while number of asks as blue dots). Dark line is the last price separator.
 
 [html5-interactive
 src="/uploads/models/maslov-order-book-model/ob-vizualization-en.html" width="515"
