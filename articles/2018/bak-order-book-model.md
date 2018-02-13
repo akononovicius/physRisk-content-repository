@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, financial markets, order book
 Slug: noise-traders-only-order-book-model-bak
 Status: draft
-Image_url: uploads/2018/bak-OB-model.png
+Image_url: uploads/2018/bak-ob-model.png
 
 Last time we have discussed what
 [order book]({filename}/articles/2018/what-the-order-book-is.md) is, and now we

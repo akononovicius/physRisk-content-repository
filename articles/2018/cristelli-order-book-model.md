@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, financial markets, order book
 Slug: granularity-order-book-model
 Status: draft
-Image_url: uploads/2018/cristelli-OB-model.png
+Image_url: uploads/2018/cristelli-ob-model.png
 
 We continue our series of posts on [order book models](/tag/order-book/) by
 considering an order book model proposed by Cristelli et al.
