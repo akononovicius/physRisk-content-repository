@@ -77,10 +77,10 @@ variable, \\\( \eta \\\):
 
 \begin{equation}
 \eta = \lfloor - \lambda_0 \ln u \rfloor ,
-\end{equation
+\end{equation}
 
-here \\\( u \\\) is a random variable from U(0,1). The new limit ask quotes are
-drawn from uniform distribution with bounds:
+here \\\( u \\\) is a random variable drawn from \\\( \mathcal{U}(0,1) \\\).
+The new limit ask quotes are drawn from uniform distribution with bounds:
 
 \begin{equation}
 [ b_0(t)+1 , b_0(t) + \eta +1 ] .
