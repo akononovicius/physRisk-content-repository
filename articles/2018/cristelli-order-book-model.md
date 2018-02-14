@@ -1,5 +1,5 @@
 Title: Granularity order book model
-Date: 2018-06-08 08:00
+Date: 2018-06-19 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, financial markets, order book
 Slug: granularity-order-book-model

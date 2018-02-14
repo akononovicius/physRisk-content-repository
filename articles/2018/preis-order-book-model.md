@@ -1,5 +1,5 @@
 Title: Order book model with log-normal depth
-Date: 2018-06-22 08:00
+Date: 2018-07-03 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, financial markets, order book
 Slug: order-book-model-log-normal-depth
@@ -145,7 +145,7 @@ level).
 
 Also instead of return in traditional sense (difference of log-price
 at two different points in time) we have "price change" and use
-\\\( | \Delta t | \\\) notation. This model lacks some important ingredients
+\\\( | \Delta p | \\\) notation. This model lacks some important ingredients
 to reproduce power-law "price change" PDF. Actually "price change" in this
 model is normally distributed.
 
