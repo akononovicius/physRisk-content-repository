@@ -63,8 +63,15 @@ consume the liquidity by submitting market orders with rate \\\( \mu \\\).
 
 Liquidity providers may also consume liquidity by canceling orders at rate
 \\\( \delta \\\). There are numerous distinct ways to implement cancellation of
-the orders. The original paper assumes that orders persisting in the order book
-are removed with the assumed rate.
+the orders. One way is to remove one random limit order, which was not executed
+yet, at some rate. Similarly one could remove a random limit order taking into
+account order's side (first pick random side, then pick random order from that
+side). We have implemented a third alternative - on limit order creation the
+order is assigned both its quote and its expiry time (assuming certain
+cancellation rate). If the order is not executed until its expiry time, then it
+is canceled. From reading the original paper [cite id="Preis2010JPhysConf"] it
+is not clear which interpretation was used to produce the reported results. Some
+parts of the paper hint at the third interpretation, others at the first.
 
 Agents of both types decide to buy or sell depending on their respective
 probabilities. Liquidity provider will submit a buy limit order with probability
