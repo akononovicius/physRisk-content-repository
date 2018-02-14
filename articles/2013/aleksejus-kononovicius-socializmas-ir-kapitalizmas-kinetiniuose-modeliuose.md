@@ -124,7 +124,7 @@ particles to borrow certain amount of energy, \\\(  w\_{max} \\\):
 
 Note that now after interaction it is possible to reach negative energy
 state, which we would like to avoid. Thus if energy of any interacting
-particle goes below zero (\\\(  w\_i(t)&lt;0 \\\) or \\\( w\_j(t)&lt;0 \\\)), then all particles will have to repay its debt
+particle goes bellow zero (\\\(  w\_i(t)&lt;0 \\\) or \\\( w\_j(t)&lt;0 \\\)), then all particles will have to repay its debt
 collectively (lets say it equals \\\(  w\_{neg} \\\)):
 
 
@@ -143,7 +143,7 @@ here \\\(  N\_{bankr} \\\) is a number of bankrupt particles (the energy
 smaller than \\\(  -w\_{max} \\\)). Why is it possible to go bankrupt in
 this model? Note that losses are compensated only if the particles were
 interacting - if they were not interacting, then it is their own
-problem. Observe, in the HTML5 applet below, that the number of
+problem. Observe, in the HTML5 applet bellow, that the number of
 bankrupt particles (in the distribution the remain fixed at \\\( -w\_{max} \\\)) steadily increases and the distribution becomes flatter and
 flatter.
 

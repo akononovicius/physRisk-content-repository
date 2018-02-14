@@ -34,7 +34,7 @@ normalization factor, while \\\(  W(t, I) = \sum\_{i \in I} w\_i(t) \\\) is a to
 
 It should be evident that the energy (wealth) distribution will approach
 uniform distribution then \\\(  N \\\) approaches a number of particles
-in the system. In the applet below you can see that in case \\\( N=2 \\\) we have exponential distribution, while with larger \\\(  N \\\)
+in the system. In the applet bellow you can see that in case \\\( N=2 \\\) we have exponential distribution, while with larger \\\(  N \\\)
 values the uniform part becomes more prominent.
 
 [html5-interactive
@@ -71,7 +71,7 @@ choosing "yes" option, then you may obtain it this way:
 \end{equation}
 
 
-In the applet below you can tune \\\(  p\[N\] \\\) parameters, which
+In the applet bellow you can tune \\\(  p\[N\] \\\) parameters, which
 define the probability that \\\(  N \\\) individuals will meet.
 
 [html5-interactive

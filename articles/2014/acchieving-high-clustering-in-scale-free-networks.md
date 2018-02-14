@@ -154,7 +154,7 @@ As you can see in the figure above the generated network is
 degree distribution is power-law). Yet unlike in
 [Barabasi-Albert](/barabasi-albert-model "Barabasi-Albert model")
 model the clustering coefficient remains almost constant with increasing
-number of nodes \\\(  N \\\). Try the interactive HTML5 applet below.
+number of nodes \\\(  N \\\). Try the interactive HTML5 applet bellow.
 
 [html5-interactive
 src="/uploads/models/scale-free-const-cluster/index.html"

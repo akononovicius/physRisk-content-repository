@@ -85,7 +85,7 @@ and the dollar experienced devaluation in comparison with euro more than
 3 percents. Such US response just witnessed very strong dependence on
 Chinese economic health. The sense of exceptional role of Chinese
 economy on the world was strengthened by continuing decrease of prices
-in commodity market and the price of crude oil, which has fallen below
+in commodity market and the price of crude oil, which has fallen bellow
 the level of 40 dollars.
 
 All these huge global financial fluctuations leave us with very little

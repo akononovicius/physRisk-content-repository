@@ -66,7 +66,7 @@ changing \\\(  \mu \\\):
 \end{equation}
 
 
-As you can see [in a figure below](#attachment_2771), it does work
+As you can see [in a figure bellow](#attachment_2771), it does work
 rather well.
 
 ![Fig.
@@ -97,7 +97,7 @@ near \\\(  1 \\\) with a possible deviation of similar magnitude as
 \\\(  \pm b^2 \\\). If deviations are larger, then Gaussian like
 distribution or divergence of the model might be observed.
 
-We invite you to try HTML5 app below.
+We invite you to try HTML5 app bellow.
 
 [html5-interactive
 url="/uploads/models/ngarch11/index.html" width="470"

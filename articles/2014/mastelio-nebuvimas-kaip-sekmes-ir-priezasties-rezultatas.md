@@ -104,7 +104,7 @@ important.](/uploads/2014/04/d-5.jpg "
 Intermediate value of δ (δ=5). Geometric and network distances
 are equally important."){#attachment_2661} 
 
-We invite readers to test this model using HTML5 applet below.
+We invite readers to test this model using HTML5 applet bellow.
 
 [html5-interactive
 src="/uploads/models/router-network/index.html"

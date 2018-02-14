@@ -31,7 +31,7 @@ behavior in ecosystem. Though the mechanics are slightly
 over-simplified.
 
 First we start with the two types of agents - prey (white square in the
-applet below) and predator (black square). The agents move one the
+applet bellow) and predator (black square). The agents move one the
 square lattice, which is under the periodic boundary condition. This
 means that the agent exiting trough the bottom wall of the lattice
 reenters lattice at the top. Exiting through the top causes reentrance

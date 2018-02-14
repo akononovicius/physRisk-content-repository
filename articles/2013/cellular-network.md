@@ -31,7 +31,7 @@ in the [core-periphery
 networks](/core-periphery-network-models "Core-periphery network models")),
 which are connected with distinct topology. The distinctness of the
 topology might be minor - larger density of the edges between the nodes
-might be enough. Look at [Fig. 1](#attachment_2510) below. The separate
+might be enough. Look at [Fig. 1](#attachment_2510) bellow. The separate
 group of nodes are so well pronounced that it appears that they were
 grown separately and only then joined to form the network.
 

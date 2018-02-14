@@ -92,7 +92,7 @@ you want to know more).
 
 We have written above that the core-periphery networks are almost
 indestructible. Namely they are immune to node removal. You can test
-this claim using the app below. Your aim should be a destruction of the
+this claim using the app bellow. Your aim should be a destruction of the
 network without fully destroying its core. The nodes are destroyed by
 pressing "X" button, which is found near every node. If it is necessary
 you can move the nodes by dragging, and also restart app by pressing

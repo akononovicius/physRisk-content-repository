@@ -11,7 +11,7 @@ Previously we have already linked a video about [the most well known and counter
 Bayes theorem]({filename}/articles/2017/veritasium-bajeso-spastai.md)
 and now we share another video discussing another well known statistics paradox.
 
-As described in One Minute Physics video below, Simpson's paradox occurs when you have data
+As described in One Minute Physics video bellow, Simpson's paradox occurs when you have data
 set, which contains multiple groups. When analyzing groups separately one trend could be
 observed (the more you earn the less happy you become), while after combining the groups the
 trend disappears or is reversed.

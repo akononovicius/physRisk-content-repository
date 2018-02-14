@@ -23,7 +23,7 @@ The model
 ---------
 
 Imagine we have a square auditorium of certain size (it is choosable in
-the app below). All of the chair in the auditorium are taken by agents,
+the app bellow). All of the chair in the auditorium are taken by agents,
 who have to decide to join standing ovation (green) or not to (red). Of
 course in real world people would eventually leave the auditorium (and
 ones who have not liked the play earlier), but for the sake of
@@ -34,7 +34,7 @@ likes the play. This "likeability" is an internal parameter, which
 differs for all agents and which is drawn from uniform distribution
 (restricted in \\\(  \[0,1\] \\\)). Yet the stand up threshold is a
 global model parameter, \\\(  T \\\). The larger \\\(  T \\\), the less
-agents will stand up. The internal "likeability," in the app below is
+agents will stand up. The internal "likeability," in the app bellow is
 shown by adjusting luminosity of the colors (the darker the color is,
 the less agent likes the play).
 
@@ -45,7 +45,7 @@ he will change his behavior. Namely if majority of neighbors are
 applauding, then the agent will also join applause. If majority of
 neighbors are sitting silently, then he will also sit. The model has an
 important catch - one agent can see only limited amount of other agents.
-His field of view is limited (see figure below).
+His field of view is limited (see figure bellow).
 
 ![vision cone](/uploads/2017/02/som-matymo-kugis.png "Agent's field of view is a cone. Vision radius is a choosable model parameter (cases up until r=3 are shown)."){#attachement_3014}
 

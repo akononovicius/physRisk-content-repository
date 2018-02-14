@@ -14,7 +14,7 @@ In the [second part]({filename}/articles/2018/price-formation-printing-press.md)
 
 In the [third part]({filename}/articles/2018/cobweb-model.md) of the series we have discussed the implications of the cobweb model, which attempts to explain how the prices and produced quantity converge to equilibrium. We have noted that this convergence is not immediate and may take some time.
 
-Previously we have mentioned that supply and demand laws should be reformulated as areas. As anything above the supply curve is good for the supplier and anything below the demand curve is good for the customer. What we have not yet talked about is why the curves are where they are.
+Previously we have mentioned that supply and demand laws should be reformulated as areas. As anything above the supply curve is good for the supplier and anything bellow the demand curve is good for the customer. What we have not yet talked about is why the curves are where they are.
 
 ## Shifts in supply and demand curves
 
@@ -49,7 +49,7 @@ If both are selling at low price, then their profits will be:
 P_{LL} = 50 \times 3 - 100 \times 0.5 = 100 .
 \end{equation}
 
-We can formulate this situation as a game known as [prisoner's dilemma](/tag/prisoners-dilemma/). See figure below for the payoff matrix of the game.
+We can formulate this situation as a game known as [prisoner's dilemma](/tag/prisoners-dilemma/). See figure bellow for the payoff matrix of the game.
 
 ![A game in which companies A and B decide whether to charge high or low prices.](/uploads/2018/price-competition.png "A game in which companies A and B decide whether to charge high or low prices.")
 

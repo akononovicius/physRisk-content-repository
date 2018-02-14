@@ -21,7 +21,7 @@ Let us start by discussing **the law of demand**. This law of economics
 states that the pricier the product is (all other things being equal)
 the less people will be willing to buy it. This seems rather reasonable,
 because if the only difference is price, then it would be rational to
-choose cheaper product. In the figure below we have shown a linear
+choose cheaper product. In the figure bellow we have shown a linear
 demand curve, from the graph it can be easily inferred that the priciest
 product is the least demanded, while the cheapest is the most demanded.
 In general the demand curve could be any non-increasing function, e.g.,
@@ -32,7 +32,7 @@ In general the demand curve could be any non-increasing function, e.g.,
 Evidently **the law of supply** is of the opposite form. This law of
 economics states that the more people are willing to pay for the
 product, the larger quantity of the product will be produced (as the
-producer will try to maximize his gains). In the figure below we have
+producer will try to maximize his gains). In the figure bellow we have
 shown a linear supply curve, from the graph it is easy to infer that the
 larger the price paid for the product, the more of it will be produced.
 In general the supply curve could by any non-decreasing curve, e.g,
@@ -63,7 +63,7 @@ are satisfied.
 **Note (written on 2017-12-19):** After revisiting the topic I have noticed a rather obvious
 thing -- why the laws are stated as curves? They should be stated as
 areas. Because you would buy the item if it costs as much as you imagine
-it is worth or cheaper (a point below the demand curve). Also you would
+it is worth or cheaper (a point bellow the demand curve). Also you would
 be willing to sell item at some reasonable price or at larger price (a point
 above the supply curve). In case of supply law a reasonable explanation
 is competition -- you can not raise price too much as your competitors

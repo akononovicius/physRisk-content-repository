@@ -25,7 +25,7 @@ Watts-Strogatz model and the properties of the small world networks
 
 Let us recall that Erdos-Renyi networks were generated completely at
 random. In this sense the Watts-Strogatz model is almost exact opposite.
-During the first step we select a known network topology with \\\( N \\\) nodes. Note that in the applet below we choose the ring topology,
+During the first step we select a known network topology with \\\( N \\\) nodes. Note that in the applet bellow we choose the ring topology,
 while other topologies are also possible (e.g., the node can be
 connected not to the two nearest nodes, but to four). Next we iterate
 trough all nodes in the topology and with probability \\\(  p \\\) create

@@ -30,7 +30,7 @@ done by Alfarano and Lux in \[cite id="Alfarano2005CompEco"\]. Authors
 of \[cite id="Alfarano2005CompEco"\] in their derivation follow the
 underlying ideas of *birth-death processes* or *one-step processes*,
 overview of which is given in most of handbooks concerning Stochastic
-Calculus. Thus if you want to get more familiar with the ideas below
+Calculus. Thus if you want to get more familiar with the ideas bellow
 you shoud see \[cite id="Gardiner2009Springer"\] or other similar works.
 
 Alfarano and Lux start by simplifying notation, used in [the previous
@@ -215,7 +215,7 @@ and in the limit of high \\\(  N \\\)
 
 
 here \\\(  W \\\) is Wiener-Brownian process. This, final, equation is
-solved in the java applet below.
+solved in the java applet bellow.
 
 Observed population fraction dynamics
 -------------------------------------
@@ -241,7 +241,7 @@ cases)."){#attachment_788}
 Population fraction SDE Applet
 ------------------------------
 
-In the applet below we solve aforementioned Langevin equation using
+In the applet bellow we solve aforementioned Langevin equation using
 simple Euler-Maruyama method (see \[cite id="Kloeden1999Springer"\]).
 Using this method we transform stochastic differential equation into
 *difference equation*

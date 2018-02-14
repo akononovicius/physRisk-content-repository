@@ -49,7 +49,7 @@ id="Prasad2003IJResMar"\].
 
 The links to other websites above are available only in Lithuanian.
 Writing this text I am mostly concerned with Lithuania, though the
-actual ideas below are not geo-centric. Either way for serious analysis
+actual ideas bellow are not geo-centric. Either way for serious analysis
 in English I refer you to the [cited works](#cited).
 
 Introducing piracy into the Bass model

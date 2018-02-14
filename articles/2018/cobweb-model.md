@@ -18,7 +18,7 @@ In this installment (a third part) of the series, we discuss another classical, 
 
 Let us assume that we are producers of lettuce, a product which is almost always in constant demand, first year we decide to grow some patches and see what happens. We must make some guesses as we do not know the demand law. So for the first time we produce \\\( Q_0 \\\) units of lettuce. As we sell them, we notice that the demand for the lettuce is higher, thus we will increase the price, \\\( P_0 \\\), until the demand is roughly equal to our supply. Next year, being smart and self-interested farmers we will consider our previous experience and plant significantly more lettuce. We will pick the new quantity, \\\( Q_1 \\\), based on our production intent (supply law) and the price previous year, \\\( Q_1 = Q_s(P_0) \\\). Yet we will most likely over-produce, hence we will have to sell our lettuce at a lower price \\\( P_1 \\\). But the next year we will be even smarter and more knowledgeable -- \\\( Q_2 = Q_s(P_1) \\\). And so on, until at some point we will arrive near the equilibrium point.
 
-This logic, also known as cobweb model, can be nicely visualized using cobweb plot, which you should see in the interactive applet below. Here the gray curve marks the trajectory of price and quantity.
+This logic, also known as cobweb model, can be nicely visualized using cobweb plot, which you should see in the interactive applet bellow. Here the gray curve marks the trajectory of price and quantity.
 
 [html5-interactive
 src="/uploads/models/cobweb-model/index.html" width="405"

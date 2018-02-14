@@ -34,7 +34,7 @@ polling would not provide efficient decision making, one could try to
 predict the future based on the recent history. Note that similar
 behavior is undertaken by chartists or technical traders in the
 financial markets. In this game, based on recent history agents make
-their choice based on their best performing strategy. In Figures below
+their choice based on their best performing strategy. In Figures bellow
 you can see the typical decision making during each "evening."
 
 ![Fig

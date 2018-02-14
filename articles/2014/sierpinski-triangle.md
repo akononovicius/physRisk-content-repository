@@ -27,7 +27,7 @@ construction algorihtm and it is formulated as:
 -   Remove the central smaller triangle - leave only ones on the sides.
 -   Repeat steps 2 and 3 with each of the remaining smaller triangles.
 
-Observe this algorithm in HTML5 app below. Using buttons "+" and "-"
+Observe this algorithm in HTML5 app bellow. Using buttons "+" and "-"
 you can influence the maximal precision (recursive depth) in which the
 fractal is drawn. Observe self-similarity of the structure.
 
@@ -46,7 +46,7 @@ Alternatively you could do the following:
     form a base, while the third should be placed on top.
 -   Repeat step 2 with all three copies.
 
-Observe this algorithm in HTML5 app below. Once again use buttons "+"
+Observe this algorithm in HTML5 app bellow. Once again use buttons "+"
 and "-" to influence the maximal precision (recursive depth) in which
 the fractal is drawn. Observe how a square starts to look like
 Sierpinski triangle.
@@ -71,7 +71,7 @@ thing is three main points. The algorithm itself is formulated as:
     point. Mark this point. This point is our new current position.
 -   Repeat steps 3-4 with the new current positions.
 
-In the HTML5 app below we have show the main points as larger squares
+In the HTML5 app bellow we have show the main points as larger squares
 colored in three colors - red, green and blue. These colors ar used when
 select color for the marking of the new current position (step 4). Note
 that colors stay separated and are near the appropriate main point.

@@ -9,7 +9,7 @@ In
 mathematics and computation theory there are a class of cellular
 automatons which are known as elementary automatons. This class of
 cellular automatons is restricted to the one dimensional grid (in the
-figures below the second dimension, ordinate (vertical) axis, is time)
+figures bellow the second dimension, ordinate (vertical) axis, is time)
 with cells either on or off. Another important simplification is that
 the actual state of the cell at given time, \\\(  x\_{i,t}  \\\),
 depends only on the previous state of the same cell and the previous
@@ -17,7 +17,7 @@ states of its immediate neighbors, i.e. on \\\( \{x\_{i-1,t-1},x\_{i,t-1},x\_{i+
 and simplifications, generally speaking cellular automatons might evolve
 in the infinite dimensions, have infinite neighborhoods and have
 limitless number of possible cell states, these cellular automatons
-appear to be very simple, though as we show below they can replicate
+appear to be very simple, though as we show bellow they can replicate
 very complex and even chaotic behavior.<!--more-->
 
 These cellular automatons in some literature are named Wolfram's
@@ -28,7 +28,7 @@ explain some of the complex phenomena, while the world, be it nature or
 the Universe, itself loves elegant simplicity. Thus, as he claims, it is
 the best choice to look for the elementary laws behind the world and the
 elementary cellular automaton framework might be the one to provide
-interesting results. Actually as we show below this claim is at least
+interesting results. Actually as we show bellow this claim is at least
 partly true as even elementary cellular automatons might reproduce very
 complex and even chaotic behavior.
 
@@ -44,7 +44,7 @@ requirement follows from the \\\(  2^3=8  \\\) (it covers all
 possible configurations). Thus there is a possibility of 256 rules
 describing global behavior, \\\(  2^8=256  \\\) (total number of all
 possible neighborhood rule configurations). One of the possible global
-rules is shown below in [Fig. 1](#attachment_2264).
+rules is shown bellow in [Fig. 1](#attachment_2264).
 
 ![image](/uploads/2012/01/elementary-ca-rule110.png "Rule 110 of elementary cellular automaton. In the first
 line you can see eight distinct sets of the initial conditions, i.e. all
@@ -99,9 +99,9 @@ Not all of the 256 possible global rules provide interesting structures.
 Some the rules are trivial - they either disappear immediately or with
 some small oscillations dissipate towards some fixed structure. But
 there also are some interesting structures - periodic, chaotic and long
-lasting complex structures. In the table below you can see a list of
+lasting complex structures. In the table bellow you can see a list of
 some of the more interesting rules which we recommend to try using in
-the applet below.
+the applet bellow.
 
   Rules                                                                                      |Structure if the input is one on-cell
   -------------------------------------------------------------------------------------------|---------------------------------------

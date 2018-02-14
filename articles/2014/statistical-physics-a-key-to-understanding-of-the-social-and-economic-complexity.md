@@ -21,7 +21,7 @@ on!<!--more-->
 
 Imagine - you are currently in the theater. You have just seen a play.
 While it wasn't that bad, it still wasn't that good. Still somebody have
-surely enjoyed it! A girl couple of rows below you stood up and started
+surely enjoyed it! A girl couple of rows bellow you stood up and started
 claping (loudly and intensively). What happens next? She looks at a boy
 sitting near her and says something to him. Whatever she said, it worked
 like a charm as the boy also stands up and starts clapping (though not
@@ -130,8 +130,8 @@ etc.).
 Structures also form as a result of our social life. In previous century
 it was noted that social interactions may be visualized as graph. Graph
 - is a mathematical object, which is composed of nodes (dots in the
-figure below), in social context - individuals, and edges (lines in the
-figure below), in social context - existing social relationship (e.g.,
+figure bellow), in social context - individuals, and edges (lines in the
+figure bellow), in social context - existing social relationship (e.g.,
 family ties, friendship, being acquaintances or co-workers). Social
 graphs are frequently referred to as social networks or simply networks.
 Thus in science this term appeared earlier than *Facebook*, *Google+* or

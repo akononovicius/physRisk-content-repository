@@ -49,7 +49,7 @@ in the above \\\( P_{i,t} \\\) is a fraction of agents having wealth \\\( i \\\)
 \begin{equation}
 P_{i,0} = \delta(W_0-i) .
 \end{equation}
-Solving these equations allows to obtain the same result, but noticeably faster. Python code solving these equations is given below. Note that this function returns a histogram and not an array of agents' wealth as the other functions in this article.
+Solving these equations allows to obtain the same result, but noticeably faster. Python code solving these equations is given bellow. Note that this function returns a histogram and not an array of agents' wealth as the other functions in this article.
 ```python
 import numpy as np
 
@@ -70,7 +70,7 @@ def evaluateModel(nAgents,initialWealth,nSteps):
     return wealth
 ```
 
-Note that this formulation not only helps to obtain the results faster, but also reveals that the initial model is equivalent to a Brownian motion with absorbing boundaries. This provides intuition on how the temporal solutions should look like. And what we get from numerical simulation matches the theoretical expectation (see figure below).
+Note that this formulation not only helps to obtain the results faster, but also reveals that the initial model is equivalent to a Brownian motion with absorbing boundaries. This provides intuition on how the temporal solutions should look like. And what we get from numerical simulation matches the theoretical expectation (see figure bellow).
 
 ![Evolution of the distribution of wealth in the initial model. The PDF becomes broader and its middle peak value starts to move to the middle. After some time it starts to decline and boundary peaks (at 0 and total wealth) start to become more prominent. Figure was obtained by setting nAgents=25, wealth=4 and nSteps to the specified t values.](/uploads/2017/12/rgr-initial-idea-time-pdf.png "Evolution of the distribution of wealth in the initial model. The PDF becomes broader and its middle peak value starts to move to the middle. After some time it starts to decline and boundary peaks (at 0 and total wealth) start to become more prominent. Figure was obtained by setting nAgents=25, wealth=4 and nSteps to the specified t values.")
 

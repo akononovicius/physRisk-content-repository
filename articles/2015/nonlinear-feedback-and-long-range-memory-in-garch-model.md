@@ -48,7 +48,7 @@ id="Kaulakys2004PhysRevE,Kaulakys2006PhysA,Kaulakys2009JStatMech"\],
 
 
 we restrict ourselves to \\\(  \eta &gt; 1 \\\) or, alternatively,
-\\\(  \mu &gt; 2 \\\). HTML5 applet below is further restricted to
+\\\(  \mu &gt; 2 \\\). HTML5 applet bellow is further restricted to
 integer values, but this was done just for the sake numerical
 efficiency.
 
@@ -92,10 +92,10 @@ model."){#attachment_2774}
 \\\(  A \\\) influences the placement of cut-off, while \\\(  C \\\)
 describes how "prominent" is the exponential cut-off. Once again, if
 \\\(  C \neq 0 \\\), interesting power law behavior is destroyed, thus
-we have to require that \\\(  c\_1 \approx b\_1\bar{\omega}\_\mu \\\). Note that in the HTML5 app below \\\(  c\_1 \\\)
+we have to require that \\\(  c\_1 \approx b\_1\bar{\omega}\_\mu \\\). Note that in the HTML5 app bellow \\\(  c\_1 \\\)
 value is set in respect to \\\(  b\_1 \\\).
 
-We invite you to try interactive HTML5 applet below.
+We invite you to try interactive HTML5 applet bellow.
 
 [html5-interactive
 url="/uploads/models/ngarch11/index2-en.html" width="470"
