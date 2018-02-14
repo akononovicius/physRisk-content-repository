@@ -18,7 +18,7 @@ that for every possible quote there is a single limit order at that quote. All
 quotes bellow current price are filled with bid market orders, while all quotes
 above current price are filled with ask market orders.
 
-Market orders arrive at rates \\\( \lambda_b \\\) and \\\( \lambda_s \\\) for
+Market orders arrive at rates \\\( \lambda^{-} \\\) and \\\( \lambda^{+} \\\) for
 buy and sell orders respectively. As soon as market order arrives it consumes
 best limit order of the opposite side. As soon as the limit order is consumed
 market maker places another limit order. The new limit order replaces the old
