@@ -60,8 +60,11 @@ takers. There are \\\( N_a \\\) agents of each of these types (hence in total
 there are \\\( 2 N_a \\\) agents). Liquidity providers provide liquidity by
 submitting limit orders at rate \\\( \alpha \\\). While liquidity takers
 consume the liquidity by submitting market orders with rate \\\( \mu \\\).
+
 Liquidity providers may also consume liquidity by canceling orders at rate
-\\\( \delta \\\).
+\\\( \delta \\\). There are numerous distinct ways to implement cancellation of
+the orders. The original paper assumes that orders persisting in the order book
+are removed with the assumed rate.
 
 Agents of both types decide to buy or sell depending on their respective
 probabilities. Liquidity provider will submit a buy limit order with probability
