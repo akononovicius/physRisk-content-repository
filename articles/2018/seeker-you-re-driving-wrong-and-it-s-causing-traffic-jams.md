@@ -1,5 +1,5 @@
 Title: Seeker: You’re Driving Wrong and It’s Causing Traffic Jams
-Date: 2018-02-28 08:00
+Date: 2018-03-20 08:00
 Author: Aleksejus Kononovicius
 Tags: Seeker, traffic, video
 Slug: seeker-you-re-driving-wrong-and-it-s-causing-traffic-jams
