@@ -1,7 +1,7 @@
 Title: Order book model with log-normal depth
-Date: 2018-07-03 08:00
+Date: 2018-06-19 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, financial markets, order book
+Tags: Interactive models, financial markets, order book, order book depth
 Slug: order-book-model-log-normal-depth
 Status: draft
 Image_url: uploads/2018/preis-ob-model.png

@@ -1,7 +1,7 @@
 Title: "Noise traders only" order book model by Bak et al.
-Date: 2018-05-22 08:00
+Date: 2018-05-08 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, financial markets, order book
+Tags: Interactive models, financial markets, order book, Per Bak, noise traders
 Slug: noise-traders-only-order-book-model-bak
 Status: draft
 Image_url: uploads/2018/bak-ob-model.png
