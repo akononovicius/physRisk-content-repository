@@ -28,12 +28,12 @@ In the [previous text]({filename}/articles/2018/what-the-order-book-is.md) we ha
 
 [html5-interactive
 src="/uploads/models/maslov-order-book-model/ob-vizualization-en.html" width="515"
-height="360" mode="iframe"]
+height="340" mode="iframe"]
 
 The other app we would like to share in this post is more flexible, it allows to change the four parameters discussed in the text. You can change the parameter values and observe how they impact the relevant, log-price and absolute return, time series (bottom figures) as well as the main statistical properties, the probability density function and the power spectrum density, of the absolute return time series (top figures).
 
 [html5-interactive
 src="/uploads/models/maslov-order-book-model/index.html" width="515"
-height="490" mode="iframe"]
+height="500" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017"]

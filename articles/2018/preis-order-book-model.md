@@ -131,7 +131,7 @@ quickly, while the other decays significantly slower).
 
 [html5-interactive
 src="/uploads/models/preis-order-book-model/ob-vizualization-en.html"
-width="515" height="385" mode="iframe"]
+width="515" height="400" mode="iframe"]
 
 The second applet is in certain sense traditional Physics of Risk applet for all
 financial market models. Though there are some specific differences related to

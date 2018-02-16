@@ -40,7 +40,7 @@ boundary between the sides of the order book.
 
 [html5-interactive
 src="/uploads/models/emm-ob-model/ob-vizualization-en.html"
-width="515" height="335" mode="iframe"]
+width="515" height="340" mode="iframe"]
 
 The second applet is in certain sense traditional Physics of Risk applet for all
 financial market models. Though there are some specific differences related to

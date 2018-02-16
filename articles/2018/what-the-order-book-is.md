@@ -30,7 +30,7 @@ Bellow you can also find a somewhat interactive preview of the model we will dis
 
 [html5-interactive
 src="/uploads/models/maslov-order-book-model/ob-vizualization-en.html" width="515"
-height="360" mode="iframe"]
+height="340" mode="iframe"]
 
 Note that new bid orders arrive to the left of the last price. While the new ask orders arrive to the right of the last price. Note that there are never bid and ask orders at the same price level. If there would be any "overlaping" limit orders, the orders would be immediately executed and removed from the order book until no overlap is left. Another key thing to note is that always the right-most (largest) bid and the left-most (lowest) ask are executed.
 
