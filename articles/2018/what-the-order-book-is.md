@@ -1,5 +1,5 @@
 Title: What the order book is?
-Date: 2018-04-24 08:00
+Date: 2018-05-01 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, financial markets, order book, Walrasian Market
 Slug: what-the-order-book-is
