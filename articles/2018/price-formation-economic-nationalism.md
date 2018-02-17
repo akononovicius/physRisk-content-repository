@@ -12,7 +12,7 @@ Let us deviate from the topic by discussing the proposed alternative to
 the "neo-liberal" idea of the globalization and the free trade.
 
 **Note** that in the post that follows I will not follow the usual practice of
-listing (referencing) sources. Most of the sources I found while exploring this
+listing (referencing) the sources. Most of the sources I found while exploring this
 topic are extremely questionable as they try to promote ideological agenda
 instead of exploring ideas behind them.
 
@@ -21,8 +21,6 @@ we should not turn to economic nationalism. It is rather bad idea, which works
 only for strong nations, which are able to exploit more vulnerable nations.
 
 ## What economic nationalism actually is?
-
-![Confused]({filename}/uploads/2018/confused-pixabay-cc0.jpg)
 
 The question is actually surprisingly quite a tough one,
 as people who are openly economic nationalists fail to as openly provide
@@ -40,8 +38,10 @@ could allow their nation to prosper at the expense of the other nations.
 Supposedly economic nationalism is different from, and thus much better than,
 other economic ideologies, because it embraces thousands of years of experience.
 
-Strangely this experience is not recognized by other economists, despite of
-hundreds of research. This narrative inspires to make a comparison with folk
+![Confused]({filename}/uploads/2018/confused-pixabay-cc0.jpg)
+
+Strangely this experience is not recognized by the other economists, despite of
+hundreds years of research. This narrative inspires to make a comparison with folk
 medicine. Folk medicine has its long history, but not much of its "achievements"
 were confirmed by medical science. So if you really need help, you should turn
 to a medical doctor and not to the "experienced" grandma. I guess the same goes,
