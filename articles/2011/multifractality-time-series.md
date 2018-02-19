@@ -369,4 +369,5 @@ width="515" height="505" mode="iframe"]
 If you came here to find the previously used Java applet, it is still
 available [here](/uploads/models/old-java/multifractal-en.html). The
 functionality of both applets is almost identical, though some noteable
-artifacts (the reasons so far are not known to us) appear in the new app.
+artifacts (appearing for the reasons so far are not known to us) are
+present in the new app.
