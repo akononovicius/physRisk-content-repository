@@ -343,7 +343,7 @@ Applet
 ------
 
 GUI of the applet bellow is reminiscent of the previous
-[applet](/agent-based-herding-model-financial-markets#attachement_1787 "Applet of Agent based herding model of financial markets on Physics of Risk"),
+[applet](/agent-based-herding-model-financial-markets),
 which was published together with the text on Agent based herding model
 of financial markets. Thus there is no point in discussing its input
 parameters. Furthermore most of the input parameters are directly
@@ -352,7 +352,8 @@ related to the model discussed in the same text.
 The only important differences are that this applet outputs
 multifractality spectra and that it allows to deform model time series.
 It is possible to remove correlations by shuffling time series and
-distort the underlying distribution (values are remapped to the \\\( \[0,1\] \\\) value region). Deformation of time series is very important
+distort the underlying distribution (values are remapped to the
+\\\( \[0,1\] \\\) value region). Deformation of time series is very important
 and useful function as multifractal features might be observed due to
 correlations (model dynamics) and broad underlying distribution \[cite
 id="Kantelhardt2002PhysA"\]. It is also known that multifractality can
@@ -361,8 +362,11 @@ id="passos2011"\], though we don't analyze this as it is already firmly
 confirmed that in this model dependence of multifractality on the number
 of agents is negligible \[cite id="Kononovicius2011LNFK"\].
 
-<div class="applet-embed">
-    <applet code="al" acrhive="/uploads/2011/10/multiFracEn.jar" width="500" height="330"></applet>
-    <p>Above this text you might see a Java applet. Though you might not see it as Java is more-or-less a dying web technology. Namely, most likely you have not installed Java Runtime Environment on your computer, or your browser prevents JRE plugin from running. You could try installing the most recent JRE and/or enabling JRE plugin in your browser, but we do not advise to do this as this might not help and this could cause potential security risks. Please be patient - some day we possibly will update this article with HTML5 applet. If you have programming skills, you may dowload jar archive and open it - inside you'll find the source code for the applet. Feel free to use it.</p>
-</div>
+[html5-interactive
+url="/uploads/models/kirman-sde-ret/multifractal.html"
+width="515" height="505" mode="iframe"]
 
+If you came here to find the previously used Java applet, it is still
+available [here](/uploads/models/old-java/multifractal-en.html). The
+functionality of both applets is almost identical, though some noteable
+artifacts (the reasons so far are not known to us) appear in the new app.
