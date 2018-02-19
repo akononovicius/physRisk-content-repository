@@ -121,7 +121,7 @@ To start working with fractal generator press "Open NeRFEx in new
 window". Pop-up shall open and you'll be see main GUI of NeRFEx.
 
 <div class="applet-embed">
-    <applet code="difpolim" acrhive="/uploads/2011/05/NeRFExAppletEn.jar" width="450" height="100"></applet>
+    <applet code="difpolim" archive="/uploads/2011/05/NeRFExAppletEn.jar" width="450" height="100"></applet>
     <p>Above this text you might see a Java applet. Though you might not see it as Java is more-or-less a dying web technology. Namely, most likely you have not installed Java Runtime Environment on your computer, or your browser prevents JRE plugin from running. You could try installing the most recent JRE and/or enabling JRE plugin in your browser, but we do not advise to do this as this might not help and this could cause potential security risks. Please be patient - some day we possibly will update this article with HTML5 applet. If you have programming skills, you may dowload jar archive and open it - inside you'll find the source code for the applet. Feel free to use it.</p>
 </div>
 
