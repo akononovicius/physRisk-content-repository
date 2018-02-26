@@ -3,7 +3,7 @@ Date: 2018-02-27 08:00
 Author: Aleksejus Kononovicius
 Tags: Economics, competition, price formation series, economic nationalism, protectionism, mercantilism
 Slug: price-formation-should-we-turn-to-economic-nationalism
-Status: draft
+Status: published
 Image_url: uploads/2018/confused-pixabay-cc0.jpg
 
 Couple of months ago I have started a [series of posts](/tag/price-formation-series/)
