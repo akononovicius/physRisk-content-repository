@@ -1,9 +1,9 @@
 Title: Concluding remarks on price formation
 Date: 2018-03-13 08:00
 Author: Aleksejus Kononovicius
-Tags: Economics, market price, free market, competition, price formation series, economic nationalism, protectionism, mercantilism
+Tags: Economics, market price, free market, competition, price formation series, economic nationalism
 Slug: price-formation-concluding-remarks
-Status: draft
+Status: published
 
 Couple of months ago I have started a [series of posts](/tag/price-formation-series/) on price formation in the free market or how and why the free market does (not) work.
 
@@ -21,7 +21,7 @@ Through out this series of posts we have discussed few simple models lying behin
 
 ## So what should we do?
 
-Debate between the free market ideology and economic nationalists suggests that these are the only two possible choices. But such claims are [wrong](https://en.wikipedia.org/wiki/False_dilemma). We are not forced to choose between two alternatives, we should figure out a reasonable middle (or even "perpendicular") way. We should approach economics as a complex system. We should understand that models work and fail for some reasons, which need to be understood. The key to this is understanding that the reasons lie in the assumptions of the models. As the assumption are violated, the models fail.
+Debate between the free market ideology and [economic nationalists]({filename}/articles/2018/price-formation-economic-nationalism.md) suggests that these are the only two possible choices. But such claims are [wrong](https://en.wikipedia.org/wiki/False_dilemma). We are not forced to choose between two alternatives, we should figure out a reasonable middle (or even "perpendicular") way. We should approach economics as a complex system. We should understand that models work and fail for some reasons, which need to be understood. The key to this is understanding that the reasons lie in the assumptions of the models. As the assumption are violated, the models fail.
 
 Having all of this in mind it is rather easy to conclude that we must stay with the free markets, but we must adjust our understanding of what that means. Anarchism as well as strict regulation will definitely fail, thus reasonable regulation (guided by science and not ideological BS) is a must.
 
