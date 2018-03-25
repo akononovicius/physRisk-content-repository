@@ -14,7 +14,6 @@ Currently this website is maintaned by [Aleksejus Kononovičius](http://kononovi
 * [prof. habil. dr. Bronislovas Kaulakys](http://www.itpa.lt/kaulakys/)
 * [dr. Vygintas Gontis](http://gontis.eu)
 * [dr. Julius Ruseckas](http://web.vu.lt/tfai/j.ruseckas/)
-* dr. Vaidas Juknevičius
 * dr. Rytis Kazakevičius
 * [dr. Aleksejus Kononovičius](http://kononovicius.lt)
 
