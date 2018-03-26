@@ -1,9 +1,9 @@
-Title: Additional material on price formation
+Title: Additional materials on price formation
 Date: 2018-03-27 08:00
 Author: Aleksejus Kononovicius
 Tags: Economics, market price, free market, competition, Lithuania, video, Crash Course, supply and demand, price formation series
 Slug: price-formation-additional-materials
-Status: draft
+Status: published
 
 Couple of months ago I have started a [series of posts](/tag/price-formation-series/) on price formation in the free market or how and why the free market does (not) work. [Last time]({filename}/articles/2018/price-formation-concluding-remarks.md) I have provided concluding remarks on this topic. But would like to share some additional materials.
 
