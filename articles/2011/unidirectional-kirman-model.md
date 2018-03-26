@@ -62,7 +62,7 @@ Kirman's model. We simply one transition probability to zero:
 
 
 \begin{equation}
- p(X \rightarrow X+1) = (N - X) \frac{\sigma + h X}{N} \Delta t , 
+ p(X \rightarrow X+1) = (N - X) \left( sigma + \frac{h X}{N} \right) \Delta t , 
 \end{equation}
 
 
