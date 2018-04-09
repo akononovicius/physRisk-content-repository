@@ -3,7 +3,7 @@ Date: 2018-04-10 08:00
 Author: Aleksejus Kononovicius
 Tags: Economics, popular culture, video, game theory
 Slug: extra-credits-dayz-tragedy-commons
-Status: draft
+Status: published
 
 The tragedy of the commons is a well known effect arising in game theory as a result of self-interested rational agents over-exploiting common good. While this arises in game theory, original concept comes from the XIXth century England. Those times it was customary for a village to have some small parcel of land, which could be used by villagers to let their cows graze. Over-grazing became commonly arising problem.
 
