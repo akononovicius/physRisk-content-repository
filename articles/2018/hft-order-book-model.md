@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, financial markets, order book, kinetic models
 Slug: describing-high-frequency-traders-behavior-in-the-order-book
 Status: draft
-Image_url: uploads/2018/hft-ob-marginal.png
+Image_url: uploads/2018/hft-ob-schema.png
 
 We continue our series of posts on [order book models](/tag/order-book/) by
 considering an order book model proposed by a group of scientists from Japan
@@ -14,7 +14,85 @@ it starts from the empirical observations at the lowest level observable and
 is built up to reproduce some empirical observations at the higher levels.
 Also the model is analytically tractable using [kinetic theory](/tag/kinetic-models/).
 
-## The model
+## Brief description of the HFT model
+
+The paper which describes the HFT model in detail [cite id="Kanazawa2018arxiv"] is
+rather long and involves a lot of sophisticated details explaining why the model
+was built as it was. Hence for the sake of brevity we will skip most of the
+discussion and mention only essential ideas.
+
+The paper draws analogy between the kinetic theory in Physics and order book
+dynamics in Finance. Physical system can be "solved" by going between the three
+"hierarchical" description levels: micro-level particle motion (described by the
+Liouville equation), meso-level dynamics (described by the Boltzmann equation)
+and macro-level tracer particle motion (Brownian motion). The authors claim to
+obtain the same hierarchies for the financial markets and show the mathematical
+correspondence between the problems. Graphically they explain this idea by the
+figure we present to you a bit lower (the figure is a screenshot of the Fig. 1
+from the [cite id="Kanazawa2018arxiv"]). This idea provides a background
+for the experimental (data analysis) setup as well as analytical treatment
+of the model.
+
+![correspondence between the kinetic theory in Physics and order book dynamics in Finance](/uploads/2018/hft-ob-correspondence.png "The main idea of the model as illustrated by Kanazawa et al.")
+
+After performing the empirical analysis of high resolution order-book level data,
+the researchers determined four key features of the HFTs (abbr. high-frequency
+traders):
+
+1. **HFTs submit small number of live orders and the volume of the orders is small.**
+Unlike low-frequency traders HFTs usually submit unit volume limit orders.
+1. **HFTs are liquidity providers.** They are required to keep quotes in both bid
+and ask sides of the order book.
+1. **HFTs frequently modify their quotes.** The researchers report that typical
+transaction interval was 9.3 seconds in their data set, while the quotes were
+typically modified within a second intervals.
+1. **HFTs follow recent price trends.** On average HFTs modify their quotes by:
+
+\\\[ \\langle \\Delta q \\rangle \\approx c\_i \\tanh \\frac{\\Delta p}{\\Delta p\_i^{\*}} . \\\]
+
+Having in mind these four observations the researchers consider a fixed number \\\( N \\\)
+of agents (representing HFTs) who submit both bid and ask limit orders. As agents submit
+to the both sides of the order book they can be characterized by their bid and ask quotes
+(\\\( b\_i \\\) and \\\( a\_i \\\) respectively) or by their own mid-price and spread
+(\\\( z\_i = \( b\_i + a\_i \) /2 \\\) and \\\( L\_i = b\_i - a\_i \\\) respectively). The second
+choice is more convenient as then we have only one temporal random variable \\\( z\_i \\\),
+while \\\( L\_i \\\) can be treated as an agents intrinsic property (also sampled randomly
+for each different agent, but constant in respect to time).
+
+Empirical analysis shows that \\\( L\_i \\\) is distributed according the Gamma
+distribution with shape parameter \\\( \alpha+1 \\\) equal to \\\( 4 \\\) and
+scale parameter \\\( L^{\*} \\\) equal to \\\( 15.5 \\\). Without inputting these
+numbers the PDF of agent spread, \\\( L\_i \\\), has the following form:
+
+\\\[ p\( L \) = \\frac{L^{\\alpha}}{ \\Gamma\(\\alpha+1\) L^{\*\(\\alpha+1\)}} \\exp\\left\( - \\frac{L}{L^{\*}} \\right\). \\\]
+
+Requotation due to recent prices trends (fourth observation) is included into
+the model as stochastic differential equation describing the motion of
+each agent's mid-price \\\( z\_i \\\):
+
+\\\[ \\mathrm{d} z\_i = c \\tanh \\frac{\\Delta p}{\\Delta p^{\*}} \\mathrm{d} t + \\sigma \\mathrm{d} W , \\\]
+
+here the three parameters \\\( c \\\), \\\( \\Delta p^{\*} \\\) and \\\( \\sigma \\\)
+ought to be different for each agent, but without loss of generality we can set them
+to identical typical values for all agents. Note that \\\( \\Delta p \\\) changes
+discretely in time (each time transaction occurs its value is reset).
+
+Finally we have to define "transaction rule" -- how the quotes change after the
+transaction occurs. Lets assume that transaction has occurred, because the following
+match was found:
+
+\\\[ b\_j = a\_i . \\\]
+
+After the transaction a new price is set \\\( p = \( b\_j + a\_i\) /2 \\\) and price
+trend indicator value is set to \\\( \\Delta p = p^{new} - p^{old} \\\). After this
+the traders are assumed to requote their orders simultaneously by setting their
+mid-prices to the transaction price. This induces a momentary movement of agent's \\\( j \\\)
+quotes by \\\( - L\_j/2 \\\) and agent's \\\( i \\\) quotes by \\\( L\_i /2 \\\).
+
+To visually understand how the model behaves see an illustration by Kanazawa et al.
+bellow (the figure is a screenshot of Fig. 4 from the [cite id="Kanazawa2018arxiv"]).
+
+![schematic representation of the model by Kanazawa et al.](/uploads/2018/hft-ob-schema.png "Schematic representation of the model as illustrated by Kanazawa et al.")
 
 ## Weak, strong and marginal trend following regimes
 
@@ -22,7 +100,7 @@ This model exhibits three distinct behavioral regimes based on how much impact
 trend following has. The strength of trend following is well captured by the
 \\\( \\tilde c \\\) parameter, which depends on the model parameters as follows [cite id="Kanazawa2018PRL, Kanazawa2018arxiv"]:
 
-\\\[ {\\tilde c} =\\sqrt{\\frac{\\Gamma\(\\alpha+1\)}{\\Gamma\(\\alpha-1\)}} \\frac{c L^{\*}}{\\sigma^2 \\sqrt{2 N}} . \\\]
+\\\[ {\\tilde c} =\\frac{c L^{\*} \\sqrt{\\alpha \(\\alpha-1\)}}{\\sigma^2 \\sqrt{2 N}} . \\\]
 
 As the model is based on empirical observations Kanazawa et al. [cite id="Kanazawa2018PRL, Kanazawa2018arxiv"]
 estimated the parameter values from their data set. These values are the default ones
@@ -98,7 +176,7 @@ the PDF plot features log-linear axes instead of log-log axis we usually use.
 
 Also instead of plotting power spectral density we plot auto-correlation,
 \\\( C \( \\tau \) \\\), function of the price change. \\\( C \( 0 \) \\\)
-will be also equal to 1, but other nearby values will behave different depending
+will be always equal to 1, but other nearby values will behave different depending
 on the parameter values. For the sake of speed, we consider only 1024 last
 time series points when calculating auto-correlation function, so some
 "artifacts" may appear. Note that we show two curves, which will most of the time
