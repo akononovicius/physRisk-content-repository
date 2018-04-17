@@ -3,7 +3,7 @@ Date: 2018-04-17 08:00
 Author: Aleksejus Kononovicius
 Tags: Seeker, traffic, video
 Slug: seeker-you-re-driving-wrong-and-it-s-causing-traffic-jams
-Status: draft
+Status: published
 
 Long ago we have implemented a simple traffic model, Nagel-Schreckenberg
 model (see [this post]({filename}/articles/2014/stok-vaziuok-bangos.md)).
