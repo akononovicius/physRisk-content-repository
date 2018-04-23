@@ -15,6 +15,12 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 ## Completed thesis, term papers and internships
 
+**Term papers:** 9 (3 BSc + 6 MSc)
+
+**Thesis:** 10 (5 BSc + 2 MSc + 3 PhD)
+
+**Internships:** 7
+
 * During **the autumn of 2017** Edvinas Butiškis, fourth year student
 at Vilnius University Faculty of Physics, wrote a term paper "Kirman
 model as a generalized description of herding interactions in social
@@ -54,16 +60,16 @@ in Modeling of Financial Markets and Social Processes". The doctoral
 candidate was supervised by Vygintas Gontis.
 * During **the summer of 2013** Ignas Kazakevičius, first year student
 at Vilnius University Faculty of Physics, has completed internship
-"Controling complex stochastic systems". Internship was supervised by
-Aleksejus Kononovičius. Intern and supervisor recongnize supported
-received from the [Research Council of Lithuania](http://www.lmt.lt)
+"Controlling complex stochastic systems". Internship was supervised by
+Aleksejus Kononovičius. Internship was supported
+by the [Research Council of Lithuania](http://www.lmt.lt)
 (under the project "Promotion of Student Scientific Activities"
 (VP1-3.1-ŠMM-01-V-02-003)).
 * During **the summer of 2013** Kęstutis Acus, third year student at
 ISM University of Management and Economics, has completed internship
 "Economic convergence as thermodynamic appreciation of real currency
-exchange rate". Internship was supervised by Vygintas Gontis. Intern and
-supervisor recongnize supported received from the [Research Council of
+exchange rate". Internship was supervised by Vygintas Gontis. Internship
+was supported by the [Research Council of
 Lithuania](http://www.lmt.lt) (under the project "Promotion of Student
 Scientific Activities" (VP1-3.1-ŠMM-01-V-02-003)).
 * During **the spring of 2012** Petras Purlys, second year student
@@ -88,3 +94,8 @@ student at Vilnius University Faculty of Physics, wrote a bachelor thesis
 "Modeling Stock Return in Financial Markets". A related term paper
 was prepared during the autumn of 2008. The student was supervised by
 Vygintas Gontis.
+* During **the summer of 2007** Aleksejus Kononovičius, second year
+student at Vilnius University Faculty of Physics, has completed internship
+"Modeling of word statistics in literature as well as modeling of trading
+activity in financial markets". Internship was supervised by Vygintas Gontis.
+Internship was supported by [Research Council of Lithuania](http://www.lmt.lt).
