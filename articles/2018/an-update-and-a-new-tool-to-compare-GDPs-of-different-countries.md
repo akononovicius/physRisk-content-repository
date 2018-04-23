@@ -21,7 +21,7 @@ index is controlled for differing price levels between the countries.
 We invite you to explore the data using the new app!
 
 [html5-interactive
-url="/uploads/models/gdp-comparison/index-ppp.html\#lang=En.countries=132,65,134,177,207,49,92.fromy=1990.toy=-9999.normy=1995"
+url="/uploads/models/gdp-comparison/index-ppp.html\#lang=En.countries=132,65,134.fromy=1995.toy=-9999.normy=1995"
 mode="img" imgurl="/uploads/models/gdp-comparison/gdp-comparison-ppp.jpg"]
 
  
