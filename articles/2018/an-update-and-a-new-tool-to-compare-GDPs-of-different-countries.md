@@ -3,7 +3,7 @@ Date: 2018-04-24 08:00
 Author: Aleksejus Kononovicius
 Tags: Economics, Interactive models, A. Kononovicius, Baltic countries, World Bank, V. Gontis, gross domestic product, economic convergence, macroeconomics, politics, purchasing power parity, purchasing power standard, actual individual consumption
 Slug: an-update-and-a-new-tool-to-compare-GDPs-of-different-countries
-Status: draft
+Status: published
 Image_url: uploads/models/gdp-comparison/gdp-comparison-ppp.jpg
 
 Over the years we have written multiple posts about the
