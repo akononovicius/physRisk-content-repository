@@ -8,7 +8,8 @@ Image_url: uploads/2018/hft-ob-schema.png
 
 We continue our series of posts on [order book models](/tag/order-book/) by
 considering an order book model proposed by a group of scientists from Japan
-[cite id="Kanazawa2018PRL, Kanazawa2018arxiv"], which is based on high resolution
+[cite id="Kanazawa2018PRL, Kanazawa2018arxiv, Smart2018PT"], which is based
+on high resolution
 data from foreign exchange market. Their work is extremely interesting as
 it starts from the empirical observations at the lowest level observable and
 is built up to reproduce some empirical observations at the higher levels.
