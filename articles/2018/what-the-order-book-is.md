@@ -3,7 +3,7 @@ Date: 2018-05-01 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, financial markets, order book, Walrasian Market
 Slug: what-the-order-book-is
-Status: draft
+Status: published
 Image_url: uploads/2018/order-book.svg.png
 
 All models of the [financial markets](/tag/financial-markets/) we have presented on Physics of Risk to this date did not make any assumptions about the actual market microstructure. The previously discussed models assumed that some kind of market maker takes in the information about the market sentiments. This market marker sets a "fair" price and everyone is assumed to be happy with it. Similar price discovery mechanism was used in the past in various stock exchanges. In the literature this mechanism is referred to as the Walrasian Market. In contemporary stock exchanges Walrasian Market is replaced with the [order book]({filename}/articles/2018/what-the-order-book-is.md). This post is meant to explain some of the related terminology, which will be relevant in future posts about [order book models](/tag/order-book/).
