@@ -7,13 +7,13 @@ Status: published
 
 Continuing from the recent text on [Schelling
 model](/selingo-segregacijos-modelis) we
-would like to recommend reading text by Vi Hart and Nick Case called
+would like to recommend reading text by Vi Hart and Nicky Case called
 ["Parable of the polygons"](http://ncase.me/polygons/). It is written in
 rather playful manner, though it also manages to touch sensitive social
 and political topics. The text also contains couple of neatly looking
 interactive demonstrations.
 
-[Read the "Parable of the polygons" »](http://ncase.me/polygons/)
+[Read the "Parable of the polygons" &raquo;](http://ncase.me/polygons/)
 
-[See other interesting interactive tools authored by Nick Case
-»](http://ncase.me)
+[See other interesting interactive tools authored by Nicky Case
+&raquo;](http://ncase.me)
