@@ -25,7 +25,7 @@ V. Daniūnas, M. Alaburda, T. Meškauskas.
 Currently this website is maintaned by
 [Aleksejus Kononovičius](http://kononovicius.lt).
 
-## Our current research group
+## Members of our Complex systems group
 
 * [dr. Vygintas Gontis](http://gontis.eu) (head of the group)
 * [prof. habil. dr. Bronislovas Kaulakys](http://www.itpa.lt/kaulakys/)
@@ -34,6 +34,12 @@ Currently this website is maintaned by
 * [dr. Julius Ruseckas](http://web.vu.lt/tfai/j.ruseckas/) (associated member)
 * [dr. Viktor Novičenko](http://www.itpa.lt/%7Enovicenko/) (associated member)
 
+### Previous members
+
+* dr. V. Juknevičius
+* dr. M. Alaburda
+* dr. T. Meškauskas
+* V. Daniūnas
 
 ## If you want to use content presented on this website
 
