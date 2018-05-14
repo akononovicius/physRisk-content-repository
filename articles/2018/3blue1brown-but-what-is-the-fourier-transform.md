@@ -3,7 +3,7 @@ Date: 2018-05-15 08:00
 Author: Aleksejus Kononovicius
 Tags: General models, methods, spectral density, Fourier transform, video
 Slug: 3blue1brown-but-what-is-the-fourier-transform
-Status: draft
+Status: published
 
 Here on Physics of Risk we often are interested in the power spectral density
 of the time series. We have earlier provided a couple of interactive examples
