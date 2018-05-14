@@ -1,7 +1,7 @@
 Title: 3Blue1Brown: But what is the Fourier Transform?
 Date: 2018-05-15 08:00
 Author: Aleksejus Kononovicius
-Tags: General models, methods, spectral density, Fourier transform, video
+Tags: General models, methods, spectral density, Fourier transform, video, 3Blue1Brown
 Slug: 3blue1brown-but-what-is-the-fourier-transform
 Status: published
 
