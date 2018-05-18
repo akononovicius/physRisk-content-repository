@@ -11,7 +11,7 @@ econophysicists were held: ["Unsolved Problems on
 Noise"](http://www.saha.ac.in/cs/upon6.ecmp/Home.html), ["Verhandlungen
 DPG"](http://berlin12.dpg-tagungen.de/index.html?lang=en) and ["Open
 Readings" (lt. "Laisvieji skaitymai")](http://www.openreadings.eu/). Our
-B. Kaulakys, V. Gontis, A. Kononovičius, P. Purlys and R. Kazakevičius
+B. Kaulakys, V. Gontis, A. Kononovicius, P. Purlys and R. Kazakevičius
 have given oral and poster presentations at these conference.
 Presentations were mostly concerned with our newest achievements in [the
 applications of Kirman
@@ -32,7 +32,7 @@ Our approaches towards financial markets using Kirman model were
 presented by V. Gontis in COST MP 0801 third work-group meeting in
 Jerusalem.
 
-The main topics were also covered by A. Kononovičius in the Spring
+The main topics were also covered by A. Kononovicius in the Spring
 Meeting of German Physical Society (de. DPG) in Berlin. He talked about
 the Kirman model - ["Microscopic herding model leading to long-range
 processes and 1/f noise with application to absolute return in ﬁnancial

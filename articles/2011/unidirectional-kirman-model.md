@@ -125,7 +125,7 @@ parameters with a notable exception to \\\(  \Delta t \\\). Here \\\( \Delta t \
 additional parameters \\\(  \alpha \\\) (tolerance for piracy) and
 \\\(  Y\_0 \\\) (charity) not discussed in this text, but considered in
 the [another
-one](/what-can-the-bass-diffusion-model-tell-us-about-piracy "Aleksejus Kononovičius: What can the Bass diffusion model tell us about piracy?")
+one](/what-can-the-bass-diffusion-model-tell-us-about-piracy "Aleksejus Kononovicius: What can the Bass diffusion model tell us about piracy?")
 (Bass curves are plotted while not taking these into account).
 
 [html5-interactive

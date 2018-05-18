@@ -7,7 +7,7 @@ Status: published
 
 **Topic:** "Physics of Risk: The
 more physics, the less risk"  
-**Speaker:** [Aleksejus Kononovičius](http://kononovicius.lt/en/)  
+**Speaker:** [Aleksejus Kononovicius](http://kononovicius.lt/en/)  
 **Briefly:** I will talk about the complexity of socio-economic systems
 and how physicists (and not only physicists) attempt to understand,
 describe and explain it. I will present some of the research done

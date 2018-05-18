@@ -9,7 +9,7 @@ Research
 Council of Lithuania has announced a call for applications for students'
 research practice in Lithuania in summer of 2013. The contributors
 towards Physics of Risk website, dr. (HP) Vygintas Gontis and PhD
-student Aleksejus Kononovičius, offer two topics for the research
+student Aleksejus Kononovicius, offer two topics for the research
 practice. The offered topics are mainly based on the following topics,
 previously published on this website:
 

@@ -23,14 +23,14 @@ of our group, as well as by some authors who no longer work with us -
 V. Daniūnas, M. Alaburda, T. Meškauskas.
 
 **Currently this website is maintaned** by
-[Aleksejus Kononovičius](http://kononovicius.lt).
+[Aleksejus Kononovicius](http://kononovicius.lt).
 
 ## Members of our Complex systems group
 
 * [dr. Vygintas Gontis](http://gontis.eu) (head of the group)
 * [prof. habil. dr. Bronislovas Kaulakys](http://www.itpa.lt/kaulakys/)
 * dr. Rytis Kazakevičius
-* [dr. Aleksejus Kononovičius](http://kononovicius.lt)
+* [dr. Aleksejus Kononovicius](http://kononovicius.lt)
 * [dr. Julius Ruseckas](http://web.vu.lt/tfai/j.ruseckas/) (associated member)
 * [dr. Viktor Novičenko](http://www.itpa.lt/%7Enovicenko/) (associated member)
 

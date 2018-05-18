@@ -6,7 +6,7 @@ Slug: non-linear-stochastic-model-return
 Status: published
 
 Vygintas Gontis, Julius Ruseckas and Aleksejus
-Kononovičius (2010). A Non-Linear Double Stochastic Model of Return in
+Kononovicius (2010). A Non-Linear Double Stochastic Model of Return in
 Financial Markets, Stochastic Control, Chris Myers (Ed.), ISBN:
 978-953-307-121-3, Sciyo, Available from:
 <http://www.intechopen.com/articles/show/title/a-non-linear-double-stochastic-model-of-return-in-financial-markets>

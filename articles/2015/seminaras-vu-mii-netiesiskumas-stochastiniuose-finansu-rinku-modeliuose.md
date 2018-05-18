@@ -6,7 +6,7 @@ Slug: seminaras-vu-mii-netiesiskumas-stochastiniuose-finansu-rinku-modeliuose
 Status: published
 
 **Topic:** "Nonlinearity in stochastic model of financial markets"  
-**Speaker:** [Aleksejus Kononovičius](http://kononovicius.lt/)  
+**Speaker:** [Aleksejus Kononovicius](http://kononovicius.lt/)  
 **When?** 18th of November, 9:15.  
 **Where?** Institute of Mathematics and Informatics
 VU [Faculty of Mathematics and Informatics (Naugarduko g. 24,

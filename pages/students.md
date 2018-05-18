@@ -36,21 +36,21 @@ supervised by Julius Ruseckas.
 * During **the spring of 2017** Lukas Bagdonavičius, fourth year student
 at Vilnius University Faculty of Physics, wrote a bachelor thesis "Power
 spectrum analysis of a point process driven by the fractional Gaussian
-noise". The student was supervised by Aleksejus Kononovičius.
+noise". The student was supervised by Aleksejus Kononovicius.
 * During **the spring of 2017** Jonas Tupčiauskas, fourth year student
 at Vilnius University Faculty of Physics, wrote a bachelor thesis
 "Diffusion model of Sąjūdis growth". The student was supervised by
-Aleksejus Kononovičius.
+Aleksejus Kononovicius.
 * During **the autumn of 2016** Jonas Tupčiauskas, fourth year student
 at Vilnius University Faculty of Physics, wrote a term paper "Non-linear
 models of socio-economic systems". The student was supervised by Aleksejus
-Kononovičius.
+Kononovicius.
 * During **the autumn of 2016** Brigita Čelkytė, Goda Damaševičiūtė,
 Milda Venckutė and Ugnė Šiurienė, students at Vilnius University
 (various faculties and years), have completed internship "Modeling of
 the Sajudis growth by using interacting agent-based model". Internship
 was supervised by Tomas Žalandauskas (BPTI), Ainė Ramonaitė (VU
-IIRPS), Julius Ruseckas (VU ITPA) and Aleksejus Kononovičius (VU
+IIRPS), Julius Ruseckas (VU ITPA) and Aleksejus Kononovicius (VU
 ITPA). Internship was a part of "[Mokslo Pieva](http://mokslopieva.lt)"
 project (organized by [BPTI](http://bpti.eu), financial support by
 [ESO](http://www.eso.lt)).
@@ -61,7 +61,7 @@ candidate was supervised by Vygintas Gontis.
 * During **the summer of 2013** Ignas Kazakevičius, first year student
 at Vilnius University Faculty of Physics, has completed internship
 "Controlling complex stochastic systems". Internship was supervised by
-Aleksejus Kononovičius. Internship was supported
+Aleksejus Kononovicius. Internship was supported
 by the [Research Council of Lithuania](http://www.lmt.lt)
 (under the project "Promotion of Student Scientific Activities"
 (VP1-3.1-ŠMM-01-V-02-003)).
@@ -77,7 +77,7 @@ at Vilnius University Faculty of Physics, wrote a master thesis
 "Microscopic and Macroscopic Modeling of Kirman Interaction between
 Three Agent Groups". Term papers leading to the thesis were prepared
 during previous semesters. The student was supervised by Vygintas Gontis.
-* During **the spring of 2011** Aleksejus Kononovičius, second year
+* During **the spring of 2011** Aleksejus Kononovicius, second year
 student at Vilnius University Faculty of Physics, wrote a master thesis
 "Microscopic Reasoning for the Stochastic Models". Term papers leading
 to the thesis were prepared during previous semesters. The student was
@@ -89,12 +89,12 @@ Model of Stock Market". The student was supervised by Vygintas Gontis.
 Vilnius University Faculty of Physics, wrote a bachelor thesis "Comparison
 of Econophysics Financial Market Models and Empirical Data Using
 Investment Strategies". The student was supervised by Vygintas Gontis.
-* During **the spring of 2009** Aleksejus Kononovičius, fourth year
+* During **the spring of 2009** Aleksejus Kononovicius, fourth year
 student at Vilnius University Faculty of Physics, wrote a bachelor thesis
 "Modeling Stock Return in Financial Markets". A related term paper
 was prepared during the autumn of 2008. The student was supervised by
 Vygintas Gontis.
-* During **the summer of 2007** Aleksejus Kononovičius, second year
+* During **the summer of 2007** Aleksejus Kononovicius, second year
 student at Vilnius University Faculty of Physics, has completed internship
 "Modeling of word statistics in literature as well as modeling of trading
 activity in financial markets". Internship was supervised by Vygintas Gontis.
