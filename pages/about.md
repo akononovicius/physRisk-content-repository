@@ -22,7 +22,7 @@ During these projects articles for this website were written by various members
 of our group, as well as by some authors who no longer work with us -
 V. Daniūnas, M. Alaburda, T. Meškauskas.
 
-Currently this website is maintaned by
+**Currently this website is maintaned** by
 [Aleksejus Kononovičius](http://kononovicius.lt).
 
 ## Members of our Complex systems group
@@ -48,8 +48,7 @@ You may do so according to
 - you may use or modify it, as long as you do so for non-commercial purpose and
 as long as you appropriately attribute (refer/link to) this website.
 
-If in doubt, please contact the current website maintainer
-[Aleksejus Kononovičius](http://kononovicius.lt).
+If in doubt, please contact the website maintainer.
 
 Markdown files used to produce posts and pages on Physics of Risk are stored on
 GitHub (see [https://github.com/akononovicius/physRisk-content-repository](https://github.com/akononovicius/physRisk-content-repository)).
@@ -58,7 +57,7 @@ Interactive app source code can be also found on GitHub (see [https://github.com
 
 ## If you have noticed an error
 
-You could contact the current website maintainer, write us via Facebook message
+You could contact the website maintainer, write us via Facebook message
 (our Facebook page can be found at
 [https://www.facebook.com/physics.risk/](https://www.facebook.com/physics.risk/))
 or use proper GitHub tools (links to repositories can be found in the
