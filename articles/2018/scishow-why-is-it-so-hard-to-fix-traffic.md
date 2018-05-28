@@ -3,7 +3,7 @@ Date: 2018-05-29 08:00
 Author: Aleksejus Kononovicius
 Tags: SciShow, traffic, video
 Slug: scishow-why-is-it-so-hard-to-fix-traffic
-Status: draft
+Status: published
 
 Long ago we have implemented a simple traffic model, Nagel-Schreckenberg
 model (see [this post]({filename}/articles/2014/stok-vaziuok-bangos.md)).
