@@ -3,7 +3,7 @@ Date: 2018-06-05 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, financial markets, order book, granularity
 Slug: granularity-order-book-model
-Status: draft
+Status: published
 Image_url: uploads/2018/cristelli-ob-model.png
 
 We continue our series of posts on [order book models](/tag/order-book/) by
