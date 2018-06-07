@@ -17,10 +17,14 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 **Term papers:** 9 (3 BSc + 6 MSc)
 
-**Thesis:** 10 (5 BSc + 2 MSc + 3 PhD)
+**Thesis:** 11 (6 BSc + 2 MSc + 3 PhD)
 
 **Internships:** 7
 
+* During **the spring of 2018** Edvinas Butiškis, fourth year student
+at Vilnius University Faculty of Physics, wrote a bachelor thesis
+"Imitative model of opinion dynamics". The student was supervised by
+dr. Vygintas Gontis.
 * During **the autumn of 2017** Edvinas Butiškis, fourth year student
 at Vilnius University Faculty of Physics, wrote a term paper "Kirman
 model as a generalized description of herding interactions in social
