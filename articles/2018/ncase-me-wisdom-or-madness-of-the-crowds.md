@@ -3,7 +3,7 @@ Date: 2018-06-26 08:00
 Author: Aleksejus Kononovicius
 Tags: Network models, small world, contagion, literature, politics
 Slug: ncase-me-wisdom-or-madness-of-the-crowds
-Status: draft
+Status: published
 Image_url: uploads/2018/ncase-contagion.png
 
 [Network models](/tag/network-models/) were, and still are, a prominent part
