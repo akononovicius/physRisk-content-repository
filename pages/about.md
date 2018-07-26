@@ -3,14 +3,15 @@ Date: 2017-10-13
 Slug: about
 Order: 0
 
-On this website we discuss variety of [topics](/topics/) related to the research
-interests of our Complex systems group in [Vilniaus University](http://www.vu.lt/)
+On this blog we discuss a variety of [topics](/topics/) related to the research
+interests of our Complex systems group in [Vilnius University](http://www.vu.lt/)
 [Faculty of Physics](http://www.ff.vu.lt/)
 [Institute of Theoretical Physics and Astronomy](http://www.tfai.vu.lt). We try
 to cover research done by us as well as related research carried out by other
-groups from around the world. The covered <a href="/topics/">topics</a> are
+groups from around the world. The considered [topics](/topics/) are
 rather well encompassed by the term Physics of Risk, hence the name and the
-logo of this website. Originally this term was a title of EU COST project,
+logo (it imitates the phrase "more physics, less risk") of this website.
+Originally this term was a title of EU COST project,
 which ran from 2004 to 2008 (two members of our group were part of this
 project).
 
