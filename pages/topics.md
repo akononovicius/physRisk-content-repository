@@ -147,7 +147,7 @@ than just by primary measurement bias. This behavior is known as dynamical chaos
 
 Most widely known example of dynamical chaos is the Butterfly effect – butterfly
 flapping its wings may cause hurricane on next week, but thousand kilometers away.
-In this section of Physics of Risk website we aim to show that even smallest bias of
+In this section of Physics of Risk blog we aim to show that even smallest bias of
 initial conditions, of reality itself, might be the reason for unexpected results and
 chaos.
 
