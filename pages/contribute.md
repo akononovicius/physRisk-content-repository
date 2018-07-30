@@ -7,7 +7,7 @@ We are always happy to accept contributed texts from external authors. Especiall
 
 ## Rough quality guidelines
 
-* Topics should fall into the scope of Physics of Risk. Anything related to Statistical Physics, Econophysics or Sociophysics is welcome. Some other topics might (e.g., Machine Learning) also be interesting in the scope of Physics of Risk.
+* Topics should fall into the scope of Physics of Risk. Anything related to Statistical Physics, Econophysics or Sociophysics is welcome. Some other topics (e.g., Data Science, Machine Learning) might also be interesting in the scope of Physics of Risk.
 * Texts should be written in English. We do not provide editing services, as our English might be worse than yours.
 * The length of texts is not strictly limited. Though it would preferable that longer texts (e.g., longer than 3 or 4 pages) would be split into a couple of self-containing parts.
 * Texts should be readable to common folk. This is not always possible for some topics and also for shorter texts, in such case please aim for third or fourth year students with a decent grasp of basic statistics, math, physics and programming.
@@ -26,7 +26,7 @@ We are always happy to accept contributed texts from external authors. Especiall
 
 ## Submission
 
-If you are willing to submit content, please contact [blog maintainer](/about/). Texts will be reviewed by the [blog maintainer](/about/) and might not be accepted if they violate the guidelines or in some other (not listed) edge cases. After review the contributions will be published under the same license as other content on Physics of Risk blog ([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/)).
+If you are willing to submit content, please contact the [blog maintainer](/about/). Texts will be reviewed by the [blog maintainer](/about/) and might not be accepted if they violate the guidelines or in some other (not listed) edge cases. After review the contributions will be published under the same license as other content on Physics of Risk blog ([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/)).
 
 ## If you have noticed an error
 
