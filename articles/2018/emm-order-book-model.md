@@ -9,7 +9,7 @@ Image_url: uploads/2018/emm-ob-model.png
 We continue our series of posts on [order book models](/tag/order-book/) by
 considering extremely simple order book model. In this model most agents
 submit only market orders, while there is also a single market maker, which
-provides liquidity for them.
+provides liquidity for them.<!--more-->
 
 ## The model
 
