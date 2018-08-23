@@ -6,7 +6,7 @@ Slug: facebook-contest-data-set-exploration
 Status: draft
 Image_url: uploads/2018/fb-comm-numbers.png
 
-During summer hiatus we have promised to look into a data set we have extracted
+During summer hiatus I have promised to look into a data set I have extracted
 from [one particular Facebook contest](https://www.facebook.com/HAPPYLietuva/photos/a.1208205755944127.1073741828.1207052856059417/1699711786793519/).
 While many Facebook contests are not based on any logical reasoning, this
 contest appeals to me as it appears to require at least some thought or
@@ -85,7 +85,7 @@ growth of the number of comments. Blue line gives the total number of comments,
 red line indicates the total number of comments which have guessed 5, while the
 green line summarizes the total number of all other comments"){#fig1}
 
-In [Fig. 1](#fig1) we observe an interesting pattern: the curve seems to saturate
+In [Fig. 1](#fig1) one can observe an interesting pattern: the curve seems to saturate
 twice. This observation is simply, because most of the people sleep at night. The
 first saturation occurs at midnight of the first day (vertical gridlines
 correspond to the midnights). The diffusion resumes the
@@ -100,4 +100,4 @@ of "Guess 5" comments quickly saturates at around 0.92.
 
 ## Next time
 
-We will try to explain the patterns in the next few posts.
+Next time I will try to explain these patterns in the next few posts.

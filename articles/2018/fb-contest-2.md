@@ -6,14 +6,14 @@ Slug: facebook-contest-data-set-explanation
 Status: draft
 Image_url: uploads/2018/fb-comm-simple-herd.png
 
-During summer hiatus we have promised to look into a data set we have extracted
+During summer hiatus I have promised to look into a data set I have extracted
 from [one particular Facebook contest](https://www.facebook.com/HAPPYLietuva/photos/a.1208205755944127.1073741828.1207052856059417/1699711786793519/).
 While many Facebook contests are not based on any logical reasoning, this
 contest appeals to me as it appears to require at least some thought or
 expertise.
 
-Last time we have briefly explored the [data set]({filename}/articles/2018/fb-contest.md).
-Now we try to build models for these observations.
+Last time I have briefly explored the [data set]({filename}/articles/2018/fb-contest.md).
+Now I will try to build models for these observations.
 
 <!--more-->
 
@@ -26,9 +26,9 @@ with an answer 5 is fixed, \\\( p \\\).
 ![Simple random model]({filename}/uploads/2018/fb-comm-simple-p.png "The goodness
 of simple model with different \\\( p \\\) values."){#fig3}
 
-As we can see in [Fig. 3](#fig3) the best \\\( p \\\) is around \\\( 0.88 \\\).
-Here we measure goodness as a sum of log-probabilities of the events that
-occurred. As we operate in the event-space, we ignore the inter-event time.
+As one can see in [Fig. 3](#fig3) the best \\\( p \\\) is around \\\( 0.88 \\\).
+Here I measure goodness as a sum of log-probabilities of the events that
+occurred. As I operate in the event-space, I can ignore the inter-event time.
 
 Next lets consider a bit more sophisticated model. Let us assume that the
 probability to get a comment with an answer 5 depends on the current number of
@@ -69,7 +69,7 @@ p ( X_o \rightarrow X_o+1 ) = \frac{\varepsilon + \frac{X_o}{N}}{2 \varepsilon +
 \frac{X_5 + X_o}{N}}.
 \end{equation}
 
-Because of this form of transition equations we will refer to this model as the
+Because of this form of transition equations I will refer to this model as the
 simple local herding model.
 
 ![Simple local herding model]({filename}/uploads/2018/fb-comm-simple-herd-local.png
@@ -80,14 +80,14 @@ As we can see in [Fig. 5](#fig5) the model seems to work best with
 it produces a better goodness measure of \\\( -88.3 \\\). Though once again the
 difference appears to be small.
 
-We could add further sophistication to the model, such as introducing asymmetry
+One could add further sophistication to the model, such as introducing asymmetry
 into the model. Yet such sophistication no longer bring significant improvements.
 In case of asymmetry, different \\\( \varepsilon \\\) values for "Guess 5" and
 "other", goodness measure increases to \\\( -88.21 \\\).
 
 ## Interim conclusion
 
-Though we cannot claim statistical significance, we are inclined to conclude
+Though I cannot claim statistical significance, I am inclined to conclude
 that herding behavior is strong in this data set as there are few reasons to
 prefer 5 over other possible answers besides initial dominance of the comments
 with answer 5.
@@ -100,5 +100,5 @@ many answers) reached the broader audience.
 
 ## Next time
 
-Next time we will build Bass model with day-night pattern to reproduce double
+Next time I will build Bass model with day-night pattern to reproduce double
 saturation pattern discussed [previously]({filename}/articles/2018/fb-contest.md).
