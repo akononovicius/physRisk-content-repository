@@ -1,0 +1,104 @@
+Title: Facebook contest data set explanation
+Date: 2018-09-18 08:00
+Author: Aleksejus Kononovicius
+Tags: facebook, data science, marketing
+Slug: facebook-contest-data-set-explanation
+Status: draft
+Image_url: uploads/2018/fb-comm-simple-herd.png
+
+During summer hiatus we have promised to look into a data set we have extracted
+from [one particular Facebook contest](https://www.facebook.com/HAPPYLietuva/photos/a.1208205755944127.1073741828.1207052856059417/1699711786793519/).
+While many Facebook contests are not based on any logical reasoning, this
+contest appeals to me as it appears to require at least some thought or
+expertise.
+
+Last time we have briefly explored the [data set]({filename}/articles/2018/fb-contest.md).
+Now we try to build models for these observations.
+
+<!--more-->
+
+## Providing an explanation for the observations
+
+Let us first examine dynamics in the event-space (time is measured in the event
+ticks). For a first model let us simply consider that probability to get a comment
+with an answer 5 is fixed, \\\( p \\\).
+
+![Simple random model]({filename}/uploads/2018/fb-comm-simple-p.png "The goodness
+of simple model with different \\\( p \\\) values."){#fig3}
+
+As we can see in [Fig. 3](#fig3) the best \\\( p \\\) is around \\\( 0.88 \\\).
+Here we measure goodness as a sum of log-probabilities of the events that
+occurred. As we operate in the event-space, we ignore the inter-event time.
+
+Next lets consider a bit more sophisticated model. Let us assume that the
+probability to get a comment with an answer 5 depends on the current number of
+comments with an answer 5:
+
+\begin{equation}
+p ( X_5 \rightarrow X_5+1 ) = \frac{\varepsilon + X_5}{2 \varepsilon + X_5 + X_o}.
+\end{equation}
+
+Note that the equation above also includes \\\( X_o \\\) which represent the
+number of other comments. Hence we have to define the probability for an increase
+in \\\( X_o \\\):
+
+\begin{equation}
+p ( X_o \rightarrow X_o+1 ) = \frac{\varepsilon + X_o}{2 \varepsilon + X_5 + X_o}.
+\end{equation}
+
+![Simple herding model]({filename}/uploads/2018/fb-comm-simple-herd.png "The goodness
+of simple herding model with different \\\( \varepsilon \\\) values."){#fig4}
+
+As we can see in [Fig. 4](#fig4) the model seems to work best with
+\\\( \varepsilon =1.03 \\\). So which model works better? The simple random model
+at its best produces goodness measure of \\\( -88.95 \\\), while the simple
+herding model at its best produces goodness measure of \\\( -93.92 \\\). Though
+the difference appears small, the simple random model seems to outperform the
+simple herding model.
+
+Lets build another simple herding model, but now let the probabilities to be
+proportional to the respective fractions of comments:
+
+\begin{equation}
+p ( X_5 \rightarrow X_5+1 ) = \frac{\varepsilon + \frac{X_5}{N}}{2 \varepsilon +
+\frac{X_5 + X_o}{N}},
+\end{equation}
+
+\begin{equation}
+p ( X_o \rightarrow X_o+1 ) = \frac{\varepsilon + \frac{X_o}{N}}{2 \varepsilon +
+\frac{X_5 + X_o}{N}}.
+\end{equation}
+
+Because of this form of transition equations we will refer to this model as the
+simple local herding model.
+
+![Simple local herding model]({filename}/uploads/2018/fb-comm-simple-herd-local.png
+"The goodness of simple local herding model with different \\\( \varepsilon \\\) values."){#fig5}
+
+As we can see in [Fig. 5](#fig5) the model seems to work best with
+\\\( \varepsilon =0.081 \\\). This model outperforms the simple random model as
+it produces a better goodness measure of \\\( -88.3 \\\). Though once again the
+difference appears to be small.
+
+We could add further sophistication to the model, such as introducing asymmetry
+into the model. Yet such sophistication no longer bring significant improvements.
+In case of asymmetry, different \\\( \varepsilon \\\) values for "Guess 5" and
+"other", goodness measure increases to \\\( -88.21 \\\).
+
+## Interim conclusion
+
+Though we cannot claim statistical significance, we are inclined to conclude
+that herding behavior is strong in this data set as there are few reasons to
+prefer 5 over other possible answers besides initial dominance of the comments
+with answer 5.
+
+Another important notice is that local herding model works better
+than global herding model. This basically mean that people read only a few
+comments before copying the prevalent answer. Thus it is not very probable that
+mathematically literate comments (the ones pointing out that there are infinitely
+many answers) reached the broader audience.
+
+## Next time
+
+Next time we will build Bass model with day-night pattern to reproduce double
+saturation pattern discussed [previously]({filename}/articles/2018/fb-contest.md).
