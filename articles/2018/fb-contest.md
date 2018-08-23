@@ -87,7 +87,8 @@ green line summarizes the total number of all other comments"){#fig1}
 
 In [Fig. 1](#fig1) we observe an interesting pattern: the curve seems to saturate
 twice. This observation is simply, because most of the people sleep at night. The
-first saturation occurs at midnight of the first day. The diffusion resumes the
+first saturation occurs at midnight of the first day (vertical gridlines
+correspond to the midnights). The diffusion resumes the
 next day until the true saturation is reached over the next few days.
 
 ![Fraction of guess 5 comments]({filename}/uploads/2018/fb-comm-frac.png "The
