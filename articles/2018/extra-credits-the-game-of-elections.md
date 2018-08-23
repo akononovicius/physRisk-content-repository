@@ -1,5 +1,5 @@
 Title: Extra Credits: The Game of Elections
-Date: 2018-10-16 08:00
+Date: 2018-11-20 08:00
 Author: Aleksejus Kononovicius
 Tags: video, politics, Extra Credits, opinion dynamics
 Slug: extra-credits-the-game-of-elections

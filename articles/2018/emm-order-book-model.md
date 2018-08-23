@@ -1,5 +1,5 @@
 Title: Efficient market maker order book model
-Date: 2018-09-04 08:00
+Date: 2018-10-16 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, financial markets, order book, market marker
 Slug: efficient-market-maker-order-book-model
