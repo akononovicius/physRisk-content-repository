@@ -75,7 +75,7 @@ guesses) show that the contest provides ill-formed problem.
 Out of the 553
 guesses 92.5% (512) have guessed number 5. Why? Try to think of two number,
 which would sum to 3? At least I immediately think of 2 and 1. From this guess
-it is straightforward to arrive at two answers: 3 and 5. Hence there were two
+it is straightforward to arrive at to answer 5. Hence there were two
 comments suggesting that either of these can be answer. Notably there were five
 comments explaining why 5 is the only possible answer and no comments providing
 arguments for the other guesses.
