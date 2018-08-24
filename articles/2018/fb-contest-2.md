@@ -13,14 +13,13 @@ contest appeals to me as it appears to require at least some thought or
 expertise.
 
 Last time I have briefly explored the [data set]({filename}/articles/2018/fb-contest.md).
-Now I will try to build models for these observations.
+Now I will try to build models for the event-space observations.
 
 <!--more-->
 
-## Providing an explanation for the observations
+## The simple random model
 
-Let us first examine dynamics in the event-space (time is measured in the event
-ticks). For a first model let us simply consider that probability to get a comment
+For a first model let us simply consider that probability to get a comment
 with an answer 5 is fixed, \\\( p \\\).
 
 ![Simple random model]({filename}/uploads/2018/fb-comm-simple-p.png "The goodness
@@ -29,6 +28,8 @@ of simple model with different \\\( p \\\) values."){#fig3}
 As one can see in [Fig. 3](#fig3) the best \\\( p \\\) is around \\\( 0.88 \\\).
 Here I measure goodness as a sum of log-probabilities of the events that
 occurred. As I operate in the event-space, I can ignore the inter-event time.
+
+## The simple herding model
 
 Next lets consider a bit more sophisticated model. Let us assume that the
 probability to get a comment with an answer 5 depends on the current number of
@@ -56,6 +57,8 @@ herding model at its best produces goodness measure of \\\( -93.92 \\\). Though
 the difference appears small, the simple random model seems to outperform the
 simple herding model.
 
+## The simple local herding model
+
 Lets build another simple herding model, but now let the probabilities to be
 proportional to the respective fractions of comments:
 
@@ -69,8 +72,8 @@ p ( X_o \rightarrow X_o+1 ) = \frac{\varepsilon + \frac{X_o}{N}}{2 \varepsilon +
 \frac{X_5 + X_o}{N}}.
 \end{equation}
 
-Because of this form of transition equations I will refer to this model as the
-simple local herding model.
+Because of this form of the transition probabilities I will refer to this model
+as the simple local herding model.
 
 ![Simple local herding model]({filename}/uploads/2018/fb-comm-simple-herd-local.png
 "The goodness of simple local herding model with different \\\( \varepsilon \\\) values."){#fig5}
@@ -100,5 +103,5 @@ many answers) reached the broader audience.
 
 ## Next time
 
-Next time I will build Bass model with day-night pattern to reproduce double
-saturation pattern discussed [previously]({filename}/articles/2018/fb-contest.md).
+Next time I will build Bass model with day-night pattern to reproduce the
+temporal saturation pattern discussed [previously]({filename}/articles/2018/fb-contest.md).

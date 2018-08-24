@@ -18,16 +18,25 @@ day-night cycle.
 
 <!--more-->
 
-## Building the Bass diffusion model with a day-night cycle
-
 In our exploration we have encountered a peculiar pattern. We have observed the
 expected growth of the number of comments, but we have also observed a couple
-saturation plateaus. I have speculated that these plateaus are related to the
-sleeping habits of the contest participants. I will build these habits into
-the well-known [Bass diffusion model](/tag/bass-model/). I have selected this
-model, because it otherwise replicates the general shape of growth.
+saturation plateaus. In this post we are interested in reproducing the blue
+curve from [Fig. 1](#fig1).
 
-Now lets assume that there are two special times:
+![Total number of comments]({filename}/uploads/2018/fb-comm-numbers.png "The
+growth of the number of comments. Blue line gives the total number of comments,
+red line indicates the total number of comments which have guessed 5, while the
+green line summarizes the total number of all other comments."){#fig1}
+
+[In the previous post]({filename}/articles/2018/fb-contest.md) I have speculated
+that the saturation plateaus are related to the sleeping habits of the
+contest participants, because they occured during night time. I will build the
+sleeping habits into the well-known [Bass diffusion model](/tag/bass-model/).
+I have selected this model, as it otherwise replicates the general "sigmoid"
+shape of the growth.
+
+Now lets assume that there are two special times in each day (each day lasts
+for 1440 minutes):
 
 * after \\\( T\_{\text{wakeup}} \\\) each day people start waking up (at the
 rate of \\\( \lambda\_{\text{wakeup}} \\\) per person per unit of time),
@@ -47,7 +56,7 @@ We invite you to explore the dynamics of the modified model by using the
 interactive HTML5 app bellow. The app will present you with two figures: the top
 figure will show the total number of comments (red curve) as well as the total
 number of awake agents (blue curve), the bottom figure will show the number of
-new comments per 15 minute windows (red curve).
+new comments per 15 minute window (red curve).
 
 [html5-interactive
 src="/uploads/models/bass-day-night/index.html" width="515"

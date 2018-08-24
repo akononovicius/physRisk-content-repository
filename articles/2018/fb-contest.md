@@ -43,7 +43,7 @@ asked for a number, so the participants gave numbers as answers. There were
 couple angry comments about the incompleteness of problem, but they were
 significantly out numbered.
 
-## Structure of the data file
+## Structure of [the data file]({filename}/uploads/2018/fb-comments.csv)
 
 I have downloaded the comment data using Facebook's Graph
 API. Next I have classified the comments based on their content into 13
@@ -64,7 +64,7 @@ either store time in seconds since midnight
 ("comments") at that time. Note that "time" column gives a time when comment was
 posted.
 
-[DOWNLOAD THE DATA (CSV)]({filename}/uploads/2018/fb-comments.csv)
+Feel free to [download the data file (CSV)]({filename}/uploads/2018/fb-comments.csv).
 
 ## Exploration
 
@@ -83,7 +83,7 @@ arguments for the other guesses.
 ![Total number of comments]({filename}/uploads/2018/fb-comm-numbers.png "The
 growth of the number of comments. Blue line gives the total number of comments,
 red line indicates the total number of comments which have guessed 5, while the
-green line summarizes the total number of all other comments"){#fig1}
+green line summarizes the total number of all other comments."){#fig1}
 
 In [Fig. 1](#fig1) one can observe an interesting pattern: the curve seems to saturate
 twice. This observation is simply, because most of the people sleep at night. The
@@ -100,4 +100,6 @@ of "Guess 5" comments quickly saturates at around 0.92.
 
 ## Next time
 
-Next time I will try to explain these patterns in the next few posts.
+In the next few posts I will address time-space (sigmoidal growth with multiple
+plateaus) and event-space ("Guess 5" comments being significantly more common)
+patterns we have observed here.
