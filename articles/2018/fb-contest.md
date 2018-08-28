@@ -3,7 +3,7 @@ Date: 2018-09-04 08:00
 Author: Aleksejus Kononovicius
 Tags: facebook, data science
 Slug: facebook-contest-data-set-exploration
-Status: draft
+Status: published
 Image_url: uploads/2018/fb-comm-numbers.png
 
 During summer hiatus I have promised to look into a data set I have extracted
