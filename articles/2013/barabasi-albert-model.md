@@ -1,7 +1,7 @@
 Title: Barabasi-Albert model
 Date: 2013-08-26 07:11
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Network models, A. L. Barabasi, Barabasi-Albert model, Gephi, R. Albert, degrees of separation, scale free network, coursera, small world, preferential attachment, old models, network formation models
+Tags: Interactive models, Network models, A. L. Barabasi, Barabasi-Albert model, Gephi, R. Albert, degrees of separation, scale free network, coursera, small world, old models, network formation models
 Slug: barabasi-albert-model
 Status: published
 

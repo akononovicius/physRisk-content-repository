@@ -1,7 +1,7 @@
 Title: Voter model
 Date: 2016-01-19 07:14
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, Cellular automata, politics, sociology, opinion dynamics
+Tags: Agent-based models, Interactive models, Cellular automata, politics, sociology, opinion dynamics, voter model
 Slug: rinkejo-modelis
 Status: published
 
