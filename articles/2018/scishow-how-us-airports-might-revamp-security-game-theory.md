@@ -3,7 +3,7 @@ Date: 2018-09-11 08:00
 Author: Aleksejus Kononovicius
 Tags: game theory, SciShow, security, video
 Slug: scishow-how-us-airports-might-revamp-security-game-theory
-Status: draft
+Status: published
 
 What we are writing about on Physics of Risk might seem a bit abstract. In some
 cases it actually is, but these seemingly abstract exercises help to make better
