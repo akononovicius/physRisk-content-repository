@@ -1,7 +1,7 @@
 Title: SciShow: Could Scientists Predict the Next Political Crisis?
 Date: 2018-09-25 08:00
 Author: Aleksejus Kononovicius
-Tags: SciShow, political science, opinion dynamics, video
+Tags: SciShow, opinion dynamics, video, sociology
 Slug: scishow-could-scientists-predict-the-next-political-crisis
 Status: draft
 

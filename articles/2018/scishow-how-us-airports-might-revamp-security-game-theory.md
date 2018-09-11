@@ -1,7 +1,7 @@
 Title: SciShow: How US Airports might revamp security Game Theory
 Date: 2018-09-11 08:00
 Author: Aleksejus Kononovicius
-Tags: game theory, SciShow, security, video
+Tags: game theory, SciShow, video
 Slug: scishow-how-us-airports-might-revamp-security-game-theory
 Status: published
 
