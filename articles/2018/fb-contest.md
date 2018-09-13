@@ -1,7 +1,7 @@
 Title: Facebook contest data set exploration
 Date: 2018-09-04 08:00
 Author: Aleksejus Kononovicius
-Tags: facebook, data science
+Tags: facebook, data science, opinion dynamics
 Slug: facebook-contest-data-set-exploration
 Status: published
 Image_url: uploads/2018/fb-comm-numbers.png
