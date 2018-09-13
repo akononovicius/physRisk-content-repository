@@ -3,7 +3,7 @@ Date: 2018-09-18 08:00
 Author: Aleksejus Kononovicius
 Tags: facebook, data science, marketing
 Slug: facebook-contest-data-set-explanation
-Status: draft
+Status: published
 Image_url: uploads/2018/fb-comm-simple-herd.png
 
 During summer hiatus I have promised to look into a data set I have extracted
