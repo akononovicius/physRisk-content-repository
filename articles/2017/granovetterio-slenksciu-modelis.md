@@ -1,7 +1,7 @@
 Title: Granovetter threshold model
 Date: 2017-03-07 07:24
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, M. Granovetter, politics, sociology
+Tags: Agent-based models, Interactive models, M. Granovetter, politics, sociology, opinion dynamics
 Slug: granovetterio-slenksciu-modelis
 Status: published
 

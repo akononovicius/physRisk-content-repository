@@ -1,7 +1,7 @@
 Title: Standing ovation model
 Date: 2017-02-21 07:35
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, J. H. Miller, S. E. Page, psychology
+Tags: Agent-based models, Interactive models, J. H. Miller, S. E. Page, psychology, opinion dynamics
 Slug: plojimu-atsistojus-modelis
 Status: published
 
