@@ -3,7 +3,7 @@ Date: 2018-09-25 08:00
 Author: Aleksejus Kononovicius
 Tags: SciShow, opinion dynamics, video, sociology
 Slug: scishow-could-scientists-predict-the-next-political-crisis
-Status: draft
+Status: published
 
 Being able to forecast is a big thing for scientists, but not always having
 understanding of the system leads to better forecasting. In physics we have
