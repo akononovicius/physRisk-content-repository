@@ -3,7 +3,7 @@ Date: 2018-10-02 08:00
 Author: Aleksejus Kononovicius
 Tags: facebook, data science, marketing, Bass model, Interactive models, opinion dynamics
 Slug: facebook-contest-data-set-reproducing-day-night-cycle
-Status: draft
+Status: published
 Image_url: uploads/2018/fb-comm-bass.png
 
 During summer hiatus I have promised to look into a data set I have extracted
