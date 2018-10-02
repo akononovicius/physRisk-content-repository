@@ -153,4 +153,4 @@ model is normally distributed.
 src="/uploads/models/preis-order-book-model/index.html" width="515"
 height="500" mode="iframe"]
 
-[acknowledge id="postdoc-ak-2017"]
+[acknowledge id="postdoc-ak-2017-lit"]

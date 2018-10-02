@@ -121,4 +121,4 @@ equal to \\\( 1 \\\)).
 src="/uploads/models/cristelli-order-book-model/index.html" width="515"
 height="470" mode="iframe"]
 
-[acknowledge id="postdoc-ak-2017"]
+[acknowledge id="postdoc-ak-2017-lit"]

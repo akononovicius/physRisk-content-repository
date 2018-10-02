@@ -36,4 +36,4 @@ The other app we would like to share in this post is more flexible, it allows to
 src="/uploads/models/maslov-order-book-model/index.html" width="515"
 height="500" mode="iframe"]
 
-[acknowledge id="postdoc-ak-2017"]
+[acknowledge id="postdoc-ak-2017-lit"]

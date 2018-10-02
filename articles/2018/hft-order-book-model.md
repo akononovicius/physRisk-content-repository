@@ -189,4 +189,4 @@ series.
 src="/uploads/models/takayasu-ob-model/index.html" width="520"
 height="530" mode="iframe"]
 
-[acknowledge id="postdoc-ak-2017"]
+[acknowledge id="postdoc-ak-2017-lit"]

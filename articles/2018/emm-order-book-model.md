@@ -65,4 +65,4 @@ The price in this case undergoes simple Brownian motion.
 src="/uploads/models/emm-ob-model/index.html" width="515"
 height="470" mode="iframe"]
 
-[acknowledge id="postdoc-ak-2017"]
+[acknowledge id="postdoc-ak-2017-lit"]
