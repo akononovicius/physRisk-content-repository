@@ -3,7 +3,7 @@ Date: 2018-10-09 08:00
 Author: Aleksejus Kononovicius
 Tags: Numberphile, popular culture, video, paradox, statistics, ASAPScience
 Slug: berkson-paradox
-Status: draft
+Status: published
 
 Berkson's paradox is one of the click-baity results you can obtain while doing
 conditional comparisons in your mind. For example, there is a common belief that
