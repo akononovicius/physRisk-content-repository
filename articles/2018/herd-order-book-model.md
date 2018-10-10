@@ -68,7 +68,7 @@ where \\\( \lambda_m \\\) is the base rate for the mood swings. The probability
 that chartist will submit market bid (buy) order is dependent on \\\( \xi \\\)
 as follows:
 \begin{equation}
-p_{\text{bid}}\left(t\right)=\frac{1+\xi\left(t\right)}{2},
+p_{\text{bid}}\left(t\right)=\frac{1+\xi\left(t\right)}{2}.
 \end{equation}
 
 Trading rate for chartist traders takes a very simple form:
