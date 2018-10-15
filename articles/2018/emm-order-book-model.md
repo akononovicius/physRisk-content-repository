@@ -1,7 +1,7 @@
 Title: Efficient market maker order book model
 Date: 2018-10-16 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, financial markets, order book, market marker
+Tags: Interactive models, Agent-based models, financial markets, order book, Walrasian Market
 Slug: efficient-market-maker-order-book-model
 Status: published
 Image_url: uploads/2018/emm-ob-model.png
@@ -26,6 +26,9 @@ one, but it maybe placed on either side of the order book. The new limit order
 is placed on the same side of the order book as the market order with
 probability \\\( p \\\), likewise a limit order is placed on the opposite side
 of the order book with probability \\\( 1 - p \\\).
+
+Note that order book model formulated in this way is essentially an almost
+perfect replica of the Walrasian market maker.
 
 ## Interactive applets
 
