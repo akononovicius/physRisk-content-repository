@@ -34,7 +34,9 @@ with the majority, then his willingness to change the opinion will be low.
 Otherwise the agent will be more inclined to switch his opinion. Let us say that
 the agent will change his opinion with probability \\\( q \\\) if he finds that
 he agrees with the local majority, while otherwise, if he disagrees with the
-local majority, he will "flip" with probability \\\( 1-q \\\).
+local majority, he will "flip" with probability \\\( 1-q \\\). If neither
+of the binary opinions has majority (it is a 2:2 draw), then the agent will flip
+with probability \\\( 0.5 \\\).
 
 These forms of probabilities likely come from a specific interpretation of the
 Ising model. In which the orientation of the selected spin is determined by
