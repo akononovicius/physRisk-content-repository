@@ -18,7 +18,7 @@ society.<!--more-->
 Racial segregation in Boston and around it. Data can be found on
 http://demographics.coopercenter.org/DotMap/index.html."){#attachment_2865} 
 
-### Agent model
+## Agent model
 
 Schelling proposed a simple agent-based model to answer this question.
 In his model agents are constantly looking for a good place to live on
@@ -39,7 +39,7 @@ neighbors of the different type, \\\(  N^{(i,j)}\_o \\\). If \\\( \frac{N^{(i,j)
 current neighborhood and he remains at his current location. Otherwise
 agent moves to a random empty cell.
 
-### Interactive HTML5 app
+## Interactive HTML5 app
 
 Use the bellow app to see how the model results change when more/less
 space becomes available (increase/decrease \\\(  p\_e \\\)), when society

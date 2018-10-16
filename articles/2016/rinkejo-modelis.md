@@ -14,7 +14,7 @@ time. In contemporary science this model is rather popular, thought now
 it is known as the voter model. This text discusses the simplest version
 of the model.<!--more-->
 
-### Essential rules behind the model
+## Essential rules behind the model
 
 We start with grid, which is fully filled with agents of random types.
 In our app we use only two types, but in general case one could use
@@ -31,7 +31,7 @@ It actually doesn't matter if you model human or animals. It actually
 doesn't matter if competition is between different opinions or between
 different species.
 
-### HTML5 app
+## HTML5 app
 
 In this app you can choose dimensionality of the topology - "1D" stands
 for the one dimensional case (topology - ring), while "2D" stands for

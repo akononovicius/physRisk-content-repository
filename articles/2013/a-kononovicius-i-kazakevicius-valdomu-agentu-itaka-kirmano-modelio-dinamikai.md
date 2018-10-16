@@ -113,7 +113,7 @@ will use only two words - first one will correspond to the interaction
 between the "normal" agents themselves, while the second will describe
 how the controlled agents interact with the "normal" agents.
 
-### Extensive-extensive and nonextensive-extensive interactions
+## Extensive-extensive and nonextensive-extensive interactions
 
 In the previous section we have considered the nonextensive-nonextensive
 case of the modified Kirman's model. We have seen that it is possible to
@@ -138,7 +138,7 @@ It should be evident that the interaction between the "normal" agents
 themselves doesn't matter that much in this case. So in the
 nonextensive-extensive case we result would be qualitatively similar.
 
-### Extensive-nonextensive interaction
+## Extensive-nonextensive interaction
 
 A more realistic assumption would be that the "normal" agents interact
 only with their neighbors, while the controlled agents with all "normal"

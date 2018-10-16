@@ -20,7 +20,7 @@ we will not delve in this complex matter. Our aim in this text is to
 show that vaccination helps saving lives of millions of people. Thus we
 may use a simpler agent-based model for this.<!--more-->
 
-### Formulation of the model
+## Formulation of the model
 
 First of all let us note that agents may be either vaccinated (in the
 app bellow they will be shown in green) or unvaccinated (shown in blue).
@@ -123,7 +123,7 @@ During initial time moment, we randomly assign one agent to be patient
 zero. It does not matter if his is vaccinated or not. Further spreading
 of the disease should be taken into consideration.
 
-### Results
+## Results
 
 As we already mentioned, the app allows to do the same experiment in two
 population groups. This was implemented in order to allow to compare how
@@ -196,7 +196,7 @@ themselves, people unable to get vaccines and broader community in risk.
 There will always be some individuals, who will not be saved by the
 vaccine. But vaccination helps to save millions of others!
 
-### HTML5 app
+## HTML5 app
 
 We invite you to play around with the app bellow to convince yourself
 that vaccination helps prevent disease outbreaks.
