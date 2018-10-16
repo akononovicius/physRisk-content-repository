@@ -35,7 +35,7 @@ Otherwise the agent will be more inclined to switch his opinion. Let us say that
 the agent will change his opinion with probability \\\( q \\\) if he finds that
 he agrees with the local majority, while otherwise, if he disagrees with the
 local majority, he will "flip" with probability \\\( 1-q \\\). If neither
-of the binary opinions has majority (it is a 2:2 draw), then the agent will flip
+of the binary opinions has majority, then the agent will flip
 with probability \\\( 0.5 \\\).
 
 These forms of probabilities likely come from a specific interpretation of the
@@ -46,6 +46,12 @@ to assume that probability to flip "in-majority" is a lot smaller than probabili
 to flip "out-of-majority". But we keep the original notation, because it is
 commonly used in the literature as well as to keep the model simpler (a single
 parameter instead of two).
+
+To keep matters simple in this implementation of the majority-vote model we
+consider only von Neumann neighborhood of radius 1 (namely each agent has only
+4 neighbors). In general one could consider broader radius or different types of
+neighborhoods, but this selection is one of the simplest and the most common
+in the literature.
 
 So for the majority-vote model to work nicely we simply have to require that
 \\\( q \ll 1 \\\). Earlier research suggests [cite id="Oliveira1992JStatPhys"]
