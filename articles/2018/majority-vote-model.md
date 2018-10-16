@@ -45,7 +45,7 @@ commonly used in the literature as well as to keep the model simpler (a single
 parameter instead of two).
 
 So for the majority-vote model to work nicely we simply have to require that
-\\\( q \ll 1 \\\). Earlier research suggests [cite id="Olivera1992JStatPhys"]
+\\\( q \ll 1 \\\). Earlier research suggests [cite id="Oliveira1992JStatPhys"]
 that especially interesting behavior should be observed for \\\( q \approx 0.075 \\\),
 because this is a critical point for continuous transition. It is also reported
 that this model possesses same critical exponents as the
