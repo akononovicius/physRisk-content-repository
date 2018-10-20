@@ -6,7 +6,8 @@ Slug: sznajd-united-we-stand-divided-we-fall-model
 Status: draft
 Image_url: uploads/2019/sznajd-model.png
 
-Sznajd model is another classical model in [opinion dynamics](/tag/opinion-dynamics/).
+Sznajd model, also known as united we stand, divided we fall model, is another
+classical model in [opinion dynamics](/tag/opinion-dynamics/).
 It was proposed in 2000 by two Polish scientists in [cite id="Sznajd2000IntJModPhysC"]
 and since then it was heavily studied both by various groups of sociophysicists.
 It was used not only in the usual generic scenarios (e.g., exploring how fast
@@ -33,14 +34,15 @@ also similar to the copying (herding) interactions in the
 shown that this model is equivalent to voter model with one caveat -- the
 opinion spreads not through the immediate neighbors (\\\( i \\\) influencing
 \\\( i+1 \\\)), but through the second neighbors (\\\( i \\\) influencing
-\\\( i+2 \\\)). This rule also stands for the part "united we stand" in the
+\\\( i+2 \\\)). This rule also stands for the "united we stand" part in the
 alternative naming of the model.
 
 The second rule in this model (not used in the later iterations of the model) is
 called **discord rule**, because disagreement (discord) spreads. This rule is a
 lot like anti-ferromagnetic interaction in the
 [Ising model]({filename}/articles/2010/ising-model.md). Using this rule creates
-chessboard patterns.
+chessboard patterns. This rule stands for the "divided we fall" part in the
+alternative naming of the model.
 
 Similarity to the [Ising]({filename}/articles/2010/ising-model.md) and
 the [voter]({filename}/articles/2016/rinkejo-modelis.md) models suggests what
