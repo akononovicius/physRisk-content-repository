@@ -3,7 +3,7 @@ Date: 2019-01-08 08:00
 Author: Aleksejus Kononovicius
 Tags: General information
 Slug: quite-productive-2018
-Status: published
+Status: draft
 Image_url: uploads/2019/rf-posts.png
 
 We had quite a lot of fun while exploring [price formation topic](/tag/price-formation-series/)
