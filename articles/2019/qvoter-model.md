@@ -58,6 +58,7 @@ has two critical values:
 \end{equation}
 
 These critical values determine the observed dynamics:
+
 * If \\\( \epsilon > \epsilon\_{c2} \\\), then the paramagnetic phase is
 observed (\\\( M \\\) fluctuates around zero, but the configuration of opinions
 constantly changes).

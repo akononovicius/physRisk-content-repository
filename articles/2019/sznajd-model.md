@@ -17,7 +17,7 @@ the opinions converge), but also helped to predict Polish elections of 2015
 ## The model
 
 Sznajd model itself is rather simple. In its original formulation
-[cite id="Sznajd2000IntJModPhysC] it uses only two rules: social validation rule
+[cite id="Sznajd2000IntJModPhysC"] it uses only two rules: social validation rule
 and discord rule.
 
 Unlike in the most other models of [opinion dynamics](/tag/opinion-dynamics) these
