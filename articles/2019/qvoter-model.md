@@ -1,5 +1,5 @@
 Title: q-Voter model
-Date: 2019-03-19 08:00
+Date: 2019-04-02 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, voter model
 Slug: q-voter-model

@@ -1,5 +1,5 @@
 Title: Vacillating voter model
-Date: 2019-03-05 08:00
+Date: 2019-03-19 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, voter model
 Slug: vacillating-voter-model
