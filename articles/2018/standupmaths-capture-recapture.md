@@ -3,7 +3,7 @@ Date: 2018-10-23 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, standupmaths
 Slug: standupmaths-how-estimate-population-using-statisticians
-Status: draft
+Status: published
 
 How could you estimate population size? Catch random sample of individuals
 to be "marked" (capture). Catch another random sample and count proportion
