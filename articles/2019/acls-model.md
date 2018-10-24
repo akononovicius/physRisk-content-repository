@@ -1,4 +1,4 @@
-Title: Authoritarian-conservative-libertarian-socialist Sznajd model
+Title: ACLS Sznajd model
 Date: 2019-03-05 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, Sznajd model
@@ -8,7 +8,8 @@ Image_url: uploads/2019/acls-model.png
 
 This time we consider another generalization of the
 [Sznajd model]({filename}/articles/2019/sznajd-model.md), which also includes
-four opinions. But now they are no longer one-dimensional! In this ACLS model
+four opinions. But now they are no longer one-dimensional! In this
+Authoritarian-conservative-libertarian-socialist (ACLS) Sznajd model
 opinions are two-dimensional. Namely, there are two binary dimensions:
 attitudes towards political and personal freedoms are considered at the same time
 [cite id="SznajdWeron2005PhysA"].<!--more-->
