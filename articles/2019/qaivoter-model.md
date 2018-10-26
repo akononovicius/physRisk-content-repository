@@ -17,7 +17,7 @@ interesting result reported in [cite id="Nail2016APPA"] is that two different
 psycho-social approaches to non-conformative behavior generate somewhat different
 results when introduced into the [q-Voter model]({filename}/articles/2019/qvoter-model.md).<!--more-->
 
-## The diamond model
+## The diamond model for social responses
 
 The core idea of the diamond model is that there are four possible responses
 to an external influence [cite id="Willis1965"]:
@@ -36,6 +36,8 @@ is missing from the most of them is details about non-conformative behavior.
 Usually these details are hand-waived and simple noise is used to reflect
 non-conforming behavior in agents. Yet as we can see there are three types
 of non-conformist behaviors.
+
+## Building the diamon model into the [q-Voter model]({filename}/articles/2019/qvoter-model.md)
 
 [cite id="Nail2016APPA"] builds two different models based on the
 [q-Voter model]({filename}/articles/2019/qvoter-model.md). First one (A model)
