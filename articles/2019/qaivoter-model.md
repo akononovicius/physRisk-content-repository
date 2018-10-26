@@ -86,7 +86,7 @@ probability. Namely, both phases appear to coexist.
 
 ![Phase diagram]({filename}/uploads/2019/qaivoter-phase.png "Phase diagram for
 the A model \(red\) and I model \(green\). Lines show the critical value
-dependence on q. Ordered phase area is shaded."){#fig3}
+dependence on q. Ordered phase area is shaded.")
 
 ## HTML 5 apps
 
