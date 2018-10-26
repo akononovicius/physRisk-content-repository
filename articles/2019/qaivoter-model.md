@@ -71,11 +71,11 @@ with the selected \\\( q \\\)-panel.
 Critical values, when the model is executed on the complete graph, are the following:
 for the A model
 \begin{equation}
-p^\*=\frac{q -1}{2 q},
+p^\*\_a=\frac{q -1}{2 q},
 \end{equation}
 and for the I model
 \begin{equation}
-p^\*=\frac{q -1}{q -1 + 2^{q-1}}.
+p^\*\_i=\frac{q -1}{q -1 + 2^{q-1}}.
 \end{equation}
 
 If the probabilities are larger than the critical probabilities, then disordered
@@ -84,16 +84,23 @@ Otherwise ordered (ferromagnetic) phase should be observed. Note that for \\\( q
 I model has a rather complicated behavior in the vicinity of critical
 probability. Namely, both phases appear to coexist.
 
+![Phase diagram]({filename}/uploads/2019/qaivoter-phase.png "Phase diagram for
+the A model \(red\) and I model \(green\). Lines show the critical value
+dependence on q. Ordered phase area is shaded."){#fig3}
+
 ## HTML 5 apps
 
-Here we provide two apps, which allows you to explore both A model (the first app)
-and I model (the second app). Explore the difference in their dynamics with
-larger values of \\\( q \\\) and intermediate probabilities.
+Here we provide you a single app, which evaluates both models with the same
+non-conformity probability. Explore the difference in the dynamics of the models
+with larger values of \\\( q \\\) and intermediate probabilities. I model should
+be quick to enter disordered phase, while A model should enter this phase with
+a bit larger \\\( p\_a \\\).
 
-[html5-interactive width="515" height="505" mode="iframe"
-src="/uploads/models/voter/qavoter.html"]
+[html5-interactive width="515" height="520" mode="iframe"
+src="/uploads/models/voter/qaivoter.html"]
 
-[html5-interactive width="515" height="505" mode="iframe"
-src="/uploads/models/voter/qivoter.html"]
+You can also study the models separately using separate app for each of the
+models. [Click here to find the app for the A model]({filename}/uploads/models/voter/qavoter.html)
+and [click here for the I model]({filename}/uploads/models/voter/qivoter.html).
 
 [acknowledge id="postdoc-ak-2017-lit"]
