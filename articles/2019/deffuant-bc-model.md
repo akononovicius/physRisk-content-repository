@@ -25,7 +25,7 @@ proposed by Deffuant et al. in [cite id="Deffuant2000ACS"].<!--more-->
 In the Deffuant model we consider a population \\\( N \\\) agents. These agents
 might be put on a graph (interacting only with their immediate neighbors), but
 let us consider only the simplest case when the agents are on the complete graph
-(agents are able to interact with all other agents). Each of these agents are
+(agents are able to interact with all other agents). Each of these agents is
 initially assigned opinion \\\( x\_i \\\), which is randomly chosen from the
 interval \\\( [0,1] \\\).
 
