@@ -16,7 +16,7 @@ interactions between the constituent parts of these systems play crucial role
 in the observed dynamics. These systems can not be understood as a simple sum
 of their parts.
 
-Human body is one of the examples of such syste,s. You can hardly understood
+Human body is one of the examples of such systems. You can hardly understood
 what it means to be human by studying our hearts and brains. These studies
 will also provide only minor hints to how human body works. In order to
 understand the inner workings one needs to see how each organ interacts with
