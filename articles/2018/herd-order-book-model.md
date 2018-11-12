@@ -3,7 +3,7 @@ Date: 2018-11-13 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, financial markets, order book, Kirman model, A. Kononovicius, J. Ruseckas
 Slug: order-book-model-herd-behavior
-Status: draft
+Status: published
 Image_url: uploads/2018/herd-ob-model.png
 
 This is the final post in our continuing series on the [order book models](/tag/order-book/).
