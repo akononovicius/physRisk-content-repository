@@ -6,7 +6,7 @@ Slug: m-sigman-how-can-groups-make-better-decisions
 Status: draft
 
 Recently we have introduced you all to the
-[hierarchical voting model]({filename}/articles/2019/hierarchical-voting-model.md)
+[hierarchical voting model]({filename}/articles/2018/hierarchical-voting-model.md)
 by Serge Galam. Now let us consider a very similar idea - what if before voting
 the people would discuss the issue in question in the small groups? Experiments
 conducted by social scientists Mariano Sigman and Dan Ariely seem to indicate
