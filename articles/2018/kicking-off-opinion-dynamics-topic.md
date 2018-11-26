@@ -3,7 +3,7 @@ Date: 2018-11-27 08:00
 Author: Aleksejus Kononovicius
 Tags: politics, sociology, opinion dynamics
 Slug: kicking-off-opinion-dynamics-topic
-Status: draft
+Status: published
 
 Soon we will kick off with a new topic entirely. The topic will not be outside the
 scope of Physics of Risk, but to a completely different subject still within our
