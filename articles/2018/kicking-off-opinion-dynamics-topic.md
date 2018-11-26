@@ -1,4 +1,4 @@
-Title: Kicking off a series of posts on the model of opinion dynamics
+Title: Kicking off a series of posts on the opinion dynamics
 Date: 2018-11-27 08:00
 Author: Aleksejus Kononovicius
 Tags: politics, sociology, opinion dynamics
