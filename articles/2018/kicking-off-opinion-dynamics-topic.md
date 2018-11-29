@@ -26,5 +26,3 @@ pure form both of them are about opinions than other rational arguments. Recentl
 I even have published a generalized [Kirman's model](/tag/kirman-model/) to describe
 N-state dynamics and applied the generalized model to reproduce Lithuanian
 parliamentary election results [cite id="Kononovicius2017Complexity,Kononovicius2018APPA"].
-
-[acknowledge id="postdoc-ak-2017-lit"]
