@@ -4,7 +4,7 @@ Slug: about
 Order: 0
 
 On this blog we discuss a variety of [topics](/topics/) related to the research
-interests of our Complex systems group in [Vilnius University](http://www.vu.lt/)
+interests of our Complex Physical and Social Systems group in [Vilnius University](http://www.vu.lt/)
 [Faculty of Physics](http://www.ff.vu.lt/)
 [Institute of Theoretical Physics and Astronomy](http://www.tfai.vu.lt). We try
 to cover research done by us as well as related research carried out by other
@@ -26,7 +26,7 @@ V. Daniūnas, M. Alaburda, T. Meškauskas.
 **Currently this blog is maintaned** by
 [Aleksejus Kononovicius](http://kononovicius.lt).
 
-## Members of our Complex systems group
+## Members of our Complex Physical and Social Systems group
 
 * [dr. Vygintas Gontis](http://gontis.eu) (head of the group)
 * [prof. habil. dr. Bronislovas Kaulakys](http://www.itpa.lt/kaulakys/)
