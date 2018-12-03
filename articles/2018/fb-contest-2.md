@@ -22,7 +22,7 @@ Now I will try to build models for the event-space observations.
 For a first model let us simply consider that probability to get a comment
 with an answer 5 is fixed, \\\( p \\\).
 
-![Simple random model]({filename}/uploads/2018/fb-comm-simple-p.png "The goodness
+![Simple random model](/uploads/2018/fb-comm-simple-p.png "The goodness
 of simple model with different \\\( p \\\) values."){#fig3}
 
 As one can see in [Fig. 3](#fig3) the best \\\( p \\\) is around \\\( 0.88 \\\).
@@ -47,7 +47,7 @@ in \\\( X_o \\\):
 p ( X_o \rightarrow X_o+1 ) = \frac{\varepsilon + X_o}{2 \varepsilon + X_5 + X_o}.
 \end{equation}
 
-![Simple herding model]({filename}/uploads/2018/fb-comm-simple-herd.png "The goodness
+![Simple herding model](/uploads/2018/fb-comm-simple-herd.png "The goodness
 of simple herding model with different \\\( \varepsilon \\\) values."){#fig4}
 
 As we can see in [Fig. 4](#fig4) the model seems to work best with
@@ -75,7 +75,7 @@ p ( X_o \rightarrow X_o+1 ) = \frac{\varepsilon + \frac{X_o}{N}}{2 \varepsilon +
 Because of this form of the transition probabilities I will refer to this model
 as the simple local herding model.
 
-![Simple local herding model]({filename}/uploads/2018/fb-comm-simple-herd-local.png
+![Simple local herding model](/uploads/2018/fb-comm-simple-herd-local.png
 "The goodness of simple local herding model with different \\\( \varepsilon \\\) values."){#fig5}
 
 As we can see in [Fig. 5](#fig5) the model seems to work best with
