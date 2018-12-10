@@ -3,7 +3,7 @@ Date: 2018-12-11 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, voter model
 Slug: majority-vote-model
-Status: draft
+Status: published
 Image_url: uploads/2018/majority-vote-model.png
 
 Couple of years ago we have discussed one of the most prominent models in
