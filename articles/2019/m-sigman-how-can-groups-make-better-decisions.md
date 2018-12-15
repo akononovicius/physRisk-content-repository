@@ -1,5 +1,5 @@
 Title: M. Sigman: How can groups make better decisions?
-Date: 2019-01-15 08:00
+Date: 2019-01-29 08:00
 Author: Aleksejus Kononovicius
 Tags: ted.com, video, politics, opinion dynamics, M. Sigman, D. Ariely, crowd wisdom
 Slug: m-sigman-how-can-groups-make-better-decisions
