@@ -3,7 +3,7 @@ Date: 2018-12-18 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, statistical physics
 Slug: hierarchical-voting-model
-Status: draft
+Status: published
 Image_url: uploads/2018/hierarchical-voting-model.png
 
 Few years ago we have already introduced a more sophisticated version
