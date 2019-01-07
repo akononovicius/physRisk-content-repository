@@ -20,7 +20,7 @@ while the narrower bars represent a number of posts with 'Interactive models' ta
 Note that our history stretches back into 2006 and some of the data is not reflected
 in the graph above. Here we do not account for the posts, which where written in
 Lithuanian only. While most of these are not lost and are safely stored, their
-recovery is somewhat complicated matter.
+recovery and proper translation is a bit more complicated matter.
 
 So far the plan for this year (2019) is to continue our recently started series
 of posts on [opinion dynamics](/tag/opinion-dynamics/). What will come next only
