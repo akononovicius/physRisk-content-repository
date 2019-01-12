@@ -1,5 +1,5 @@
 Title: Hot hand fallacy?
-Date: 2019-03-26 08:00
+Date: 2019-03-12 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, burst statistics, sports, Numberphile, fractals
 Slug: hot-hand-fallacy
