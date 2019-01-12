@@ -6,7 +6,7 @@ Slug: hot-hand-science-acting
 Status: draft
 Image_url: uploads/2019/dreamstime_xxl_114021426.jpg
 
-As we have seen [few weeks ago]({filename}/articles/2019/hot-hand) there is no
+As we have seen [few weeks ago]({filename}/articles/2019/hot-hand.md) there is no
 evidence for hot hands in sports. While there is skill in sports, but short
 term streaks do not exist. Their simply an illusion caused by the randomness
 involved.
