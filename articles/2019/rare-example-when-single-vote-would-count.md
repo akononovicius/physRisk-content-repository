@@ -1,9 +1,9 @@
 Title: A rare example when a single vote would count
 Date: 2019-01-15 08:00
 Author: Aleksejus Kononovicius
-Tags: video, politics, opinion dynamics, USD
+Tags: video, politics, opinion dynamics
 Slug: rare-example-when-single-vote-would-count
-Status: draft
+Status: published
 
 It is often said that turning up to vote is not quite rational behavior, because
 the probability that your vote would decided the outcome is minuscule. Opponents
