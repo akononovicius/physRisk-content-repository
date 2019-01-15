@@ -1,7 +1,7 @@
 Title: IARIA publication reviewing our different research directions
 Date: 2012-02-27 09:13
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Econometrics, Economics, Stochastic models, Business processes, A. Kirman, A. Kononovicius, Bass model, F. M. Bass, Kirman model, V. Daniunas, V. Gontis, agent based reasoning, methods, literature, multifractality, burst statistics, marketing
+Tags: Agent-based models, Econometrics, Economics, Stochastic models, Business processes, A. Kirman, A. Kononovicius, Bass model, F. M. Bass, Kirman model, V. Daniunas, V. Gontis, agent-based reasoning, methods, literature, multifractality, burst statistics, marketing
 Slug: iaria-publication-reviewing-our-different-research-directions
 Status: published
 
@@ -18,6 +18,6 @@ Award by the publisher IARIA.<!--more-->
 This year we were asked to submit a broader review of our work done in
 the context of Physics of Risk. Thus we have gathered \[cite
 id="Kononovicius2012IntSys"\] all of our latest research and created a
-very broad review of stochastic and agent based modeling in the topics
+very broad review of stochastic and agent-based modeling in the topics
 of financial markets and marketing. The draft is available on
 [arXiv](http://arxiv.org/abs/1202.3533 "[1202.3533] Agent-based Versus Macroscopic Modeling of Competition and Business Processes in Economics and Finance").

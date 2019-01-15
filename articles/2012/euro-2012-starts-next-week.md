@@ -1,7 +1,7 @@
 Title: EURO 2012 starts next week
 Date: 2012-07-02 07:56
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General information, Network models, Business processes, A. Kononovicius, Kirman model, agent based reasoning, financial markets, conference
+Tags: Agent-based models, General information, Network models, Business processes, A. Kononovicius, Kirman model, agent-based reasoning, financial markets, conference
 Slug: euro-2012-starts-next-week
 Status: published
 

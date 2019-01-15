@@ -6,9 +6,9 @@ Slug: simple-rules-and-the-complexity-of-collective-behavior
 Status: published
 
 It
-should be pretty straightforward why the agent based models appear to be
+should be pretty straightforward why the agent-based models appear to be
 very simple. They do poses technical simplicity, which my cause some
-doubts on the actual usefulness of the agent based models. But the fact
+doubts on the actual usefulness of the agent-based models. But the fact
 is that they are able to reproduce complex, non-trivial behavioral
 patterns.<!--more-->
 

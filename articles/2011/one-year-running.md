@@ -9,7 +9,7 @@ A
 year has passed since the opening of the renew Physics of Risk website.
 This year was highly productive for us, [the
 contributors](/about). We have
-published 7 new econophysical, 1 fractal + 3 stochastic + 3 agent based,
+published 7 new econophysical, 1 fractal + 3 stochastic + 3 agent-based,
 models and 18 models of varying business processes. Some of the models
 belonging to these two groups are very similar (we have found that most
 similar are Bass diffusion model and [Unidirectional Kirman's

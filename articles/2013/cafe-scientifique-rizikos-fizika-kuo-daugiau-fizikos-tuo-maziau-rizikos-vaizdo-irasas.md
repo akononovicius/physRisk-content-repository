@@ -1,7 +1,7 @@
 Title: Cafe Scientifique "Physics of Risk: the more physics, the less risk" video recording
 Date: 2013-11-13 20:14
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General information, Economics, Stochastic models, Network models, 1/f noise, A. Kirman, A. Kononovicius, B. Kaulakys, D. Helbing, D. Sornette, Kirman model, V. Gontis, VU FF, agent based reasoning, biology, traffic, financial markets, internet, announcement, statistical physics, video, webseminarai.lt
+Tags: Agent-based models, General information, Economics, Stochastic models, Network models, 1/f noise, A. Kirman, A. Kononovicius, B. Kaulakys, D. Helbing, D. Sornette, Kirman model, V. Gontis, VU FF, agent-based reasoning, biology, traffic, financial markets, internet, announcement, statistical physics, video, webseminarai.lt
 Slug: cafe-scientifique-rizikos-fizika-kuo-daugiau-fizikos-tuo-maziau-rizikos-vaizdo-irasas
 Status: published
 

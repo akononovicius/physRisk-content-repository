@@ -1,14 +1,14 @@
-Title: Our recent articles on agent based reasoning and the burst statistics
+Title: Our recent articles on agent-based reasoning and the burst statistics
 Date: 2012-01-17 10:00
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General information, Econometrics, Stochastic models, 1/f noise, A. Kononovicius, S. Reimann, V. Gontis, agent based reasoning, financial markets, literature, multifractality, burst statistics
+Tags: Agent-based models, General information, Econometrics, Stochastic models, 1/f noise, A. Kononovicius, S. Reimann, V. Gontis, agent-based reasoning, financial markets, literature, multifractality, burst statistics
 Slug: recent-articles-agent-based-modeling-burst-statistics
 Status: published
 
 In the next Physica A
 issue (will be made available in February, 2012) our article \[cite
 id="Kononovicius2012PhysA"\] will be published. The article is on the
-agent based reasoning for the stochastic models. Basically this article
+agent-based reasoning for the stochastic models. Basically this article
 incorporates knowledge obtained while working on the simple models
 provided on Physics of Risk:<!--more-->
 

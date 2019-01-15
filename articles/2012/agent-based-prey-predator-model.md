@@ -1,7 +1,7 @@
-Title: Agent based prey-predator model
+Title: Agent-based prey-predator model
 Date: 2012-10-15 07:37
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, Lotka-Volterra, agent based reasoning, biology, evolution models, old models
+Tags: Agent-based models, Interactive models, Lotka-Volterra, agent-based reasoning, biology, evolution models, old models
 Slug: agent-based-prey-predator-model
 Status: published
 
@@ -19,7 +19,7 @@ considering the agent-based model.<!--more-->
 Interestingly due to the various applications of the Lotka-Volterra
 equations \[cite id="Ausloos2009Chess, Goodwin1967Cambridge,
 Olivera2011DynSocEcoSys, Solomon2000Hermes, Vitanov2012ACS"\], this
-agent based model provides insights not only to the ecosystem, but also
+agent-based model provides insights not only to the ecosystem, but also
 into the other socio-economic systems.
 
 Formulation of the agent-based model
@@ -58,7 +58,7 @@ the two randomly picked cells, one has to apply the following rules:
     from one cell to another unoccupied cell.
 
 Bellow you should an interactive HTML5 applet, which can be used to
-study the dynamics of the agent based model formulated in this text.
+study the dynamics of the agent-based model formulated in this text.
 Note that unlike in the previous case of deterministic model, this model
 possesses certain stochastic features. Namely you can observe certain
 fluctuations, which could "kill" the ecosystem or extend its "life".

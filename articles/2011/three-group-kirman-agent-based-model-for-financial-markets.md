@@ -1,13 +1,13 @@
-Title: Three group Kirman's agent based model for financial markets
+Title: Three group Kirman's agent-based model for financial markets
 Date: 2011-09-20 14:38
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, A. Kirman, A. Kononovicius, Kirman model, P. Purlys, agent based reasoning, financial markets
+Tags: Agent-based models, Interactive models, A. Kirman, A. Kononovicius, Kirman model, P. Purlys, agent-based reasoning, financial markets
 Slug: three-group-kirman-agent-based-model-for-financial-markets
 Status: published
 
 As we have seen previously [application of the
 original Kirman's
-model](/agent-based-herding-model-financial-markets "Agent based herding model of financial markets on Physics of Risk")
+model](/agent-based-herding-model-financial-markets "Agent-based herding model of financial markets on Physics of Risk")
 enables reproduction of single power law spectral density \[cite
 id="Kononovicius2012PhysA"\]. While actual financial markets and
 [sophisticated stochastic
@@ -20,11 +20,11 @@ based model towards financial markets.<!--more-->
 One can create more sophisticated model in various ways. The two main
 options are a possibility to combine multiple stochastic models obtained
 while analyzing stochastic treatment of Kirman's model \[cite
-id="Kononovicius2011DPGVerh"\] and a possibility extend agent based
+id="Kononovicius2011DPGVerh"\] and a possibility extend agent-based
 model itself \[cite id="Purlys2011mtd2"\]. Speaking of latter
-possibility, it is possible to improve agent based model by introducing
+possibility, it is possible to improve agent-based model by introducing
 additional agent groups or splitting old ones. Despite of previous lack
-of success, even multi-group agent based models \[cite
+of success, even multi-group agent-based models \[cite
 id="Bornholdt2001IJMPC, Lux1999Nature, Yook2008JKPS"\] were unable to
 reproduce fracture in spectral density, this option still looks
 promising as one does not need to make strong assumptions.
@@ -35,7 +35,7 @@ Three group financial market model
 In this text we will attempt to obtain fractured spectral density
 without making any strong assumptions. Similar, though broader,
 discussion is available in \[cite id="Purlys2011mtd2"\]). [In previous
-application](/agent-based-herding-model-financial-markets "Agent based herding model of financial markets on Physics of Risk")
+application](/agent-based-herding-model-financial-markets "Agent-based herding model of financial markets on Physics of Risk")
 we have considered dynamics only between chartist and fundamentalist
 groups \[cite id="Kononovicius2012PhysA"\], while it is natural to
 expect that chartist agents may disagree in their expectations and thus
@@ -130,7 +130,7 @@ dynamics to the financial market observables, namely price and return.
 We do so by utilizing original Walras law, i. e. we assume that market
 maker stabilizes the market after each change to the supply and demand.
 We have already discussed this topic on Physics of Risk (see [this
-text](/agent-based-herding-model-financial-markets#price-return "Introducing price and return into the agent based herding model of financial markets")).
+text](/agent-based-herding-model-financial-markets#price-return "Introducing price and return into the agent-based herding model of financial markets")).
 Thus from the market maker assumption, and by using previous experience,
 we can draw expression of price
 

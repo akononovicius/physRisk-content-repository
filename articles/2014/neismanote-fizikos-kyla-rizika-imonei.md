@@ -31,7 +31,7 @@ Small disturbances - large consequences
 According to our interviewee, if road is packed with cars, then sudden
 deceleration of one car may trigger "stopping" wave through all cars in
 the road.  
-"By taking these observations into account we can create agent based
+"By taking these observations into account we can create agent-based
 model, which would replicate general features of car traffic. The model
 could be further applied while creating, testing and improving traffic
 related projects - cross-roads and flyovers, self-driving cars and smart
@@ -67,8 +67,8 @@ Asked if this motto could applied in business A. Kononovicius swiftly
 replies: "Business, as well as society, would gain a lot from the
 optimization of logistic problems. One of the success stories in
 business world is related to the American "Southwest Airlines". This
-company was one of the first to use agent based model to optimize its
-cargo delivery policies. Agent based model suggest counter-intuitive
+company was one of the first to use agent-based model to optimize its
+cargo delivery policies. Agent-based model suggest counter-intuitive
 strategy - to decrease not the distance traveled, but number of flights.
 This strategy helped save millions dollars, which would be otherwise
 spent on cargo handling."
@@ -83,13 +83,13 @@ as I know, they use phenomenological models, which are either derived
 from the past data or are fitted to it. The essential drawback of such
 models is that they are able to reproduce only what is included in the
 data - they are able to grasp only the most direct relationships between
-the observables. Agent based models, on the other hand, may grasp the
+the observables. Agent-based models, on the other hand, may grasp the
 hidden relationships and thus replicate the full complexity of the
 phenomenon, both one that exists in the data and the one that may
 emerge", - A. Kononovicius develops his thought on the financial
 markets.
 
-According to him, agent based models might grasp the hidden feedback
+According to him, agent-based models might grasp the hidden feedback
 loops, which exist in the actual systems. The inclusion of feedback
 loops into the models may help to understand the impact of our present
 actions on the future of the market. This understanding might provide a

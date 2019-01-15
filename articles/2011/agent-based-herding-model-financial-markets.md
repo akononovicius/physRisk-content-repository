@@ -1,7 +1,7 @@
-Title: Agent based herding model of financial markets
+Title: Agent-based herding model of financial markets
 Date: 2011-07-08 08:12
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, Stochastic models, 1/f noise, A. Kirman, A. Kononovicius, CEV process, Kirman model, S. Alfarano, V. Gontis, agent based reasoning, financial markets
+Tags: Agent-based models, Interactive models, Stochastic models, 1/f noise, A. Kirman, A. Kononovicius, CEV process, Kirman model, S. Alfarano, V. Gontis, agent-based reasoning, financial markets
 Slug: agent-based-herding-model-financial-markets
 Status: published
 
@@ -17,7 +17,7 @@ doubtful as human society is far more complex than ant colony, but
 methodologically it is more useful to start from very simple and
 stylized model and later add complexity on top of it. Furthermore we
 have already shown that Kirman's herding dynamics could be applicable in
-agent based marketing (see [comparison of Kirman's and Bass diffusion
+agent-based marketing (see [comparison of Kirman's and Bass diffusion
 model](/unidirectional-kirman-model "Unidirectional Kirman's model on Physics of Risk")).
 In this text we will consider financial market scenario and obtain
 stochastic differential equations similar to the existing stochastic
@@ -140,7 +140,7 @@ Introducing price and return {#price-return}
 
 While introducing variable time scale we assumed that there are at least
 two types of traders - some are rational, while some are not so. In
-recent agent based modeling \[cite id="Cristelli2012Fermi"\] it is also
+recent agent-based modeling \[cite id="Cristelli2012Fermi"\] it is also
 very common to assume that there are two types of traders in the market
 - fundamentalists and noise traders. By definition fundamentalists are
 assumed to be rational investors aiming for the long term profits, while
@@ -322,7 +322,7 @@ Solid curves are inverse power law fits: (a) \\\( \lambda=3 \\\) (all three case
 The above comparison is very important as stochastic differential
 equation \[eqref id="oursde"\] is a more general case of our stochastic
 model of return \[cite id="Gontis2010Intech"\]. Working on this approach
-further we might be able to create agent based model providing more
+further we might be able to create agent-based model providing more
 sophisticated statistical features reproduced by the model consider in
 \[cite id="Gontis2010Intech"\].
 

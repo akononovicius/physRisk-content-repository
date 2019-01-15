@@ -8,9 +8,9 @@ Status: published
 In the recent few days we have replaced another four Java applets
 with their HTML5 counterparts. The following articles were updated:<!--more-->
 
-* <del>[Agent based herding model of financial markets](/agent-based-herding-model-financial-markets "Agent based herding model of financial markets"),</del>
+* <del>[Agent-based herding model of financial markets](/agent-based-herding-model-financial-markets "Agent-based herding model of financial markets"),</del>
 * [Long-range memory stochastic model of return](/long-range-memory-stochastic-model-return "Long-range memory stochastic model of return"),
-* [Three group Kirman’s agent based model for financial markets](/three-group-kirman-agent-based-model-for-financial-markets "Three group Kirmans agent based model for financial markets"),
+* [Three group Kirman’s agent-based model for financial markets](/three-group-kirman-agent-based-model-for-financial-markets "Three group Kirmans agent-based model for financial markets"),
 * [Burst statistics in non-linear stochastic models](/burst-statistics-non-linear-stochastic-models "Burst statistics in non-linear stochastic models"),
 
 Two more applets are still

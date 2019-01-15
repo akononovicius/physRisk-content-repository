@@ -6,12 +6,12 @@ Slug: stochastic-ant-colony-model
 Status: published
 
 Previously on Physics of Risk website we have
-presented [Kirman's ant colony agent based
-model](/kirman-ants "Kirman's ant colony agent based model on Physics of Risk website")
+presented [Kirman's ant colony agent-based
+model](/kirman-ants "Kirman's ant colony agent-based model on Physics of Risk website")
 \[cite id="Kirman1993QJE"\], where each ant was represented as an agent.
-In this article we will move from the agent based model framework to the
+In this article we will move from the agent-based model framework to the
 stochastic differential equation framework. Thus showing that in case of
-simple agent based models full transition to stochastic framework is
+simple agent-based models full transition to stochastic framework is
 possible. This transition is very important as stochastic framework is
 very popular and well developed in quantitative finance. The problem is
 that stochastic framework mainly gives only a macroscopic insight into
@@ -25,7 +25,7 @@ Derivation of stochastic differential equation
 In this section of the article we will follow derivation of stochastic
 differential equation, analogous to [the previously discussed agent
 based
-model](/kirman-ants "Kirman's ant colony agent based model on Physics of Risk website"),
+model](/kirman-ants "Kirman's ant colony agent-based model on Physics of Risk website"),
 done by Alfarano and Lux in \[cite id="Alfarano2005CompEco"\]. Authors
 of \[cite id="Alfarano2005CompEco"\] in their derivation follow the
 underlying ideas of *birth-death processes* or *one-step processes*,
@@ -34,8 +34,8 @@ Calculus. Thus if you want to get more familiar with the ideas bellow
 you shoud see \[cite id="Gardiner2009Springer"\] or other similar works.
 
 Alfarano and Lux start by simplifying notation, used in [the previous
-agent based
-model](/kirman-ants "Kirman's ant colony agent based model on Physics of Risk website"),
+agent-based
+model](/kirman-ants "Kirman's ant colony agent-based model on Physics of Risk website"),
 of system state, defined as number of ants using one of the food
 sources, \\\(  X \\\), transition probabilities,
 
@@ -192,7 +192,7 @@ And then from continuity equation one can obtain *Fokker-Plank equation*
 \end{equation}
 
 
-which produces the same dynamics as agent based model. Note that custom
+which produces the same dynamics as agent-based model. Note that custom
 functions, which were introduced before, have special meaning - \\\( A(x) \\\) describes drift of the system state and \\\(  D(x) \\\) describes
 it's diffusion.
 
@@ -221,18 +221,18 @@ Observed population fraction dynamics
 -------------------------------------
 
 The only thing, which has changed since [the previous
-implementation](/kirman-ants "Kirman's ant colony agent based model on Physics of Risk website")
+implementation](/kirman-ants "Kirman's ant colony agent-based model on Physics of Risk website")
 of Kirman's ant colony model, is modeling framework - in the section
 above we have derived Langevin equation for Kirman's ant colony. Thus
 observations discussed in [the previous
-article](/kirman-ants "Kirman's ant colony agent based model on Physics of Risk website")
+article](/kirman-ants "Kirman's ant colony agent-based model on Physics of Risk website")
 also apply towards this model. This time we just limit ourselves to
-simply showing that Langevin equation and agent based model produce same
+simply showing that Langevin equation and agent-based model produce same
 results using same parameter values (see [Fig 1.](#attachment_788)).
 
 ![image](/uploads/2010/11/sde_abm_comparison.png "Comparison of probability density function (a) and power
 spectral density (b) of external observable, x, time series, which were
-produced by agent based model (points) and stochastic model (lines).
+produced by agent-based model (points) and stochastic model (lines).
 Parameters are set as follows: \\\( h=1 \\\) (same in all cases), \\\( \sigma_1 =0.2 \\\) (red
 points, blue lines), \\\( \sigma_1 =16 \\\) (magenta points, cyan lines), \\\( \sigma_2=5 \\\) (same
 in all

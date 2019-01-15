@@ -1,7 +1,7 @@
 Title: Statistical physics - a key to understanding of the social and economic complexity
 Date: 2014-02-24 07:02
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General models, Network models, A. Kononovicius, Barabasi-Albert model, D. Helbing, Erdos-Renyi model, Mokslo Sriuba, agent based reasoning, biology, traffic, financial markets, internet, konstanta.lt, literature, popular culture, statistical physics, technologijos.lt
+Tags: Agent-based models, General models, Network models, A. Kononovicius, Barabasi-Albert model, D. Helbing, Erdos-Renyi model, Mokslo Sriuba, agent-based reasoning, biology, traffic, financial markets, internet, konstanta.lt, literature, popular culture, statistical physics, technologijos.lt
 Slug: statistical-physics-a-key-to-understanding-of-the-social-and-economic-complexity
 Status: published
 

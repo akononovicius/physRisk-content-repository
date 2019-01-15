@@ -47,7 +47,7 @@ Furthermore different research groups find different ways to express
 their ideas using, seemingly, the very same modeling language – some
 prefer stochastic differential equations, others rely on autoregresive
 models. Numbers of groups study microscopical structure of financial
-markets – by using agent based and network models. Reviewing all those
+markets – by using agent-based and network models. Reviewing all those
 of trends and ideas would be hard and virtually impossible task.
 
 Our research was started by the efforts of group lead by prof. Bronius
@@ -129,6 +129,6 @@ Completion of this work gives us insight that the possibilities of
 stochastic calculus in finance are far from being depleted, though at
 the same time obtained results encourage us to tackle the problem of
 understanding microscopical mechanics behind the financial markets. Thus
-the search of simple agent based model is becoming very relevant
+the search of simple agent-based model is becoming very relevant
 interest. It is as always is in science – obtained answers only
 encourage to explore newer horizons.

@@ -35,18 +35,18 @@ Articles with old Java applets
     automatons](/wolframs-elementary-automatons "Wolframs elementary automatons")</del>,
 -   <del>[Agent-based prey-predator
     model](/agent-based-prey-predator-model "Agent-based prey-predator model")</del>,
--   <del>[Bornholdt’s heterogeneous agent based spin model for financial
-    markets](/bornholdt-model "Bornholdt’s heterogeneous agent based spin model for financial markets")</del>,
+-   <del>[Bornholdt’s heterogeneous agent-based spin model for financial
+    markets](/bornholdt-model "Bornholdt’s heterogeneous agent-based spin model for financial markets")</del>,
 -   <del>[Stochastic ant colony
     model](/stochastic-ant-colony-model "Stochastic ant colony model")</del>,
 -   <del>[Kirman’s ant colony
     model](/kirman-ants "Kirmans ant colony model")</del>,
--   <del>[Agent based herding model of financial
-    markets](/agent-based-herding-model-financial-markets "Agent based herding model of financial markets")</del>,
+-   <del>[Agent-based herding model of financial
+    markets](/agent-based-herding-model-financial-markets "Agent-based herding model of financial markets")</del>,
 -   <del>[Long-range memory stochastic model of
     return](/long-range-memory-stochastic-model-return "Long-range memory stochastic model of return"),</del>
--   <del>[Three group Kirman’s agent based model for financial
-    markets](/three-group-kirman-agent-based-model-for-financial-markets "Three group Kirmans agent based model for financial markets"),</del>
+-   <del>[Three group Kirman’s agent-based model for financial
+    markets](/three-group-kirman-agent-based-model-for-financial-markets "Three group Kirmans agent-based model for financial markets"),</del>
 -   <del>[Burst statistics in non-linear stochastic
     models](/burst-statistics-non-linear-stochastic-models "Burst statistics in non-linear stochastic models"),</del>
 -   [Multifractality of time series](/multifractality-time-series "Multifractality of time series"),
