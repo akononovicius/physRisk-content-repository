@@ -3,7 +3,7 @@ Date: 2019-01-22 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, voter model, Sznajd model
 Slug: sznajd-united-we-stand-divided-we-fall-model
-Status: draft
+Status: published
 Image_url: uploads/2019/sznajd-model.png
 
 Sznajd model, also known as united we stand, divided we fall model, is another
