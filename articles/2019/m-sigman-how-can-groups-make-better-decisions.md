@@ -3,7 +3,7 @@ Date: 2019-01-29 08:00
 Author: Aleksejus Kononovicius
 Tags: ted.com, video, politics, opinion dynamics, M. Sigman, D. Ariely, crowd wisdom
 Slug: m-sigman-how-can-groups-make-better-decisions
-Status: draft
+Status: published
 
 Recently we have introduced you all to the
 [hierarchical voting model]({filename}/articles/2018/hierarchical-voting-model.md)
