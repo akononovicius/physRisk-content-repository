@@ -3,7 +3,7 @@ Date: 2019-02-05 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, Sznajd model
 Slug: misread-four-state-sznajd-model
-Status: draft
+Status: published
 Image_url: uploads/2019/s4sm.png
 
 Last time we have introduced you to the [Sznajd model]({filename}/articles/2019/sznajd-model.md).
