@@ -3,7 +3,7 @@ Date: 2019-02-12 08:00
 Author: Aleksejus Kononovicius
 Tags: Economics, Agent-based models, financial markets, opinion dynamics, literature, macroeconomics, J. P. Bouchaud
 Slug: j-p-bouchaud-econophysics-still-fring-after-30-years
-Status: draft
+Status: published
 
 > <...> Unfortunately, this cross-fertilisation did not really follow through, at
 > least not on a large scale, in spite of the involvement of larger and larger
