@@ -23,7 +23,8 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 * During **the autumn of 2018** Ignas Kazakevičius, fifth year student
 at Vilnius University Faculty of Physics, wrote a term paper "Spurious
-long--range memory in immitative agent--based models".
+long--range memory in immitative agent--based models". The student was
+supervised by dr. Vygintas Gontis.
 * During **the spring of 2018** Edvinas Butiškis, fourth year student
 at Vilnius University Faculty of Physics, wrote a bachelor thesis
 "Imitative model of opinion dynamics". The student was supervised by
