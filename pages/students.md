@@ -15,12 +15,15 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 ## Completed thesis, term papers and internships
 
-**Term papers:** 9 (3 BSc + 6 MSc)
+**Term papers:** 10 (3 BSc + 7 MSc)
 
 **Thesis:** 11 (6 BSc + 2 MSc + 3 PhD)
 
 **Internships:** 7
 
+* During **the autumn of 2018** Ignas Kazakevičius, fifth year student
+at Vilnius University Faculty of Physics, wrote a term paper "Spurious
+long--range memory in immitative agent--based models".
 * During **the spring of 2018** Edvinas Butiškis, fourth year student
 at Vilnius University Faculty of Physics, wrote a bachelor thesis
 "Imitative model of opinion dynamics". The student was supervised by
@@ -76,12 +79,12 @@ exchange rate". Internship was supervised by Vygintas Gontis. Internship
 was supported by the [Research Council of
 Lithuania](http://www.lmt.lt) (under the project "Promotion of Student
 Scientific Activities" (VP1-3.1-ŠMM-01-V-02-003)).
-* During **the spring of 2012** Petras Purlys, second year student
+* During **the spring of 2012** Petras Purlys, sixth year student
 at Vilnius University Faculty of Physics, wrote a master thesis
 "Microscopic and Macroscopic Modeling of Kirman Interaction between
 Three Agent Groups". Term papers leading to the thesis were prepared
 during previous semesters. The student was supervised by Vygintas Gontis.
-* During **the spring of 2011** Aleksejus Kononovicius, second year
+* During **the spring of 2011** Aleksejus Kononovicius, sixth year
 student at Vilnius University Faculty of Physics, wrote a master thesis
 "Microscopic Reasoning for the Stochastic Models". Term papers leading
 to the thesis were prepared during previous semesters. The student was
