@@ -3,7 +3,7 @@ Date: 2019-02-19 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, Sznajd model
 Slug: stauffers-four-state-sznajd-model
-Status: draft
+Status: published
 Image_url: uploads/2019/s4sm2.png
 
 [Last time]({filename}/articles/2019/misread-four-state-sznajd-model.md) I have
