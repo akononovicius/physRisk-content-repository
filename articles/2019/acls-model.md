@@ -3,7 +3,7 @@ Date: 2019-03-05 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, Sznajd model
 Slug: acls-sznajd-model
-Status: draft
+Status: published
 Image_url: uploads/2019/acls-model.png
 
 This time we consider another generalization of the
