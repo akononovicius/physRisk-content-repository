@@ -3,7 +3,7 @@ Date: 2019-03-12 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, burst statistics, sports, Numberphile, fractals
 Slug: hot-hand-fallacy
-Status: draft
+Status: published
 Image_url: uploads/2019/dreamstime_xxl_114021426.jpg
 
 A player sinks his fourth shot in a row and the crowd goes wild, while
