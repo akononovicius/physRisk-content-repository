@@ -3,7 +3,7 @@ Date: 2019-03-19 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, voter model
 Slug: vacillating-voter-model
-Status: draft
+Status: published
 Image_url: uploads/2019/vvoter-model.png
 
 Vacillating voter model is a generalization of the
