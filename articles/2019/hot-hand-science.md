@@ -3,7 +3,7 @@ Date: 2019-03-26 08:00
 Author: Aleksejus Kononovicius
 Tags: statistics, burst statistics
 Slug: hot-hand-science-acting
-Status: draft
+Status: published
 Image_url: uploads/2019/dreamstime_xxl_114021426.jpg
 
 As we have seen [few weeks ago]({filename}/articles/2019/hot-hand-fallacy.md) there is no
