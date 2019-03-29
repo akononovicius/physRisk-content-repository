@@ -3,7 +3,7 @@ Date: 2019-04-02 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, voter model
 Slug: q-voter-model
-Status: draft
+Status: published
 Image_url: uploads/2019/qvoter-model.png
 
 q-Voter model is a generalization of the [voter model]({filename}/articles/2016/rinkejo-modelis.md)
