@@ -131,7 +131,7 @@ quickly, while the other decays significantly slower).
 
 [html5-interactive
 src="/uploads/models/preis-order-book-model/ob-vizualization-en.html"
-width="515" height="400" mode="iframe"]
+width="520" height="400" mode="iframe"]
 
 The second applet is in certain sense traditional Physics of Risk applet for all
 financial market models. Though there are some specific differences related to
@@ -150,7 +150,7 @@ to reproduce power-law "price change" PDF. Actually "price change" in this
 model is normally distributed.
 
 [html5-interactive
-src="/uploads/models/preis-order-book-model/index.html" width="515"
+src="/uploads/models/preis-order-book-model/index.html" width="520"
 height="500" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

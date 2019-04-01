@@ -44,7 +44,7 @@ Feel free to explore the dynamics of Stauffer's four state Sznajd model. In this
 app you have only "one" parameter - proportion of empty cells and agents with
 different opinions. Try maybe you will capture the moment when the third wins?
 
-[html5-interactive width="515" height="470" mode="iframe"
+[html5-interactive width="520" height="470" mode="iframe"
 src="/uploads/models/sznajd-model/s4sm2.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

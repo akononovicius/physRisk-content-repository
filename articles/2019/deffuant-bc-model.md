@@ -62,7 +62,7 @@ of the top figure, which shows opinion trajectories of all agents (100 of them
 are used in the app). The bottom figure shows current distribution of the
 opinions.
 
-[html5-interactive width="515" height="470" mode="iframe"
+[html5-interactive width="520" height="470" mode="iframe"
 src="/uploads/models/deffuant-bc-model/index.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

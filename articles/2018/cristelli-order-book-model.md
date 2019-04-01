@@ -93,7 +93,7 @@ This assumption were done simply to obtain easily understandable figure.
 
 [html5-interactive
 src="/uploads/models/cristelli-order-book-model/ob-vizualization-en.html"
-width="515" height="370" mode="iframe"]
+width="520" height="370" mode="iframe"]
 
 The second applet is in certain sense traditional Physics of Risk applet for all
 financial market models. Though there are some specific differences related to
@@ -118,7 +118,7 @@ defined the price tick as price measurement unit (in other words price tick is
 equal to \\\( 1 \\\)).
 
 [html5-interactive
-src="/uploads/models/cristelli-order-book-model/index.html" width="515"
+src="/uploads/models/cristelli-order-book-model/index.html" width="520"
 height="470" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

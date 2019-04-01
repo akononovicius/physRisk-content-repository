@@ -54,7 +54,7 @@ I invite you to examine the model dynamics yourself! Originally Stauffer reporte
 that in his interpretation the "third" opinion usually won [cite id="Stauffer2002ACS"],
 but I am not sure if this holds true in my interpretation. Explore!
 
-[html5-interactive width="515" height="470" mode="iframe"
+[html5-interactive width="520" height="470" mode="iframe"
 src="/uploads/models/sznajd-model/s4sm.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

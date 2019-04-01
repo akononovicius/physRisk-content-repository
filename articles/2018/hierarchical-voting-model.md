@@ -59,7 +59,7 @@ changes with the level, \\\( L \\\). Note that for even group sizes (especially
 of the draws). For odd group sizes there are no draws, hence the final result
 is likely to reflect \\\( f\_{red} \\\) at \\\( L=1 \\\).
 
-[html5-interactive width="515" height="560" mode="iframe"
+[html5-interactive width="520" height="560" mode="iframe"
 src="/uploads/models/hierarchical-voting-model/index.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

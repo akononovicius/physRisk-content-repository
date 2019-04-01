@@ -81,7 +81,7 @@ the different model's phases. Note that for you convenience the app reports
 critical values for selected (active) \\\( q \\\). As PDF figure will not always
 be useful, you may hide this plot so it wouldn't distract you.
 
-[html5-interactive width="515" height="470" mode="iframe"
+[html5-interactive width="520" height="470" mode="iframe"
 src="/uploads/models/voter/qvoter.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

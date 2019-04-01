@@ -34,7 +34,7 @@ one neighbor disagrees.
 This app does not have any parameters besides the probability used during model
 initialization. Yet feel free to explore consensus times of this simple model.
 
-[html5-interactive width="515" height="445" mode="iframe"
+[html5-interactive width="520" height="445" mode="iframe"
 src="/uploads/models/voter/vvoter.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

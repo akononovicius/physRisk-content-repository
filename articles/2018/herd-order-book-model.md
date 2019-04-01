@@ -113,7 +113,7 @@ changes are slower than trading rate, hence they are harder to be noticed.
 
 [html5-interactive
 src="/uploads/models/herd-ob-model/ob-vizualization-en.html"
-width="515" height="455" mode="iframe"]
+width="520" height="455" mode="iframe"]
 
 The second applet is a traditional Physics of Risk applet for most financial
 market models. Here you can see how price and return time series look like
@@ -124,7 +124,7 @@ These more-or-less reproduce the exact empirical shapes of respective empirical
 statistical properties.
 
 [html5-interactive
-src="/uploads/models/herd-ob-model/index.html" width="515"
+src="/uploads/models/herd-ob-model/index.html" width="520"
 height="565" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017"]

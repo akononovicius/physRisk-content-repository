@@ -43,7 +43,7 @@ boundary between the sides of the order book.
 
 [html5-interactive
 src="/uploads/models/emm-ob-model/ob-vizualization-en.html"
-width="515" height="340" mode="iframe"]
+width="520" height="340" mode="iframe"]
 
 The second applet is in certain sense traditional Physics of Risk applet for all
 financial market models. Though there are some specific differences related to
@@ -65,7 +65,7 @@ Also as the order flows are uncorrelated the spectrum of price changes is flat.
 The price in this case undergoes simple Brownian motion.
 
 [html5-interactive
-src="/uploads/models/emm-ob-model/index.html" width="515"
+src="/uploads/models/emm-ob-model/index.html" width="520"
 height="470" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

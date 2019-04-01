@@ -80,7 +80,7 @@ This app has two additional parameters \\\( p\_e \\\) and \\\( p\_s \\\). Both
 of these set the probabilities for each agent to endorse economic and social
 (personal) freedoms during the initialization.
 
-[html5-interactive width="515" height="470" mode="iframe"
+[html5-interactive width="520" height="470" mode="iframe"
 src="/uploads/models/sznajd-model/acls.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

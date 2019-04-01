@@ -98,7 +98,7 @@ with larger values of \\\( q \\\) and intermediate probabilities. I model should
 be quick to enter disordered phase, while A model should enter this phase with
 a bit larger \\\( p\_a \\\).
 
-[html5-interactive width="515" height="520" mode="iframe"
+[html5-interactive width="520" height="520" mode="iframe"
 src="/uploads/models/voter/qaivoter.html"]
 
 You can also study the models separately using separate app for each of the

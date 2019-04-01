@@ -24,7 +24,7 @@ tolerance function has largest value. Note that if both powers are zeros,
 becomes equivalent to the original [Deffuant's model]({filename}/articles/2019/deffuant-bc-model.md).
 You can examine how the tolerance function looks like using app below.
 
-[html5-interactive width="515" height="240" mode="iframe"
+[html5-interactive width="520" height="240" mode="iframe"
 src="/uploads/models/deffuant-bc-model/vari-beta.html"]
 
 Now that the two randomly selected will have differing tolerances we have to
@@ -49,7 +49,7 @@ leanings (\\\( x < 0.5 \\\) or \\\( x > 0.5 \\\)). The side the most "tolerant"
 agents will spawn less clusters than the opposite side (one with the less
 "tolerant" agents).
 
-[html5-interactive width="515" height="505" mode="iframe"
+[html5-interactive width="520" height="505" mode="iframe"
 src="/uploads/models/deffuant-bc-model/vari-eps.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]
