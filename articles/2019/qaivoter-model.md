@@ -6,12 +6,24 @@ Slug: q-voter-model-with-non-conformers
 Status: published
 Image_url: uploads/2019/qaivoter-model.png
 
+One of the differences between how social scientists and sociophysicists view
+the modeling of social systems is the outlook towards independent behavior.
+Importance of individuality underlies many theories in social sciences, while
+physicists are used to explain various emergent properties through interactions.
+Obviously both approaches are oversimplifications of objective reality. This
+time we consider another generalization of the
+[q-Voter model]({filename}/articles/2019/qvoter-model.md) in which a group of
+physicists and social scientists attempted to bridge this gap.
+
 [Two years ago]({filename}/articles/2017/kodel-individualiu-agentu-savybes-gali-buti-nesvarbios.md)
 we have already explained that properties of individual agents in some cases do
-not matter, because they average out. But in some cases this minute details can
-have interesting effects on the dynamics of the social system.
+not matter, because they average out. This is obviously true if we build models
+from perspective of physics. But if we include intuitions from social sciences,
+then this "truth" might no longer be true. Thus in some cases minute details
+about individuality of agents can have interesting effects on the dynamics of
+the modeled social systems.
 
-Here we discuss a generalization of the [q-Voter model]({filename}/articles/2019/qvoter-model.md)
+So here we discuss a generalization of the [q-Voter model]({filename}/articles/2019/qvoter-model.md)
 using so-called diamond model of social response [cite id="Nail2016APPA"]. An
 interesting result reported in [cite id="Nail2016APPA"] is that two different
 psycho-social approaches to non-conformative behavior generate somewhat different
