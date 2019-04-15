@@ -3,7 +3,7 @@ Date: 2019-04-16 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, voter model, non-conformity
 Slug: q-voter-model-with-non-conformers
-Status: draft
+Status: published
 Image_url: uploads/2019/qaivoter-model.png
 
 [Two years ago]({filename}/articles/2017/kodel-individualiu-agentu-savybes-gali-buti-nesvarbios.md)
