@@ -115,8 +115,8 @@ goal scoring capacities are different for home and away teams, we calculate them
 separately:
 
 \begin{equation}
-    \langle \lambda_{HG} \rangle = \frac{\Sigma_{HG}}{380} , \qquad
-    \langle \lambda_{AG} \rangle = \frac{\Sigma_{AG}}{380} .
+    \langle \lambda\_{HG} \rangle = \frac{\Sigma\_{HG}}{380} , \qquad
+    \langle \lambda\_{AG} \rangle = \frac{\Sigma\_{AG}}{380} .
 \end{equation}
 
 In the above \\\( \lambda\_{HG} \\\) is the home team goal scoring capacity, which
@@ -131,15 +131,15 @@ numbers for each of the team. These are obtained once again by dividing goals
 So team attack and defense potentials, if the team plays home, is given by:
 
 \begin{equation}
-    \mathrm{Att}_{H,i} = \frac{1}{\langle \lambda_{HG} \rangle} \cdot \frac{\Sigma_{HG,i}}{19} , \qquad
-    \mathrm{Def}_{H,i} = \frac{1}{\langle \lambda_{AG} \rangle} \cdot \frac{\Sigma_{AG,-i}}{19} ,
+    \mathrm{Att}\_{H,i} = \frac{1}{\langle \lambda\_{HG} \rangle} \cdot \frac{\Sigma\_{HG,i}}{19} , \qquad
+    \mathrm{Def}\_{H,i} = \frac{1}{\langle \lambda\_{AG} \rangle} \cdot \frac{\Sigma\_{AG,-i}}{19} ,
 \end{equation}
 
 and if the team plays away:
 
 \begin{equation}
-    \mathrm{Att}_{A,i} = \frac{1}{\langle \lambda_{AG} \rangle} \cdot \frac{\Sigma_{AG,i}}{19} , \qquad
-    \mathrm{Def}_{A,i} = \frac{1}{\langle \lambda_{HG} \rangle} \cdot \frac{\Sigma_{HG,-i}}{19} .
+    \mathrm{Att}\_{A,i} = \frac{1}{\langle \lambda\_{AG} \rangle} \cdot \frac{\Sigma\_{AG,i}}{19} , \qquad
+    \mathrm{Def}\_{A,i} = \frac{1}{\langle \lambda\_{HG} \rangle} \cdot \frac{\Sigma\_{HG,-i}}{19} .
 \end{equation}
 
 In the above \\\( \Sigma\_{HG,i} \\\) and \\\( \Sigma\_{AG,i} \\\) are the total number of
@@ -152,11 +152,11 @@ to get total number of goals scored by home team, lets say \\\( i \\\), and away
 lets say \\\( j \\\):
 
 \begin{equation}
-    g_{h,i} \sim \mathrm{Poiss}(\langle \lambda_{HG} \rangle \cdot \mathrm{Att}_{H,i} \cdot \mathrm{Def}_{A,j}) ,
+    g\_{h,i} \sim \mathrm{Poiss}(\langle \lambda\_{HG} \rangle \cdot \mathrm{Att}\_{H,i} \cdot \mathrm{Def}\_{A,j}) ,
 \end{equation}
 
 \begin{equation}
-    g_{a,j} \sim \mathrm{Poiss}(\langle \lambda_{AG} \rangle \cdot \mathrm{Att}_{A,j} \cdot \mathrm{Def}_{H,i}) .
+    g\_{a,j} \sim \mathrm{Poiss}(\langle \lambda\_{AG} \rangle \cdot \mathrm{Att}\_{A,j} \cdot \mathrm{Def}\_{H,i}) .
 \end{equation}
 
 You might be wondering why we use Poisson distribution. We do so because we
