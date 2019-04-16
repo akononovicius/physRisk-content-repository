@@ -109,7 +109,7 @@ further below the video.
 
 [youtube v="Vv9wpQIGZDw"]
 
-So initial we take a look at the league as whole. Namely we figure out baseline
+So initially we take a look at the league as whole. Namely we figure out baseline
 goal scoring capacities for all teams in the Premier League. As we know that
 goal scoring capacities are different for home and away teams, we calculate them
 separately:
