@@ -45,9 +45,29 @@ scored more goals home than away, though there are few exceptions. All of the
 major exceptions were stuck in the bottom of table during the season. So I guess
 if you are terrible, then you are equally terrible at home and away.
 
-![Goals scored home and away](/uploads/2019/football-goals-homeaway.png "Number
-of goals scored by each team home and away during the English Premier
-League 2000/2001 season.")
+<pre>
+------ Home / Away Goals ------
+          Arsenal 45 18 2.500
+      Aston Villa 27 19 1.421
+    Bradford City 20 10 2.000
+Charlton Athletic 31 19 1.632
+          Chelsea 44 24 1.833
+    Coventry City 14 22 0.636
+     Derby County 23 14 1.643
+          Everton 29 16 1.812
+     Ipswich Town 31 26 1.192
+     Leeds United 36 28 1.286
+   Leicester City 28 11 2.545
+        Liverpool 40 31 1.290
+  Manchester City 20 21 0.952
+Manchester United 49 30 1.633
+    Middlesbrough 18 26 0.692
+ Newcastle United 26 18 1.444
+      Southampton 27 13 2.077
+       Sunderland 24 22 1.091
+Tottenham Hotspur 31 16 1.938
+  West Ham United 24 21 1.143
+</pre>
 
 **Is there a difference between teams performance in the first half of a season
 and the second half of a season?** Obviously there can be changes in team form
@@ -56,9 +76,29 @@ there could some variance of purely statistical nature. While we have found some
 noticeable differences we can't make any conclusions without deeper knowledge
 of transfers and injuries throughout the season.
 
-![Goals scored during first and second half of a season](/uploads/2019/football-goals-firstsecond.png
-"Number of goals scored by each team during the first and the second half of the
-English Premier League 2000/2001 season.")
+<pre>
+--- First / Second Half of the season ---
+          Arsenal 30 33 0.909
+      Aston Villa 23 23 1.000
+    Bradford City 13 17 0.765
+Charlton Athletic 26 24 1.083
+          Chelsea 35 33 1.061
+    Coventry City 17 19 0.895
+     Derby County 23 14 1.643
+          Everton 20 25 0.800
+     Ipswich Town 27 30 0.900
+     Leeds United 26 38 0.684
+   Leicester City 22 17 1.294
+        Liverpool 37 34 1.088
+  Manchester City 25 16 1.562
+Manchester United 46 33 1.394
+    Middlesbrough 20 24 0.833
+ Newcastle United 20 24 0.833
+      Southampton 24 16 1.500
+       Sunderland 19 27 0.704
+Tottenham Hotspur 26 21 1.238
+  West Ham United 25 20 1.250
+</pre>
 
 ## Statistical model
 
