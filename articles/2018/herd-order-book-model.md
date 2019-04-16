@@ -14,7 +14,7 @@ So this time we will finally talk about an order book model we (Aleksejus
 Kononovicius and Julius Ruseckas) have decided to propose. This will be only a
 brief introduction into the model as it will recycle couple of ideas and
 concepts we have discussed earlier. More details on the model are available
-in [cite id="Kononovicius2018OB"].
+in [cite id="Kononovicius2019OB"].
 
 So, our order book model involves elements from the agent-based herding model,
 about which [we often write about here on Physics of Risk](/tag/kirman-model/),
