@@ -119,9 +119,9 @@ separately:
     \langle \lambda_{AG} \rangle = \frac{\Sigma_{AG}}{380} .
 \end{equation}
 
-In the above $ \lambda\_{HG} $ is the home team goal scoring capacity, which
+In the above \\\( \lambda\_{HG} \\\) is the home team goal scoring capacity, which
 is calculated by dividing total goals scored by the home teams by the number
-of games. Away team goal scoring capacity, $ \lambda\_{AG} $, is calculated in
+of games. Away team goal scoring capacity, \\\( \lambda\_{AG} \\\), is calculated in
 similar manner.
 
 Then we treat teams separately by considering their relative attacking and
@@ -142,14 +142,14 @@ and if the team plays away:
     \mathrm{Def}_{A,i} = \frac{1}{\langle \lambda_{HG} \rangle} \cdot \frac{\Sigma_{HG,-i}}{19} .
 \end{equation}
 
-In the above $ \Sigma\_{HG,i} $ and $ \Sigma\_{AG,i} $ are the total number of
-home and away goals for team $i$, while $ \Sigma\_{HG,-i} $ and
-$ \Sigma\_{AG,-i} $ are the total number of home and away goals against team
-$i$.
+In the above \\\( \Sigma\_{HG,i} \\\) and \\\( \Sigma\_{AG,i} \\\) are the total number of
+home and away goals for team \\\( i \\\), while \\\( \Sigma\_{HG,-i} \\\) and
+\\\( \Sigma\_{AG,-i} \\\) are the total number of home and away goals against team
+\\\( i \\\).
 
 So when we generate a single game we can simply sample from Poisson distribution
-to get total number of goals scored by home team, lets say $i$, and away team,
-lets say $j$:
+to get total number of goals scored by home team, lets say \\\( i \\\), and away team,
+lets say \\\( j \\\):
 
 \begin{equation}
     g_{h,i} \sim \mathrm{Poiss}(\langle \lambda_{HG} \rangle \cdot \mathrm{Att}_{H,i} \cdot \mathrm{Def}_{A,j}) ,
