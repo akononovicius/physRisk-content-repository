@@ -3,7 +3,7 @@ Date: 2019-04-23 08:00
 Author: Aleksejus Kononovicius
 Tags: politics, sociology, opinion dynamics, video, Above the Noise
 Slug: above-the-noise-gerrymandering-is-geometry-silencing-your-vote
-Status: draft
+Status: published
 
 We have been talking about different models of opinion dynamics, but we have
 never mentioned that electoral system can distort the actual opinions of the
