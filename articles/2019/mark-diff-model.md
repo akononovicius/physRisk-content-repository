@@ -3,7 +3,7 @@ Date: 2019-04-30 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics
 Slug: mark-differentiation-model
-Status: draft
+Status: published
 Image_url: uploads/2019/mark-diff-model.png
 
 Let us try to discuss a bit different model by social scientist this time. In
