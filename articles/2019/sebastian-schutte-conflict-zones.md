@@ -3,7 +3,7 @@ Date: 2019-05-07 08:00
 Author: Aleksejus Kononovicius
 Tags: politics, conflicts, sociology, war, video
 Slug: s-schutte-predicting-large-scale-violence-civil-conflicts
-Status: draft
+Status: published
 
 [Last week]({filename}/articles/2019/mark-diff-model.md) we have talked about
 what drives formation of social groups. We have understood that people both want
