@@ -3,7 +3,7 @@ Date: 2019-05-14 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics
 Slug: deffuant-bounded-confidence-model
-Status: draft
+Status: published
 Image_url: uploads/2019/deffuant-bc-model.png
 
 All of the [opinion dynamics](/tag/opinion-dynamics) models we have considered
