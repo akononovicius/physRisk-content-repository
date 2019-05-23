@@ -3,7 +3,7 @@ Date: 2019-05-21 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Numberphile, statistics, sports, Matlab
 Slug: football-data-analysis-and-modeling-showcase
-Status: draft
+Status: published
 
 This year I got to teach a numerical methods course to first year students in
 Faculty of Physics (Vilnius University). As theory is somewhat boring and
