@@ -3,7 +3,7 @@ Date: 2019-06-04 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Numberphile, statistics
 Slug: numberphile-randomness-is-random
-Status: draft
+Status: published
 
 It appears that people are even more terrible at randomness than computers.
 Usually human ``randomness'' is too uniform. In the following video by
