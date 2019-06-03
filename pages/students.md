@@ -15,9 +15,9 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 ## Completed thesis, term papers and internships
 
-**Term papers:** 10 (3 BSc + 9 MSc)
+**Term papers:** 16 (4 BSc + 12 MSc)
 
-**Thesis:** 11 (6 BSc + 3 MSc + 3 PhD)
+**Thesis:** 14 (7 BSc + 4 MSc + 3 PhD)
 
 **Internships:** 7
 
@@ -81,6 +81,11 @@ exchange rate". Internship was supervised by Vygintas Gontis. Internship
 was supported by the [Research Council of
 Lithuania](http://www.lmt.lt) (under the project "Promotion of Student
 Scientific Activities" (VP1-3.1-ŠMM-01-V-02-003)).
+* During **the spring of 2013** Rytis Kazakevičius, sixth year student
+at Vilnius University Faculty of Physics, wrote a master thesis
+"Statistical Properties of Nonlinear Systems Affected by Gaussian and
+Non-Gaussian Noise". Term papers leading  to the thesis were prepared
+during previous semesters. The student was supervised by Bronius Kaulakys
 * During **the spring of 2012** Petras Purlys, sixth year student
 at Vilnius University Faculty of Physics, wrote a master thesis
 "Microscopic and Macroscopic Modeling of Kirman Interaction between
@@ -91,6 +96,11 @@ student at Vilnius University Faculty of Physics, wrote a master thesis
 "Microscopic Reasoning for the Stochastic Models". Term papers leading
 to the thesis were prepared during previous semesters. The student was
 supervised by Vygintas Gontis.
+* During **the spring of 2011** Rytis Kazakevičius, fourth year student
+at Vilnius University Faculty of Physics, wrote a bachelor thesis
+"Modeling of Currents Low Frequency Fluctuations by Stochastic Differential
+Equations". A related term paper was prepared during the autumn of 2010.
+The student was supervised by Bronius Kaulakys.
 * During **the spring of 2010** Alexander Ivanov, fourth year student at
 Vilnius University Faculty of Physics, wrote a bachelor thesis "The Spin
 Model of Stock Market". The student was supervised by Vygintas Gontis.
