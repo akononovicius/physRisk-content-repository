@@ -15,15 +15,16 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 ## Completed thesis, term papers and internships
 
-**Term papers:** 10 (3 BSc + 7 MSc)
+**Term papers:** 10 (3 BSc + 9 MSc)
 
-**Thesis:** 11 (6 BSc + 2 MSc + 3 PhD)
+**Thesis:** 11 (6 BSc + 3 MSc + 3 PhD)
 
 **Internships:** 7
 
-* During **the autumn of 2018** Ignas Kazakevičius, fifth year student
-at Vilnius University Faculty of Physics, wrote a term paper "Spurious
-long--range memory in immitative agent--based models". The student was
+* During **the spring of 2019** Ignas Kazakevičius, sixth year student
+at Vilnius University Faculty of Physics, wrote a master thesis "First
+passage time of birth-death processes". Term papers leading to the
+thesis were prepared during previous semesters. The student was
 supervised by dr. Vygintas Gontis.
 * During **the spring of 2018** Edvinas Butiškis, fourth year student
 at Vilnius University Faculty of Physics, wrote a bachelor thesis
