@@ -3,7 +3,7 @@ Date: 2019-06-11 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics
 Slug: variable-tolerance-deffuant-bounded-confidence-model
-Status: draft
+Status: published
 Image_url: uploads/2019/dbc-variable-tolerance.png
 
 Let us briefly come back to the [Deffuant's model]({filename}/articles/2019/deffuant-bc-model.md)
