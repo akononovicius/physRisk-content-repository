@@ -3,7 +3,7 @@ Date: 2019-06-18 08:00
 Author: Aleksejus Kononovicius
 Tags: sociology, video, Kirman model, Agent-based models
 Slug: ant-based-modeling-agent-based-city-simulation-with-ants
-Status: draft
+Status: published
 
 Significant portion of our works in the last decade are based on the
 [Kirman model](/tag/kirman-model/), which itself is inspired by the behavior of
