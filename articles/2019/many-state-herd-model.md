@@ -60,7 +60,7 @@ P \left( X\_i \rightarrow X\_i +1 \right) = \left( N - X\_i \right) \left( \vare
 P \left( X\_i \rightarrow X\_i -1 \right) = X\_i \left( \varepsilon\_{-i} + N - X\_i \right) h \Delta t .
 \end{equation}
 
-In the above \\\( \varepsilon\_{-i} = \sum\_{j \neq i} \sigma\_j \\\) is the
+In the above \\\( \varepsilon\_{-i} = \sum\_{j \neq i} \varepsilon\_j \\\) is the
 total attractiveness of the other parties. Under these conditions, by similarity
 with the two state model, the stationary distribution is Beta distribution:
 
