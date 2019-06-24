@@ -3,7 +3,7 @@ Date: 2019-06-25 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, A. Kononovicius, Lithuania, Kirman model
 Slug: many-state-herd-model-and-its-application-to-lithuanian-parliamentary-elections
-Status: draft
+Status: published
 Image_url: uploads/2019/many-state-herd-model.png
 
 Let us close this year with a model proposed by us and which is based on the
