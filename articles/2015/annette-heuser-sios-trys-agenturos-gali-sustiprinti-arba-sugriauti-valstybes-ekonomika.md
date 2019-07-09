@@ -2,7 +2,7 @@ Title: Annette Heuser: The 3 agencies with the power to make or break economies
 Date: 2015-11-10 07:58
 Author: Aleksejus Kononovicius
 Tags: Economics, politics, popular culture, ted.com, video
-Slug: annette-heuser-sios-trys-agenturos-gali-sustiprinti-arba-sugriauti-valstybes-ekonomika
+Slug: annette-heuser-three-agencies-with-power-to-make-or-break-economies
 Status: published
 
 Economic rating agencies can make and

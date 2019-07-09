@@ -2,7 +2,7 @@ Title: One Minute Physics: Every force in nature
 Date: 2015-11-24 07:26
 Author: Aleksejus Kononovicius
 Tags: General models, Economics, popular culture, video, One Minute Physics
-Slug: one-minute-physics-kiekviena-jega-gamtoje
+Slug: one-minute-physics-every-force-in-nature
 Status: published
 
 Here, on Physics of

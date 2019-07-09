@@ -2,7 +2,7 @@ Title: Numberphile: The Seven Bridges of Königsberg
 Date: 2016-11-29 07:40
 Author: Aleksejus Kononovicius
 Tags: Network models, Numberphile, video
-Slug: numberphile-septyni-kionigsbergo-tiltai
+Slug: numberphile-seven-bridges-of-konigsberg
 Status: published
 
 In the first half of

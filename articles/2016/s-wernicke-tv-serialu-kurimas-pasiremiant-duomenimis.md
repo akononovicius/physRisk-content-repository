@@ -2,7 +2,7 @@ Title: S. Wernicke: How to use data to make a hit TV show
 Date: 2016-03-01 07:54
 Author: Aleksejus Kononovicius
 Tags: General models, Amazon, Netflix, S. Wernicke, popular culture, marketing, sociology, ted.com, video
-Slug: s-wernicke-tv-serialu-kurimas-pasiremiant-duomenimis
+Slug: s-wernicke-how-to-use-data-to-make-a-hit-tv-show
 Status: published
 
 Sebastian Wernicke talks about how data

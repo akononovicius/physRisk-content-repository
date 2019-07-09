@@ -2,7 +2,7 @@ Title: Schelling's segregation model
 Date: 2015-12-22 07:14
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, T. Schelling, politics, sociology, opinion dynamics
-Slug: selingo-segregacijos-modelis
+Slug: schellings-segregation-model
 Status: published
 
 Around 1970 American economist Tom

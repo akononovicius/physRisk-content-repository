@@ -2,7 +2,7 @@ Title: Checking hypotheses and the problem of p-values
 Date: 2017-01-24 07:36
 Author: Aleksejus Kononovicius
 Tags: General models, SciShow, video
-Slug: hipoteziu-tikrinimas-ir-p-verciu-problema
+Slug: checking-hypotheses-and-the-problem-of-p-values
 Status: published
 
 Vast majority of

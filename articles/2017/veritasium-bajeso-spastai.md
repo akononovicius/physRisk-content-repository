@@ -2,7 +2,7 @@ Title: Veritasium: The Bayesian Trap
 Date: 2017-05-16 07:27
 Author: Aleksejus Kononovicius
 Tags: General models, Veritasium, paradox, popular culture, video, statistics, Bayesian statistics
-Slug: veritasium-bajeso-spastai
+Slug: veritasium-bayesian-trap
 Status: published
 
 Imagine

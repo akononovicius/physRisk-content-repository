@@ -1,8 +1,8 @@
-Title: Laurie Santos: A monkey economy as irrational as ours
+Title: L. Santos: A monkey economy as irrational as ours
 Date: 2014-03-31 07:07
 Author: Aleksejus Kononovicius
 Tags: General models, Economics, biology, literature, popular culture, ted.com, video, experiments
-Slug: laurie-santos-tokia-pat-neracionali-bezdzioneliu-ekonomika
+Slug: l-santos-monkey-economy-as-irrational-as-ours
 Status: published
 
 People are

@@ -2,7 +2,7 @@ Title: Econophysics in Estonia
 Date: 2014-04-07 07:30
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, Econometrics, Estonia, kinetic models, literature, multifractality, education
-Slug: ekonofizika-estijoje
+Slug: econophysics-in-estonia
 Status: published
 
 It appears that

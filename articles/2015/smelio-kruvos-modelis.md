@@ -2,7 +2,7 @@ Title: Sandpile model
 Date: 2015-09-29 07:19
 Author: Aleksejus Kononovicius
 Tags: Dynamical chaos, Interactive models, Cellular automata, 1/f noise, self-organized criticality
-Slug: smelio-kruvos-modelis
+Slug: sandpile-model
 Status: published
 
 In 1987 Per Bak, Chao

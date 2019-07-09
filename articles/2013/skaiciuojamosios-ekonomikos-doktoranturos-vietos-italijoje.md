@@ -2,7 +2,7 @@ Title: PhD student position on Agent-Based Computational Economics (Italy)
 Date: 2013-09-02 07:48
 Author: Aleksejus Kononovicius
 Tags: General information, Economics, announcement, students, education
-Slug: skaiciuojamosios-ekonomikos-doktoranturos-vietos-italijoje
+Slug: phd-student-position-on-agent-based-computational-economics-italy-2013
 Status: published
 
 A three-year PhD student position on

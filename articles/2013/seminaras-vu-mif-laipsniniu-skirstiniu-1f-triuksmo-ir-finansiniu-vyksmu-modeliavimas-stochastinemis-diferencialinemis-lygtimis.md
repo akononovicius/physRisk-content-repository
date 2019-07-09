@@ -2,7 +2,7 @@ Title: Seminar at VU MIF: Modelling power-law distribution, 1/f noise and financ
 Date: 2013-05-10 12:55
 Author: Aleksejus Kononovicius
 Tags: General information, Stochastic models, 1/f noise, B. Kaulakys, Bessel process, CEV process, CIR process, VU MIF, financial markets, announcement
-Slug: seminaras-vu-mif-laipsniniu-skirstiniu-1f-triuksmo-ir-finansiniu-vyksmu-modeliavimas-stochastinemis-diferencialinemis-lygtimis
+Slug: seminar-vu-mif-modelling-power-law-distribution-1f-noise-financial-markets-using-stochastic-differential-equations
 Status: published
 
 **Topic:**

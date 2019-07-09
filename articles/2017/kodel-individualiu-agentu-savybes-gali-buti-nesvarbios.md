@@ -2,7 +2,7 @@ Title: Why the properties of individual agents may be ignored?
 Date: 2017-04-18 07:55
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, Business processes, Bass model, Kirman model, marketing
-Slug: kodel-individualiu-agentu-savybes-gali-buti-nesvarbios
+Slug: why-properties-of-individual-agents-may-be-ignored
 Status: published
 
 Human behavior is perplexingly

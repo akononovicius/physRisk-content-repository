@@ -2,7 +2,7 @@ Title: An impossible bet
 Date: 2015-02-03 07:50
 Author: Aleksejus Kononovicius
 Tags: General models, Network models, internet, literature, popular culture, video
-Slug: neimanomos-lazybos
+Slug: impossible-bet
 Status: published
 
 Imagine that you and 99 other people were

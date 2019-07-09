@@ -2,7 +2,7 @@ Title: Analytical treatment of kinetic exchange models
 Date: 2014-01-20 07:09
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, agent-based reasoning, kinetic models, statistical physics
-Slug: analizinis-kinetiniu-modeliu-supratimas
+Slug: analytical-treatment-of-kinetic-exchange-models
 Status: published
 
 Kinetic

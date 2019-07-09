@@ -2,7 +2,7 @@ Title: DNews: Can Game Theory Help A Presidential Candidate Win?
 Date: 2015-09-15 08:14
 Author: Aleksejus Kononovicius
 Tags: General models, DNews, competition, game theory, politics, popular culture, video
-Slug: dnews-ar-gali-losimu-teorija-padeti-laimeti-prezidento-rinkimus
+Slug: dnews-can-game-theory-help-a-presidential-candidate-win
 Status: published
 
 Campaigns for 2016 US

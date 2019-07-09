@@ -2,7 +2,7 @@ Title: Laws of Supply and Demand
 Date: 2017-09-05 07:23
 Author: Aleksejus Kononovicius
 Tags: Economics, free market, supply and demand, market price, price formation series
-Slug: paklausos-ir-pasiulos-desniai
+Slug: laws-of-supply-and-demand
 Status: published
 
 At the heart of economics

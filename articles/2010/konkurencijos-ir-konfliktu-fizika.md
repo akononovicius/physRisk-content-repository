@@ -2,7 +2,7 @@ Title: Physics of competition and conflicts
 Date: 2010-10-07 11:49
 Author: Vygintas Gontis
 Tags: General information, COST MP0801, V. Gontis, conflicts, competition, project
-Slug: konkurencijos-ir-konfliktu-fizika
+Slug: physics-of-competition-and-conflicts
 Status: published
 
 Here you can read the full Memorandum of Understanding for the

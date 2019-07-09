@@ -2,7 +2,7 @@ Title: Spin glass model
 Date: 2016-02-16 07:09
 Author: Aleksejus Kononovicius
 Tags: General models, Interactive models, Ising model, magnetism, statistical physics
-Slug: netvarkaus-magneto-modelis
+Slug: spin-glass-model
 Status: published
 
 Previously on Physics of Risk we

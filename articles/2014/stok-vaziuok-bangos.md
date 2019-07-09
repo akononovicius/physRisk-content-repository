@@ -2,7 +2,7 @@ Title: Stop-and-go waves
 Date: 2014-04-28 07:54
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, traffic, video
-Slug: stok-vaziuok-bangos
+Slug: stop-and-go-waves
 Status: published
 
 Probably everyone has at least once have

@@ -2,7 +2,7 @@ Title: AB model
 Date: 2017-04-04 07:13
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, languages, politics, voter model, sociology, opinion dynamics
-Slug: ab-modelis
+Slug: ab-model
 Status: published
 
 Let us now return to the [Voter

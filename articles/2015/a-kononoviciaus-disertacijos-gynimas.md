@@ -2,7 +2,7 @@ Title: Thesis defence of A. Kononovicius
 Date: 2015-12-14 07:38
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, General information, Stochastic models, Network models, 1/f noise, A. Kononovicius, Kirman model, agent-based reasoning, financial markets, burst statistics, announcement, statistical physics
-Slug: a-kononoviciaus-disertacijos-gynimas
+Slug: thesis-defence-a-kononovicius
 Status: published
 
 ![kononovicius disertation](/uploads/2015/11/kononovicius-disertacija.jpg)

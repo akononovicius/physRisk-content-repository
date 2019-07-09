@@ -1,8 +1,8 @@
-Title: Why do people prefer lotteries with worse odds?
+Title: Extra Credits: Why do people prefer lotteries with worse odds?
 Date: 2016-05-10 07:29
 Author: Aleksejus Kononovicius
 Tags: General models, Business processes, Extra Credits, Wired, sociology, video
-Slug: kodel-zmones-yra-labiau-linke-losti-loterijose-kurias-laimeti-yra-maziau-vilties
+Slug: extra-credits-why-do-people-prefer-lotteries-with-worse-odds
 Status: published
 
 In

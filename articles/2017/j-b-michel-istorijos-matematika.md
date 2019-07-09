@@ -2,7 +2,7 @@ Title: J.-B. Michel: The mathematics of history
 Date: 2017-02-07 07:59
 Author: Aleksejus Kononovicius
 Tags: General models, J.-B. Michel, history, war, ted.com, video
-Slug: j-b-michel-istorijos-matematika
+Slug: j-b-michel-mathematics-of-history
 Status: published
 
 In this TED talk J.-B. Michel shares

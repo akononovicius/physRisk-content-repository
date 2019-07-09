@@ -2,7 +2,7 @@ Title: Seminar at VU MIF: Agent-based Versus Macroscopic Modeling of Competition
 Date: 2012-11-06 08:56
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, General information, Stochastic models, 1/f noise, Bass model, Kirman model, V. Gontis, VU MIF, agent-based reasoning, financial markets, burst statistics, announcement, statistical physics
-Slug: seminaras-vu-mif-agentu-ir-makroskopinio-modeliavimo-rysys-ekonomikoje-ir-finansuose
+Slug: seminar-vu-mif-agent-based-versus-macroscopic-modeling-competition-business-processes-economics-finance
 Status: published
 
 **Topic:**

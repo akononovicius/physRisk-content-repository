@@ -2,7 +2,7 @@ Title: Seminar at VU Faculty of Physics: Brief introduction into the Physics of 
 Date: 2012-10-16 17:35
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, General information, Stochastic models, Network models, 1/f noise, A. Kononovicius, FuturICT, Kirman model, VU FF, agent-based reasoning, biology, traffic, financial markets, internet, burst statistics, announcement, statistical physics
-Slug: vu-fizikos-fakulteto-studentu-mokslines-draugijos-seminaras-trumpas-ivadas-i-fizikos-rizika
+Slug: seminar-vu-faculty-of-physics-brief-introduction-into-physics-risk
 Status: published
 
 **Topic:**

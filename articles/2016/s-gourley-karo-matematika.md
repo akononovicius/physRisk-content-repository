@@ -2,7 +2,7 @@ Title: S. Gourley: Mathematics of war
 Date: 2016-06-21 07:06
 Author: Aleksejus Kononovicius
 Tags: General models, S. Gourley, war, politics, ted.com, video
-Slug: s-gourley-karo-matematika
+Slug: s-gourley-mathematics-of-war
 Status: published
 
 Sean Gourley TED talk on general

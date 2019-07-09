@@ -2,7 +2,7 @@ Title: DNews: Why Does White Noise Make You Fall Asleep?
 Date: 2016-06-07 07:22
 Author: Aleksejus Kononovicius
 Tags: Stochastic models, 1/f noise, DNews, white noise, video
-Slug: dnews-kodel-baltas-triuksmas-galetu-padeti-jums-uzmigti
+Slug: dnews-why-does-white-noise-make-you-fall-asleep
 Status: published
 
 We all know that noise

@@ -2,7 +2,7 @@ Title: ncase.me: Parable of the polygons
 Date: 2016-02-02 07:05
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, T. Schelling, literature, politics
-Slug: ncase-me-daugiakampiu-alegorija
+Slug: ncase-me-parable-of-polygons
 Status: published
 
 Continuing from the recent text on [Schelling

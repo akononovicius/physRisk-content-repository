@@ -2,7 +2,7 @@ Title: Herfindahl-Hirschman index and entropy
 Date: 2014-09-22 08:25
 Author: Aleksejus Kononovicius
 Tags: General models, Economics, Business processes, competition, statistical physics
-Slug: herfindahl-hirschman-indeksas-ir-entropija
+Slug: herfindahl-hirschman-index-and-entropy
 Status: published
 
 Herfindahl-Hirschman index (or HHI) describing

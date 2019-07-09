@@ -2,7 +2,7 @@ Title: H. Fry: Mathematics of crime and terrorism
 Date: 2016-04-26 07:50
 Author: Aleksejus Kononovicius
 Tags: General models, H. Fry, Numberphile, popular culture, video
-Slug: h-fry-nusikaltimu-prognozavimas
+Slug: h-fry-mathematics-of-crime
 Status: published
 
 We invite you to listen

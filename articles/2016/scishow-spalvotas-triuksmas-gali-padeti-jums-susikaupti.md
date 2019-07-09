@@ -2,7 +2,7 @@ Title: SciShow: Colored Noise, and How It Can Help You Focus
 Date: 2016-10-18 07:50
 Author: Aleksejus Kononovicius
 Tags: Stochastic models, 1/f noise, Brownian motion, SciShow, white noise, popular culture, video
-Slug: scishow-spalvotas-triuksmas-gali-padeti-jums-susikaupti
+Slug: scishow-colored-noise-how-it-can-help-you-focus
 Status: published
 
 See this SciShow video

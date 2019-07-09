@@ -2,7 +2,7 @@ Title: Twitch "plays" financial markets
 Date: 2017-06-13 07:54
 Author: Aleksejus Kononovicius
 Tags: Economics, Twitch, financial markets, video, internet
-Slug: twitch-zaidzia-finansu-rinka
+Slug: twitch-plays-financial-markets
 Status: published
 
 In

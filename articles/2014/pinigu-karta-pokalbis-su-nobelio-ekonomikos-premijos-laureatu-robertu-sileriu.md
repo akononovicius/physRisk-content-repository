@@ -2,7 +2,7 @@ Title: "Pinigų karta": Interview with laureate of Nobel prize in economics Robe
 Date: 2014-01-06 07:00
 Author: Aleksejus Kononovicius
 Tags: Economics, Pinigų karta, R. Shiller, unequality, politics, video
-Slug: pinigu-karta-pokalbis-su-nobelio-ekonomikos-premijos-laureatu-robertu-sileriu
+Slug: pinigu-karta-interview-with-laureate-of-nobel-prize-in-economics-robert-shiller
 Status: published
 
 Few weeks

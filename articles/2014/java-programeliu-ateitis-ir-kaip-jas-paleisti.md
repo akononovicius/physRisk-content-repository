@@ -2,7 +2,7 @@ Title: Future of Java applets and How to launch Java applets?
 Date: 2014-06-23 07:41
 Author: Aleksejus Kononovicius
 Tags: General information, Interactive models, internet, java
-Slug: java-programeliu-ateitis-ir-kaip-jas-paleisti
+Slug: future-of-java-applets-and-how-to-launch-java-applets
 Status: published
 
 When we started to work on "Physics of Risk" Java
