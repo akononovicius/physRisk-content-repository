@@ -1,7 +1,7 @@
 Title: Talent vs Luck model
 Date: 2019-09-10 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, wealth
+Tags: Interactive models, Agent-based models, wealth, talent vs luck
 Slug: talent-vs-luck-model
 Status: draft
 Image_url: uploads/2019/tvl-model.png
@@ -47,7 +47,7 @@ Below you can see that in this model relative luck of an agent (lucky
 events minus unlucky events) is better predictor of his success than his talent.
 While talent does have impact, it is relatively hard to see.
 
-![Phase diagram](/uploads/2019/tvl-model.png "Results of a random simulation,
+![talent vs luck model](/uploads/2019/tvl-model.png "Results of a random simulation,
 which uses the default parameters.")
 
 ## A bit of criticism
