@@ -52,4 +52,4 @@ earlier. Their effects should be the same, but our intuitions might be different
 as we use different tools to understand them.
 
 [html5-interactive width="520" height="510" mode="iframe"
-src="/uploads/models/talent-luck/redist.html"]
+src="/uploads/models/talent-luck/quartiles.html"]
