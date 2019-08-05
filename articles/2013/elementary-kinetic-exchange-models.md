@@ -1,7 +1,7 @@
 Title: Elementary kinetic exchange models
 Date: 2013-11-25 07:16
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General models, Interactive models, J. C. Maxwell, J. W. Gibbs, L. Boltzman, kinetic models, statistical physics
+Tags: Agent-based models, General models, Interactive models, J. C. Maxwell, J. W. Gibbs, L. Boltzman, kinetic models, statistical physics, wealth
 Slug: elementary-kinetic-exchange-models
 Status: published
 
