@@ -1,7 +1,7 @@
 Title: Deffuant et al. bounded confidence model
 Date: 2019-05-14 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, opinion dynamics
+Tags: Interactive models, Agent-based models, opinion dynamics, bounded confidence
 Slug: deffuant-bounded-confidence-model
 Status: published
 Image_url: uploads/2019/deffuant-bc-model.png
