@@ -30,7 +30,7 @@ we report only logarithmic density of agents in certain opinion ranges (0.01
 increments). The darker the color, the more agents share similar opinions. The
 ticks on the plot were placed in 0.1 increments.
 
-[html5-interactive width="520" height="505" mode="iframe"
+[html5-interactive width="520" height="570" mode="iframe"
 src="/uploads/models/deffuant-bc-model/noisy.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]
