@@ -27,7 +27,7 @@ with probability \\\( p\_s \\\).
 with standard deviation \\\( \sigma \sqrt{1 - 2 / \pi} \\\). Sign is added
 depending on relationship status.
 
-So what do we find using such \\\( \mathrmd{D} \\\)?
+So what do we find using such \\\( \mathbf{D} \\\)?
 
 For Type I model, society
 quickly approaches radical opinions. If \\\( p\_s \\\) is small, then all agents
