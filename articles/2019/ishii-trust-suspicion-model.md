@@ -34,19 +34,21 @@ Type I update rule is given by:
 O\_{i} (t+1) = O\_{i} (t) + D\_{ij} O\_{j} (t) \Delta t.
 \end{equation}
 
+This update rule assumes that agents views push on other agent views towards
+positive or negative infinities. This somewhat corresponds to the echo chambers,
+in which opinions get more strength from the like minded. Also opinions get
+stronger whenever suspicious agent tries to spread opposite views.
+
 Type II update rule is given by:
 
 \begin{equation}
 O\_{i} (t+1) = O\_{i} (t) + D\_{ij} \Phi(|O\_{i} (t)-O\_{j} (t)|) ( O\_{j} (t) - O\_i(t) ) \Delta t.
 \end{equation}
 
-In the both update rules \\\( \Delta t \\\) is short time interval. For the sake
-of simplicity we assume that \\\( \Delta t = 1 / N \\\), where \\\( N \\\) is
-the number of agents (in this case it is \\\( 2 \\\)).
-
-In the Type II rule \\\( \Phi \\\) is an indifference function. This function
-implements a bounded confidence rule, with smooth transition between taking
-opinion into account and ignoring it. There are multiple possible ways
+This update rule assumes that agents converge towards shared view point given
+\\\( \Phi ( \Delta O ) > 0 \\\), which we call indifference function. This
+function implements a bounded confidence rule, with smooth transition between
+taking opinion into account and ignoring it. There are multiple possible ways
 to select \\\( \Phi \\\) function, but here we will consider sigmoid function
 used in the original paper [cite id="Ishii2019GDN"]:
 
@@ -60,6 +62,10 @@ boundary point \\\( \varepsilon \\\). If difference in opinions,
 difference in opinions is large then \\\( \Phi ( \Delta O ) \\\) quickly goes to
 zero. Meaning that only agents with similar enough opinions will influence each
 other.
+
+Note that in the both update rules \\\( \Delta t \\\) is a short time interval.
+For the sake of simplicity we assume that \\\( \Delta t = 1 / N \\\), where
+\\\( N \\\) is the number of agents (in this case it is \\\( 2 \\\)).
 
 While this model appears to be simple, it still has quite rich dynamics. For
 the model with Type I update rule, the following observations should hold:
