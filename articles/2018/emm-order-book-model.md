@@ -1,7 +1,7 @@
 Title: Efficient market maker order book model
 Date: 2018-10-16 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, financial markets, order book, Walrasian Market
+Tags: Interactive models, Agent-based models, financial markets, order book, Walrasian Market, postdoctoral project
 Slug: efficient-market-maker-order-book-model
 Status: published
 Image_url: uploads/2018/emm-ob-model.png

@@ -1,7 +1,7 @@
 Title: Majority-vote model
 Date: 2018-12-11 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, opinion dynamics, voter model
+Tags: Interactive models, Agent-based models, opinion dynamics, voter model, postdoctoral project
 Slug: majority-vote-model
 Status: published
 Image_url: uploads/2018/majority-vote-model.png
