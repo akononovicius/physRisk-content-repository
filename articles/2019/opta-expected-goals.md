@@ -3,7 +3,7 @@ Date: 2019-09-03 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, sports
 Slug: opta-expect-goals
-Status: draft
+Status: published
 
 How often football commentators say something along the lines "striker has to
 score from here", "it was an easy stop for goalkeeper" or "it was an excellent
