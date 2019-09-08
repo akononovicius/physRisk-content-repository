@@ -1,5 +1,5 @@
 Title: Quite productive 2019
-Date: 2020-01-08 08:00
+Date: 2020-01-07 08:00
 Author: Aleksejus Kononovicius
 Tags: General information
 Slug: quite-productive-2019
