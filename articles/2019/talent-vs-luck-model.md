@@ -3,7 +3,7 @@ Date: 2019-09-10 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, wealth, talent vs luck
 Slug: talent-vs-luck-model
-Status: draft
+Status: published
 Image_url: uploads/2019/tvl-model.png
 
 During summer we have promised to talk about impact of talent and luck on the
