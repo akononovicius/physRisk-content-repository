@@ -3,7 +3,7 @@ Date: 2019-09-17 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, sports, bloomberg
 Slug: datascience-basketball
-Status: draft
+Status: published
 
 In this video Bloomberg (renowned source for news on various topics related to
 economics and business) introduces futuristic job sports data scientist.
