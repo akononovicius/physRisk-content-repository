@@ -3,7 +3,7 @@ Date: 2019-10-22 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, wealth, talent vs luck
 Slug: quartiles-of-talent-vs-luck-model
-Status: draft
+Status: published
 Image_url: uploads/2019/tvl-model-q.png
 
 Here we continue our discussion on the Talent vs Luck model proposed by
