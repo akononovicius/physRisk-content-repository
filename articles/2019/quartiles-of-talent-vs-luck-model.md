@@ -6,8 +6,8 @@ Slug: quartiles-of-talent-vs-luck-model
 Status: published
 Image_url: uploads/2019/tvl-model-q.png
 
-Here we continue our discussion on the Talent vs Luck model proposed by
-[cite id="Pluchino2018ACS"]. This time we offer you an app which allows,
+Here we continue our discussion on the Talent vs Luck model proposed in
+[cite id="Pluchino2018ACS"]. This time we offer you an app which allows
 you to explore quartile dynamics in this model.<!--more-->
 
 Usually in statistics quartiles are values which split data in four equal parts.
