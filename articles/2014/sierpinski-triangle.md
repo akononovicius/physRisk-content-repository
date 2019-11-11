@@ -22,10 +22,10 @@ Iterative removel of triangles
 Iterative removel of triangles is the main Sierpinski triangle
 construction algorihtm and it is formulated as:
 
--   Let us start with an equilateral triangle.
--   Subdivide it into four smaller congruent equilateral triangles.
--   Remove the central smaller triangle - leave only ones on the sides.
--   Repeat steps 2 and 3 with each of the remaining smaller triangles.
+1. Let us start with an equilateral triangle.
+2. Subdivide it into four smaller congruent equilateral triangles.
+3. Remove the central smaller triangle - leave only ones on the sides.
+4. Repeat steps 2 and 3 with each of the remaining smaller triangles.
 
 Observe this algorithm in HTML5 app bellow. Using buttons "+" and "-"
 you can influence the maximal precision (recursive depth) in which the
@@ -33,18 +33,18 @@ fractal is drawn. Observe self-similarity of the structure.
 
 [html5-interactive
 src="/uploads/models/sierpinski-geom/index.html"
-width="460" height="455" mode="iframe"]
+width="460" height="460" mode="iframe"]
 
 Shrinking and duplication
 -------------------------
 
 Alternatively you could do the following:
 
--   Choose any geometric object. There is no need to choose equilateral
-    triangle.
--   Shrink it two times and make three copies of it. Two copies should
-    form a base, while the third should be placed on top.
--   Repeat step 2 with all three copies.
+1. Choose any geometric object. There is no need to choose equilateral
+   triangle.
+2. Shrink it two times and make three copies of it. Two copies should
+   form a base, while the third should be placed on top.
+3. Repeat step 2 with all three copies.
 
 Observe this algorithm in HTML5 app bellow. Once again use buttons "+"
 and "-" to influence the maximal precision (recursive depth) in which
@@ -62,14 +62,14 @@ This case is slightly more interesting as it is no longer deterministic
 - the actions in this "game" are chosen at random. The only definite
 thing is three main points. The algorithm itself is formulated as:
 
--   Choose three points, which could be connected to form a triangle.
-    There is no need to connect them. Let us call them main points.
--   Choose a random point inside the triangle. Mark this point. Let us
-    call it current position.
--   Select randomly any of the three main points.
--   Find a mid-point between the current position and selected main
-    point. Mark this point. This point is our new current position.
--   Repeat steps 3-4 with the new current positions.
+1. Choose three points, which could be connected to form a triangle.
+   There is no need to connect them. Let us call them main points.
+2. Choose a random point inside the triangle. Mark this point. Let us
+   call it current position.
+3. Select randomly any of the three main points.
+4. Find a mid-point between the current position and selected main
+   point. Mark this point. This point is our new current position.
+5. Repeat steps 3-4 with the new current positions.
 
 In the HTML5 app bellow we have show the main points as larger squares
 colored in three colors - red, green and blue. These colors ar used when
