@@ -3,7 +3,7 @@ Date: 2019-11-26 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Numberphile, statistics
 Slug: numberphiles-videos-on-babies
-Status: draft
+Status: published
 
 You might not be aware of it, but we are all likely of noble blood. Details on
 why this is true and to what extent, in the following Numberphile's video
