@@ -23,9 +23,9 @@ may use a simpler agent-based model for this.<!--more-->
 ## Formulation of the model
 
 First of all let us note that agents may be either vaccinated (in the
-app bellow they will be shown in green) or unvaccinated (shown in blue).
+app below they will be shown in green) or unvaccinated (shown in blue).
 The probability that individual agent will be vaccinated is one of the
-parameters of the model \\\(  p\_{vac} \\\). App bellow asks for two
+parameters of the model \\\(  p\_{vac} \\\). App below asks for two
 values of this parameter. One of them is used for the left population of
 agents, while the second one is used for the right population of agents.
 These agent populations "live" on separate square grids, opposing ends
@@ -37,7 +37,7 @@ The agents transition between these states according to simple
 transition probabilities per unit of time. Healthy agent might get
 infected by single other infected agent with probability \\\( p\_{hi} \\\) (each agent has 4 neighbors, has some natural immunity and may
 be vaccinated, thus actual infection probability is more complex (see
-bellow)), infected agent might become healthy again, \\\(  p\_{ih} \\\),
+below)), infected agent might become healthy again, \\\(  p\_{ih} \\\),
 or die, \\\(  p\_{id} \\\).
 
 ![Simplified scheme of the
@@ -198,7 +198,7 @@ vaccine. But vaccination helps to save millions of others!
 
 ## HTML5 app
 
-We invite you to play around with the app bellow to convince yourself
+We invite you to play around with the app below to convince yourself
 that vaccination helps prevent disease outbreaks.
 
 [html5-interactive

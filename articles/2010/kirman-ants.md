@@ -150,7 +150,7 @@ Applet
 
 In the previous section of this article it was shown that \\\( \Delta t \\\) values must be limited from the above in order for model
 equations to have mathematically correct interpretation. In the program
-bellow we have chosen to use one of the previous inequalities to define
+below we have chosen to use one of the previous inequalities to define
 actual value of \\\(  \Delta t \\\):
 
 

@@ -240,7 +240,7 @@ price."){#attachment_1343}
 HTML5 applet
 ------------
 
-The applet bellow models financial market using Bornholdt model, which
+The applet below models financial market using Bornholdt model, which
 was discussed above. Thus meaning of the parameters should be evident
 from previous discussion.
 

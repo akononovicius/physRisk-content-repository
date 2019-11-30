@@ -52,7 +52,7 @@ networks](/tag/scale-free-network), but the
 clustering coefficient in networks generated using this model is
 positive (the precise value depends on both model parameters). Typical
 evolution of clustering coefficient as well as degree distribution are
-shown in the figure bellow.
+shown in the figure below.
 
 ![Evolution of clustering coefficient with the increasing
 number of nodes (as time), also node degree

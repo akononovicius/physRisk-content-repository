@@ -63,7 +63,7 @@ model may be forgotten if agent does not use it frequently:
 
 
 Thus one just needs to randomly pick agent and change his state
-according to the given transition probabilities. In the applet bellow
+according to the given transition probabilities. In the applet below
 during one time unit all agents have a chance to switch their state once
 (on average as agents are picked randomly).
 
@@ -80,7 +80,7 @@ which we presented results of \[cite id="Kononovicius2016PhysLettA"\]).
 Interactive applet
 ------------------
 
-What you should check out in the applet bellow? First you will see a
+What you should check out in the applet below? First you will see a
 noise picture in which agents A (red), B (blue) and AB (magenta) will be
 intermixed (note that the grid's edges are interconnected). The initial
 view is determiend by \\\(  \rho\_A \\\) and \\\(  \rho\_B \\\) values,

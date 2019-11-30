@@ -120,7 +120,7 @@ r(t) = p(t) - p(t - 1) = \Delta p(t).
 ## Interactive applets
 
 To understand the model and its dynamics better you should study the interactive
-applets bellow.
+applets below.
 
 The first applet, as has become usual, shows us how the structure of the order
 book evolves as the time goes on. Note that unlike in all other cases here we

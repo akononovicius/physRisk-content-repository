@@ -24,7 +24,7 @@ are left. In such case captain (P4) could keep all the treasure to
 himself as votes would equally split (1 on 1). So try to imagine how the
 previous captain (P3) could have used this information in order to
 retain his life? What about P2? Original captain? You can try your
-solution using applet bellow.
+solution using applet below.
 
 [html5-interactive
 src="/uploads/models/pirate-game/index.html"

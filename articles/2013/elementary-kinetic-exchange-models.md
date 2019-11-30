@@ -89,7 +89,7 @@ kinetic energy of both particles being uniformly distributed among them.
 Thus in the literature this model is known as random reshuffling or
 reshuffling model \[cite id="Patriarca2013AJP"\].
 
-In an HTML5 applet bellow you can convince yourself that the stationary
+In an HTML5 applet below you can convince yourself that the stationary
 distribution of this model is Boltzmann-Gibbs distribution (given by red
 curve).
 
@@ -130,7 +130,7 @@ alter the \\\(  w\_i(t) \\\) and \\\(  w\_j(t) \\\) values prior to the
 actual exchange (to increase them by \\\(  w\_{max} \\\) or by decreasing
 them by \\\(  w\_{min} \\\)).
 
-In the HTML5 applet bellow we have single parameter \\\(  w\_{mm} \\\),
+In the HTML5 applet below we have single parameter \\\(  w\_{mm} \\\),
 which stands for both \\\(  w\_{max} \\\) and \\\(  w\_{min} \\\). If
 \\\(  w\_{mm}&gt;0 \\\), then the fixed saving model is used (with
 \\\(  w\_{min} = w\_{mm} \\\)). In the opposite case the borrowing model
@@ -165,7 +165,7 @@ its whole energy (same as "all in" in poker or similar betting game):
 
 It should be evident that this model is quite different, because sooner
 or later all energy will be accumulated by a single particle, while all
-others will have no energy. See HTML5 applet bellow.
+others will have no energy. See HTML5 applet below.
 
 [html5-interactive
 url="/uploads/models/kinetic-models/va-bank-en.html"

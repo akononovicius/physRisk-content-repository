@@ -33,7 +33,7 @@ landslide.
 
 Interestingly landslide sizes, \\\(  S \\\), have stationary distribution
 which is power-law. We invite you to confirm this using the applet
-bellow.
+below.
 
 HTML5 applet
 ------------

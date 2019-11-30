@@ -15,7 +15,7 @@ provides liquidity for them.<!--more-->
 
 The model is initialized with a full order book. Here, full order book means
 that for every possible quote there is a single limit order at that quote. All
-quotes bellow current price are filled with bid market orders, while all quotes
+quotes below current price are filled with bid market orders, while all quotes
 above current price are filled with ask market orders.
 
 Market orders arrive at rates \\\( \lambda^{-} \\\) and \\\( \lambda^{+} \\\) for
@@ -33,7 +33,7 @@ perfect replica of the Walrasian market maker.
 ## Interactive applets
 
 To understand the model and its dynamics better you should study the interactive
-applets bellow.
+applets below.
 
 The first applet shows us how the structure of the order book evolves as the
 time goes on. Note that the profiles of the both sides remain the same in this

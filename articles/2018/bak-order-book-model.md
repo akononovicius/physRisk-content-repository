@@ -48,7 +48,7 @@ describes a physical and financial system.
 
 ## Interactive applets
 
-To undestand the model better study the interactive applets bellow. The first
+To undestand the model better study the interactive applets below. The first
 applet shows us the structure of the order book. A similar applet was published
 in the [previous text]({filename}/articles/2018/what-the-order-book-is.md), but
 it used another model (which will be discussed in the near future). As in this
@@ -61,7 +61,7 @@ src="/uploads/models/bak-order-book-model/ob-vizualization-en.html" width="520"
 height="370" mode="iframe"]
 
 The second applet has a somewhat more traditional look. By using the applet
-bellow you can see the log-price and absolute return time series, as well as
+below you can see the log-price and absolute return time series, as well as
 the main statistical features of absolute return (PDF and spectral density).
 Note that this model does not have diserable statistical features, we show them
 simply out of tradition and our own curiosity.

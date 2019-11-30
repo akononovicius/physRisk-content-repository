@@ -43,7 +43,7 @@ It is also known that autocorrelation of absolute return time series
 decays very slowly - as power law. While the spectral density of
 absolute return time series is known to be double power law - smaller
 frequencies are fitted with power 0.9, while larger can be fitted with
-power 0.2. In the figure bellow, [Fig. 1](#attachment_904), we have show
+power 0.2. In the figure below, [Fig. 1](#attachment_904), we have show
 aforementioned statistical properties of one minute absolute returns
 observed in New York (red line) and Vilnius (blue line) Stock Exchanges.
 
@@ -223,7 +223,7 @@ min) and \\\( τ_s=6 \cdot 10^{-3} \\\) (30 min), \\\( λ_2 = 5 \\\), \\\( {\bar
 Applet
 ------
 
-HTML5 applet bellow solves differential equations above using
+HTML5 applet below solves differential equations above using
 Euler-Maruyama method \[cite id="Kloeden1999Springer"\]. We also use
 variable time step. In such case stochastic differential equations
 becomes a set of difference equations for time and return. In case of

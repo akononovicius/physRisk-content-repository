@@ -164,7 +164,7 @@ subject taught at school, which quite far from the every day real life
 situations.
 
 May be in this way it would be possible to avoid something in the spirit
-of the image bellow (taken from
+of the image below (taken from
 [science.memebase.com](http://cheezburger.com/6690922752); author:
 YUNOtele).
 

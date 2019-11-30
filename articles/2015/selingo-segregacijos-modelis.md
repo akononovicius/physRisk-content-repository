@@ -41,7 +41,7 @@ agent moves to a random empty cell.
 
 ## Interactive HTML5 app
 
-Use the bellow app to see how the model results change when more/less
+Use the below app to see how the model results change when more/less
 space becomes available (increase/decrease \\\(  p\_e \\\)), when society
 is more/less heterogeneous (deviations from \\\(  p\_r = 0.5 \\\)) or
 when society is more/less tolerant (decrease/increase \\\(  h \\\)). On

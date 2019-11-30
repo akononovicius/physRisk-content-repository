@@ -12,12 +12,12 @@ also nontransitive and thus appears to be unnatural, "cheated" and etc.
 Yet the example is completely natural and easily understandable, it can
 be also tested empirically (and not only theoretically as the previous
 example) - it can be played at home! All of the relevant information
-you'll hear in the youtube video (see bellow).
+you'll hear in the youtube video (see below).
 
 [youtube v="u4XNL-uo520"]
 
 We also provide a more simple take on the same topic
-bellow.<!--more-->
+below.<!--more-->
 
 **Transitivity** is natural and expected property. It is how the most of
 the times "it should be". For example, it is clearly understandable that

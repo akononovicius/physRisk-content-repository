@@ -79,11 +79,11 @@ Applet with two curves
 ----------------------
 
 In order to better understand the Poincare plot, one should start from a
-simple case with two curves. In the applet bellow we have selected two
+simple case with two curves. In the applet below we have selected two
 curves with extremely similar initial conditions, but qualitatively
 differing trajectories (one resonates with periodic force, while the
 other doesn't). Red ball starts with \\\(  (x\_0, \omega\_0) \\\), while
-the initial conditions of blue ball are similar (in the applet bellow
+the initial conditions of blue ball are similar (in the applet below
 you may choose deviations from the initial conditions of red ball).
 Experiment with the default settings and also try some other sets of
 initial conditions. Note that you may also change the strength of the
@@ -96,7 +96,7 @@ width="510" height="370" mode="iframe"]
 Many trajectory Poincare plot and Standard map
 ----------------------------------------------
 
-In the applet bellow you may study the Poincare plot of the kicked
+In the applet below you may study the Poincare plot of the kicked
 rotator with \\\(  N\_{trajectories} \\\) trajectories present. For the
 sake of simplicity the initial conditions of each trajectory are
 selected automatically - \\\(  x\_0 =\pi \\\) , \\\(  \omega\_0 =\frac{2 \pi i}{N\_{trajektorijų}} \\\) (here \\\(  i = 0, 1, \ldots,N\_{trajectories} \\\)). Each trajectory is plotted until it becomes closed

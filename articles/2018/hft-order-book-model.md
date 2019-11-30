@@ -91,7 +91,7 @@ mid-prices to the transaction price. This induces a momentary movement of agent'
 quotes by \\\( - L\_j/2 \\\) and agent's \\\( i \\\) quotes by \\\( L\_i /2 \\\).
 
 To visually understand how the model behaves see an illustration by Kanazawa et al.
-bellow (the figure is a screenshot of Fig. 4 from the [cite id="Kanazawa2018arxiv"]).
+below (the figure is a screenshot of Fig. 4 from the [cite id="Kanazawa2018arxiv"]).
 
 ![schematic representation of the model by Kanazawa et al.](/uploads/2018/hft-ob-schema.png "Schematic representation of the model as illustrated by Kanazawa et al.")
 
@@ -105,7 +105,7 @@ trend following has. The strength of trend following is well captured by the
 
 As the model is based on empirical observations Kanazawa et al. [cite id="Kanazawa2018PRL, Kanazawa2018arxiv"]
 estimated the parameter values from their data set. These values are the default ones
-in the figures (app screenshots) and app bellow: \\\( c = 6 \\\), \\\( \\Delta p^{\*} = 7.5 \\\) ,
+in the figures (app screenshots) and app below: \\\( c = 6 \\\), \\\( \\Delta p^{\*} = 7.5 \\\) ,
 \\\( \\sigma=3.8 \\\) (authors do report a different value, but I believe that
 this is a mistype on their part as in that case \\\( \\tilde c \\\) value would
 not be a correct one), \\\( \\alpha=3 \\\) and \\\( L^{\*}=15.5 \\\). We have used
@@ -122,7 +122,7 @@ is noticeably negative.
 If \\\( \\tilde c \\\) would be significantly larger than 1, then trend following is
 strong. In this case drift behavior of the HFTs dominates. The price change PDF
 is exponential, while auto-correlation function for the short lags is noticeably
-positive. The auto-correlation function in our app bellow is positive, if last
+positive. The auto-correlation function in our app below is positive, if last
 1024 time ticks (points) include at least one trend reversal. If the current trend
 persists for longer than 1024 points, then auto-correlation function will fluctuate
 around zero. This is just minor artifact of the algorithm we implemented in the app.
@@ -143,12 +143,12 @@ auto-correlation for the short times).
 ## Interactive applets
 
 To understand the model and its dynamics better you should study the interactive
-applets bellow.
+applets below.
 
 The first applet, as has become usual, shows us how the structure of the order
 book evolves as the time goes on. Note that unlike in most other cases here we
 have relative price on the x axis, thus negative "prices" will also be observed.
-Also note that this model uses continuous prices, hence the plot bellow shows
+Also note that this model uses continuous prices, hence the plot below shows
 a number of submitted limit orders in the interval \\\( \[ p, p+1 \) \\\). Note
 that the shape of the both sides of the order book is symmetric and has shape
 similar to the log-normal distribution (similarly as in the

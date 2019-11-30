@@ -38,7 +38,7 @@ parameter \\\(  \sigma \\\) (how much agents are influenced by ad
 campaigns) and herding behavior parameter \\\(  h \\\) (how much agents
 are influenced by their peers). Here we will assume that each agent has
 his own intrinsic \\\(  \sigma\_i \\\) and \\\(  h\_i \\\) values. In the
-app bellow these values are sampled from uniform distribution (the lower
+app below these values are sampled from uniform distribution (the lower
 and upper bound of the value distribution are model parameters).
 
 In this case agent identified by index \\\(  i \\\) will adopt the
@@ -78,7 +78,7 @@ approximated by the [Bass diffusion
 equation](/unidirectional-kirman-model) with
 parameter values equal to the averages of agents' intrinsic values.
 
-In the app bellow we have implemented the heterogeneous model as well as
+In the app below we have implemented the heterogeneous model as well as
 original Bass diffusion equation. As the heterogeneous model is being
 evaluated (red circles are drawn to show its evolution), the original
 Bass diffusion equation is also being solved (blue line show its

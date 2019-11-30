@@ -11,7 +11,7 @@ reminds the legendary Civilization computer game, but explains what
 actually may contributed to the formation of the human societies. The
 essence of the Civilization game is a very simple one - the players must
 lead their civilizations to become a grand futuristic empire. As
-reported in the article linked bellow, the main result of the research
+reported in the article linked below, the main result of the research
 is that the military technology and warfare is mostly responsible for
 the formation of the organized human societies. The first people faced a
 tough challenge - if they were not organized, they were simple wiped

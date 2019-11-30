@@ -54,7 +54,7 @@ according to the success of the guess on would obtain map. These maps
 tend to have fractal structure and thus are known as Newton-Raphson
 fractals.
 
-In the image bellow you see solution of \\\(  z^2+2 \imath z+1=0 \\\) one the complex plane (real and imaginary parts are constrained
+In the image below you see solution of \\\(  z^2+2 \imath z+1=0 \\\) one the complex plane (real and imaginary parts are constrained
 in \[-5;5\]).
 
 ![sprendimas](/uploads/2011/05/sprendimas.png)
@@ -69,7 +69,7 @@ Complex cases and root basins
 
 Let see how method fares in case of more complex equation - \\\( z^5+z^3+2 \imath z+1=0  \\\). Let the real part of expected roots
 be constrained in \[0;5\], while imaginary being in \[-0.25;1.75\]. In
-the image bellow we can see three different roots. Though only one is
+the image below we can see three different roots. Though only one is
 seen fully, while the others are seen only partly (via basins).
 
 ![z5+z3+2iz+1](/uploads/2011/05/fig1a.png)
@@ -99,7 +99,7 @@ each other.
 
 ![basin interaction](/uploads/2011/05/fig2b.png)
 
-In the image bellow you can see small root basins overlapping. Note that
+In the image below you can see small root basins overlapping. Note that
 even smaller root basins are overlapping. These overlaps would persist
 at any scale.
 

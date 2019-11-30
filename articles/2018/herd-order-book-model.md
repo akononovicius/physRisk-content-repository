@@ -101,7 +101,7 @@ submit limit orders at all, they only exploit their knowledge with market orders
 ## Interactive applets
 
 To understand the model and its dynamics better you should study the interactive
-applets bellow.
+applets below.
 
 The first applet shows us how the structure of the order book evolves as the
 time goes on. Note that the profiles of the both sides remain more or less the

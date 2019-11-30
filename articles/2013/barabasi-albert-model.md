@@ -59,7 +59,7 @@ of authority figure. Consequently the already popular website will get
 more popular, while the less well known will remain behind them in terms
 of popularity. Similar situation is observed in the scientific citation
 networks and also in the internet connections (see the
-[figure](#attachment_2483) bellow).
+[figure](#attachment_2483) below).
 
 ![Interneto jungtys (žr.
 plačiau).](/uploads/2013/05/network-connections.jpg "
@@ -85,7 +85,7 @@ connection algorithm one needs to have some set of the initial nodes.
 After creating this set (and edges between the nodes in it) we can apply
 the algorithm by creating one or more nodes at each step. It is usually
 required that the number of nodes created per step should be less than
-the size of initial set of nodes. In our applet bellow we present the
+the size of initial set of nodes. In our applet below we present the
 simplest case - the initial set consists of two nodes and one node per
 step is being added.
 

@@ -52,7 +52,7 @@ drivers. This amplification cause stop-and-go waves - namely, cars slow
 down due to other drivers slowing down and then can move again once the
 path becomes clear, after some time they encounter another slow down and
 so on. Note that "cars" (agents) move clockwise, while traffic jam moves
-in the opposite direction. In our applet bellow we have picked a minimal
+in the opposite direction. In our applet below we have picked a minimal
 values for the model parameters with which traffic jams should form.
 
 Applet

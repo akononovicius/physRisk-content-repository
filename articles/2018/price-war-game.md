@@ -10,7 +10,7 @@ Couple of months ago I have started a [series of posts](/tag/price-formation-ser
 
 In the [part four]({filename}/articles/2018/price-formation-game-theory.md) I have asked you to imagine that the market consists of two competing companies, which produce almost identical products. Each of the companies can charge a high price or a low price. If one company wants to charge low price, then all consumers would prefer buying its product and not the competitors. I have assumed that there are 100 consumers and that companies produce products for all consumers (namely they always produce 100 units of the product), high price is 5 monies, low price is 3 monies and production costs are 0.5 monies. In this post I would like to remove some of these simplifying assumptions and discuss how the model works if different numbers are selected.<!--more-->
 
-In the interactive app bellow you can try changing some these values. I have only kept the total number of consumers fixed at 100 as this assumption does not have qualitative impact on the results of the game. All of the other parameters can be changed and you can explore the phase transition in the "price war" game.
+In the interactive app below you can try changing some these values. I have only kept the total number of consumers fixed at 100 as this assumption does not have qualitative impact on the results of the game. All of the other parameters can be changed and you can explore the phase transition in the "price war" game.
 
 Further \\\( p_0 \\\) is used to denote the production costs, \\\( p_1 \\\) -- "Price 1", \\\( p_2 \\\) -- "Price 2", \\\( N \\\) -- units of product which competing companies produce (bottom limit is fixed at 50, so that all consumer could buy either product, upper limit is fixed at 100 to avoid overproduction). Try changing the parameter values to see what happens.
 
@@ -32,7 +32,7 @@ p = \frac{50}{50-N} + \frac{p_1}{p_1-p_2} ,
 \end{equation}
 here \\\( p \\\) is the probability to choose "Price 1" and likewise \\\( 1-p \\\) would be the probability to choose "Price 2". Note that \\\( p \\\) does not depend on \\\( p_0 \\\).
 
-Now let us assume that if there is "pure" dominating strategy, then the competitors will use that strategy all the time. Otherwise they will randomize the charged price and will do so optimally. This leads to an interesting plot bellow (presented as interactive figure).
+Now let us assume that if there is "pure" dominating strategy, then the competitors will use that strategy all the time. Otherwise they will randomize the charged price and will do so optimally. This leads to an interesting plot below (presented as interactive figure).
 
 [html5-interactive
 src="/uploads/models/price-war-game/graph-en.html" width="400"

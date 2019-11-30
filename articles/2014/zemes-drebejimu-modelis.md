@@ -49,7 +49,7 @@ critical cells, \\\(  S\_{C\_i} \\\):
 \end{equation}
 
 
-This algorithm is implemented in our HTML5 applet bellow. We invite you
+This algorithm is implemented in our HTML5 applet below. We invite you
 to try it and observe the emergence of power-law distribution.
 
 HTML5 applet

@@ -64,9 +64,9 @@ now we can reexpress Hamiltonian as
 here \\\(  x  \\\) and \\\(  y  \\\) are coordinates on 2D lattice
 (summations in the above Hamiltonian is made over all possible \\\(  x \\\) and \\\(  y  \\\) values). In the original Ising model value of
 \\\(  J \\\) is fixed and equal to 1 - modeled matter is assumed to have
-feromagnetic properties bellow critical temperature and paragmentic
+feromagnetic properties below critical temperature and paragmentic
 above. Thus we could drop \\\(  J \\\) from the above Hamiltonian, but it
-is kept as in the applet bellow we have also implemented opposite,
+is kept as in the applet below we have also implemented opposite,
 antiferomagnetic (\\\(  J = -1 \\\)), case. Though antiferomagnetic case
 is not very interesting as phase shift is not observed.
 
@@ -111,7 +111,7 @@ values."){#attachment_995}
 
 Previously we assumed that there is no external magnetic field. But how
 would observed model behavior change if external magnetic field is
-present? The answer is given in h-1/T phase diagram bellow (see [Fig.
+present? The answer is given in h-1/T phase diagram below (see [Fig.
 3](#attachment_1010)) - external magnetic field aligns most of the spins
 in one direction (same as the direction of magnetic field).
 
@@ -126,7 +126,7 @@ area)."){#attachment_1010}
 HTML5 Applet
 ------------
 
-In the applet bellow we present implementation of Ising model on 50x50
+In the applet below we present implementation of Ising model on 50x50
 2D square lattice. In the applet window you can see four figures -
 current spatial spin distribution graph, evolution of energy, entropy
 and magnetization. Single iteration corresponds to the one thousand

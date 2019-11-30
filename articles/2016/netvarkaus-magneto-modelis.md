@@ -49,7 +49,7 @@ during the modelling.
 HTML5 applet
 ------------
 
-In the applet bellow we present the implementation of the modified
+In the applet below we present the implementation of the modified
 [Ising model](/ising-model) on 50×50 2D
 square lattice. In the applet window you can see four figures - current
 spatial spin distribution graph, evolution of energy, entropy and

@@ -77,7 +77,7 @@ which we consider a general class of stochastic differential equations:
 \end{equation}
 
 
-We invite you to confirm that yourselves using HTML5 app bellow. Please
+We invite you to confirm that yourselves using HTML5 app below. Please
 allow the simulation takes its time - correct results appear when power
 law distribution becomes visible.
 

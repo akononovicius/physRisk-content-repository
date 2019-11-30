@@ -14,7 +14,7 @@ What I did not notice previously, until revisiting the topic while writing this 
 
 ## Printing press example
 
-To continue the discussion, let us take a simple example, which will illustrate this logic. Let us assume that a printing press wants to publish a book. Printing press is perfectly aware of its own supply law (because they know how much materials and labor as well as their alternative costs), which describes their worst-case intent to sell. Their supply law is given in a figure bellow by blue-ish curve with label S.
+To continue the discussion, let us take a simple example, which will illustrate this logic. Let us assume that a printing press wants to publish a book. Printing press is perfectly aware of its own supply law (because they know how much materials and labor as well as their alternative costs), which describes their worst-case intent to sell. Their supply law is given in a figure below by blue-ish curve with label S.
 
 ![The illustration of the printing press example using supply and demand laws. Notation is explained in the text and previous posts.](/uploads/2017/12/price-formation-dynamics.png "The illustration of the printing press example using supply and demand laws. Notation is explained in the text and previous posts.")
 

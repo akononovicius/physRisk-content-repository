@@ -84,7 +84,7 @@ sociological terms.
 Interactive HTML5 app
 ---------------------
 
-This post was illustrated using figures generated using app bellow. Our
+This post was illustrated using figures generated using app below. Our
 app uses modified interpretation of the original threshold model -
 namely it includes time axis. During each time step of the model a
 random agent is selected:
@@ -100,7 +100,7 @@ shows how the number of protesting agents evolves in time. Bellow the
 two figures you should see previous "history," which contains groups
 agents of which have recently joined the protest.
 
-In the app bellow you can change the size of the grid (total number of
+In the app below you can change the size of the grid (total number of
 agents), threshold of the 4 groups, \\\(  T\_i \\\), as well as
 population fraction of agents in these groups, \\\(  p\_i \\\).
 

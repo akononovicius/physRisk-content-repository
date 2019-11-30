@@ -56,7 +56,7 @@ rates, two waking up rates and single commenting rates. These rates must be
 updated after every event occurring as well as at those special times.
 
 We invite you to explore the dynamics of the modified model by using the
-interactive HTML5 app bellow. The app will present you with two figures: the top
+interactive HTML5 app below. The app will present you with two figures: the top
 figure will show the total number of comments (red curve) as well as the total
 number of awake agents (blue curve), the bottom figure will show the number of
 new comments per 15 minute window (red curve).

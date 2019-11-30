@@ -56,7 +56,7 @@ spatial dimension \\\(  n=d/2 \\\). It should be pretty straightforward
 to relate the abstraction of saving propensity and the dimensionality of
 the system: \\\(  \kappa = \frac{d-2}{d+4} \\\). The impact of the
 proportional saving propensity can be seen in the interactive HTML5
-applet bellow.
+applet below.
 
 [html5-interactive
 url="/uploads/models/kinetic-models/homogeneous-saving-en.html"
@@ -79,7 +79,7 @@ particles, which are uniformly distributed in the interval \\\( \[0,1\] \\\) (th
 simple assumption is enough to reproduce the power law tail! This result
 suggests that agent heterogeneity is a very powerful and important tool.
 You can see the power-law distribution (note that the plot is log-log)
-in the HTML5 applet bellow.
+in the HTML5 applet below.
 
 [html5-interactive
 url="/uploads/models/kinetic-models/hetero-saving-en.html"

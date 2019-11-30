@@ -73,7 +73,7 @@ This model also includes simple order cancellation mechanic. Each order is
 canceled after \\\( \tau \\\) time ticks. The original paper argues that for this
 case most realistic results are produced when \\\( \tau \in (200,750) \\\).
 
-In the applets bellow we also use parameter \\\( \delta \\\) which describes
+In the applets below we also use parameter \\\( \delta \\\) which describes
 both number of time ticks between the visual updates and used to define return
 (price difference):
 
@@ -84,7 +84,7 @@ r_\delta(t) = p(t) - p(t - \delta) = \Delta_\delta p(t).
 ## Interactive applets
 
 To understand the model and its dynamics better you should study the interactive
-applets bellow.
+applets below.
 
 The first applet, as has become usual, shows us how the structure of the order
 book evolves as the time goes on. Here we have assumed that the reference level

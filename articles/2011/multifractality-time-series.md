@@ -342,7 +342,7 @@ Hölder exponent spectrum \[cite id="Riedi2002Birkhauser"\].
 Applet
 ------
 
-GUI of the applet bellow is reminiscent of the previous
+GUI of the applet below is reminiscent of the previous
 [applet](/agent-based-herding-model-financial-markets),
 which was published together with the text on Agent-based herding model
 of financial markets. Thus there is no point in discussing its input

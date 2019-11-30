@@ -137,7 +137,7 @@ statistical effect just have become like a law: the relative difference
 in GDP between two countries is possible only in the case when relative
 difference in aggregate prices is of the same magnitude. Note that
 countries above the trend line likely have more problems in economic
-development than countries bellow, for example, Greece in the last period
+development than countries below, for example, Greece in the last period
 and Iceland in 2007 have too high price levels in comparison with GDP
 followed by real economic balance and development problems. It looks
 like the optimal development is achieved when countries GDP is in
