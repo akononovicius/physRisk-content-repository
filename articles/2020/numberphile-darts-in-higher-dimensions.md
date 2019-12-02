@@ -3,7 +3,7 @@ Date: 2020-02-11 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Numberphile, statistics, 3Blue1Brown
 Slug: numberphile-numberphile-darts-in-higher-dimensions
-Status: published
+Status: draft
 
 It might sound strange, but statistics and geometry are very much related.
 Result in one is likely to have some meaning in the other. This time Numberphile
