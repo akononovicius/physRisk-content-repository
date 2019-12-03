@@ -6,7 +6,7 @@ Slug: rank-size-distribution-and-uk-census-2011-data-set
 Status: draft
 
 While we haven't told you the previous post on
-[Kawasaki dynamics]({filename}/articles/2020/kawasaki-ising-model) is actually
+[Kawasaki dynamics]({filename}/articles/2020/kawasaki-ising-model.md) is actually
 meant as a context towards upcoming series of posts. While it covered
 theoretical aspect of the upcoming series, as the model we will talk about is
 build on the same premise as Kawasaki interpretation of the Ising model, this
