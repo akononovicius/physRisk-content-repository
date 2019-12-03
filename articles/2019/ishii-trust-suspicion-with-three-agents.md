@@ -3,7 +3,7 @@ Date: 2019-12-03 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, bounded confidence, trust and suspicion, postdoctoral project
 Slug: ishii-trust-suspicion-model-with-three-agents
-Status: publish
+Status: published
 Image_url: uploads/2019/ishii-trust-3.png
 
 Recently one of the well-known researchers in the field has proposed an
