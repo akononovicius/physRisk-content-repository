@@ -1,7 +1,7 @@
 Title: Herfindahl-Hirschman index and entropy
 Date: 2014-09-22 08:25
 Author: Aleksejus Kononovicius
-Tags: General models, Economics, Business processes, competition, statistical physics
+Tags: Economics, competition, statistical physics
 Slug: herfindahl-hirschman-index-and-entropy
 Status: published
 

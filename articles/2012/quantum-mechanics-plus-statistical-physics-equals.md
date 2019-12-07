@@ -1,7 +1,7 @@
 Title: Quantum mechanics + statistical physics = ?
 Date: 2012-10-29 07:25
 Author: Aleksejus Kononovicius
-Tags: Stochastic models, quantum mechanics, literature, statistical physics
+Tags: Stochastic models, quantum mechanics, statistical physics
 Slug: quantum-mechanics-plus-statistical-physics-equals
 Status: published
 
@@ -18,7 +18,7 @@ essential equations, master and Shrodinger, appear to be similar:
 
 
 The only difference is the imaginary factor i! But these similarities
-lie just on the surface...<!--more-->
+lie just on the surface...
 
 You can read more about it in a draft paper by J. C. Baez and J.
 Biamonte \[cite id="Baez2012"\]. Please be sure to buy one, if you like

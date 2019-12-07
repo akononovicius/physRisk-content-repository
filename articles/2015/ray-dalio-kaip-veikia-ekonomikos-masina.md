@@ -1,7 +1,7 @@
 Title: Ray Dalio: How The Economic Machine Works
 Date: 2015-06-02 07:47
 Author: Aleksejus Kononovicius
-Tags: General models, Economics, gross domestic product, macroeconomics, popular culture, video
+Tags: Economics, gross domestic product, macroeconomics, video
 Slug: ray-dalio-how-economic-machine-works
 Status: published
 

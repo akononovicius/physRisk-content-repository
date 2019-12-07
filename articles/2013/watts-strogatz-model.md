@@ -1,7 +1,7 @@
 Title: Watts-Strogatz model
 Date: 2013-08-12 07:03
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Network models, D. J. Watts, S. Strogatz, degrees of separation, coursera, small world, network formation models
+Tags: Interactive models, Network models, coursera, small world
 Slug: watts-strogatz-model
 Status: published
 

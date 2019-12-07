@@ -1,7 +1,7 @@
 Title: Not that good at physics? Your business might be at risk...
 Date: 2014-03-10 07:46
 Authors: Marija Rudzevičiūtė, Aleksejus Kononovicius
-Tags: Agent-based models, Economics, Business processes, A. Kononovicius, Bzn start, traffic, financial markets, literature, popular culture, statistical physics
+Tags: Agent-based models, Economics, A. Kononovicius, Bzn start, traffic, financial markets, statistical physics
 Slug: not-that-good-at-physics-your-business-might-be-at-risk
 Status: published
 

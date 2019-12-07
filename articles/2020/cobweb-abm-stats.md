@@ -1,7 +1,7 @@
 Title: Price change statistics in the agent-based cobweb model
 Date: 2020-02-11 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, supply and demand, market price, financial markets
+Tags: Interactive models, Agent-based models, supply and demand, market price, financial markets, Cobweb model
 Slug: price-change-stats-in-the-agent-based-cobweb-model
 Status: draft
 Image_url: uploads/2020/cobweb-abm-stats.png

@@ -1,7 +1,7 @@
 Title: Sierpinski triangle
 Date: 2014-09-08 08:28
 Author: Aleksejus Kononovicius
-Tags: Fractals, Cellular automata, old models
+Tags: Fractals, Cellular automata
 Slug: sierpinski-triangle
 Status: published
 

@@ -1,7 +1,7 @@
 Title: PBS Idea Channel: But Wait: How DOES The Media Tell You What To Think?
 Date: 2016-11-01 07:01
 Author: Aleksejus Kononovicius
-Tags: General models, popular culture, sociology, control, video
+Tags: sociology, control, video
 Slug: pbs-idea-channel-how-does-the-media-tell-you-what-to-think
 Status: published
 

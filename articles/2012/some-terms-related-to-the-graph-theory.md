@@ -1,7 +1,7 @@
 Title: Some terms related to the graph theory
 Date: 2012-04-16 08:00
 Author: Julius Ruseckas
-Tags: General models, Network models, old models
+Tags: Network models
 Slug: some-terms-related-to-the-graph-theory
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Modelling wealth distribution using kinetic exchange models
 Date: 2013-12-16 07:08
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General models, Interactive models, kinetic models, statistical physics, wealth
+Tags: Agent-based models, Interactive models, kinetic models, statistical physics, wealth
 Slug: modelling-wealth-distribution-using-kinetic-exchange-models
 Status: published
 

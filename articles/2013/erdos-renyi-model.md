@@ -1,7 +1,7 @@
 Title: Erdos-Renyi model
 Date: 2013-07-29 07:01
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Network models, A. Renyi, Erdos-Renyi model, P. Erdos, coursera, network formation models
+Tags: Interactive models, Network models, Erdos-Renyi model, coursera
 Slug: erdos-renyi-model
 Status: published
 

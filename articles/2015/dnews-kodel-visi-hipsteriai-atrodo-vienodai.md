@@ -1,7 +1,7 @@
 Title: DNews: Why all hipsters look the same?
 Date: 2015-12-08 07:23
 Author: Aleksejus Kononovicius
-Tags: General models, DNews, popular culture, sociology, video
+Tags: DNews, popular culture, sociology, video
 Slug: dnews-why-all-hipsters-look-same
 Status: published
 

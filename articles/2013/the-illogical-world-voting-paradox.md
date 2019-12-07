@@ -1,7 +1,7 @@
 Title: The illogical world - voting paradox
 Date: 2013-11-11 07:02
 Author: Aleksejus Kononovicius
-Tags: General models, N. de Condorcet, game theory, illogical world, nontransitivity, paradox, sociology
+Tags: N. de Condorcet, game theory, nontransitivity, paradox, sociology
 Slug: the-illogical-world-voting-paradox
 Status: published
 

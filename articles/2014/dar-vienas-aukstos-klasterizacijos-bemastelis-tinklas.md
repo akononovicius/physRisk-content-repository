@@ -1,7 +1,7 @@
 Title: Another model of high clustering in scale-free networks
 Date: 2014-06-09 07:46
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Network models, Barabasi-Albert model, scale free network, hybrid network formation models, network formation models
+Tags: Interactive models, Network models, Barabasi-Albert model, scale free network
 Slug: another-model-of-high-clustering-in-scale-free-networks
 Status: published
 

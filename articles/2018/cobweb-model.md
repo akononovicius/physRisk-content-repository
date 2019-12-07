@@ -1,7 +1,7 @@
 Title: Price formation: Cobweb model
 Date: 2018-01-16 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Economics, market price, free market, supply and demand, price formation series
+Tags: Interactive models, Economics, market price, free market, supply and demand, price formation series, Cobweb model
 Slug: price-formation-cobweb-model
 Status: published
 Image_url: uploads/2017/12/cobweb-convergence.png

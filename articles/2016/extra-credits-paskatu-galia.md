@@ -1,7 +1,7 @@
 Title: Extra Credits: The Power of Incentives
 Date: 2016-09-20 07:06
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General models, Economics, Extra Credits, traffic, macroeconomics, politics, popular culture, sociology, video
+Tags: Agent-based models, Economics, Extra Credits, traffic, macroeconomics, politics, sociology, video
 Slug: extra-credits-power-of-incentives
 Status: published
 

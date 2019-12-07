@@ -1,7 +1,7 @@
 Title: Music, point processes and 1/f noise
 Date: 2012-04-30 07:28
 Author: Aleksejus Kononovicius
-Tags: General models, Stochastic models, 1/f noise, literature, popular culture
+Tags: Stochastic models, 1/f noise, popular culture
 Slug: music-point-processes-and-1f-noise
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Wisecrack: How platforms own you
 Date: 2020-01-21 08:00
 Author: Aleksejus Kononovicius
-Tags: video, Wisecrack, popular culture, Economics, internet, free market
+Tags: video, Wisecrack, Netflix, Amazon, Google, Economics, free market
 Slug: wisecrack-how-platforms-own-you
 Status: draft
 

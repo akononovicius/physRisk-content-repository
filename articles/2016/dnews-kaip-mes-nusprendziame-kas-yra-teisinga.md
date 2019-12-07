@@ -1,7 +1,7 @@
 Title: DNews: How Do We Decide What’s Fair?
 Date: 2016-03-29 07:03
 Author: Aleksejus Kononovicius
-Tags: General models, DNews, game theory, video
+Tags: DNews, game theory, video
 Slug: dnews-how-do-we-decide-whats-fair
 Status: published
 

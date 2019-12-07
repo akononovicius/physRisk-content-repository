@@ -1,7 +1,7 @@
 Title: Pirate game
 Date: 2014-12-01 08:22
 Author: Aleksejus Kononovicius
-Tags: General models, Interactive models
+Tags: Interactive models, game theory
 Slug: pirate-game
 Status: published
 

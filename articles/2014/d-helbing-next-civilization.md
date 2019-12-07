@@ -1,7 +1,7 @@
 Title: D. Helbing: Next civilization
 Date: 2014-12-08 07:54
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Economics, Stochastic models, Network models, Business processes, D. Helbing, ted.com, video
+Tags: Agent-based models, Economics, Stochastic models, Network models, D. Helbing, ted.com, video
 Slug: d-helbing-next-civilization
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Lotka-Volterra equations
 Date: 2012-10-01 07:38
 Author: Aleksejus Kononovicius
-Tags: General models, Interactive models, Stochastic models, Lotka-Volterra, Wolfram CDF, biology, evolution models, old models
+Tags: Interactive models, Stochastic models, Lotka-Volterra, Wolfram CDF, biology
 Slug: lotka-volterra-equations
 Status: published
 

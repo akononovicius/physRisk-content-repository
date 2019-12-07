@@ -1,7 +1,7 @@
 Title: Our recent articles on agent-based reasoning and the burst statistics
 Date: 2012-01-17 10:00
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General information, Econometrics, Stochastic models, 1/f noise, A. Kononovicius, S. Reimann, V. Gontis, agent-based reasoning, financial markets, literature, multifractality, burst statistics
+Tags: Agent-based models, General information, Stochastic models, 1/f noise, A. Kononovicius, S. Reimann, V. Gontis, financial markets, multifractality, burst statistics
 Slug: recent-articles-agent-based-modeling-burst-statistics
 Status: published
 
@@ -12,12 +12,9 @@ agent-based reasoning for the stochastic models. Basically this article
 incorporates knowledge obtained while working on the simple models
 provided on Physics of Risk:<!--more-->
 
--   [Stochastic ant colony
-    model](/stochastic-ant-colony-model "Stochastic ant colony model "),
--   [Agent based herding model of financial
-    markets](/agent-based-herding-model-financial-markets "Agent based herding model of financial markets"),
--   [Multifractality of time
-    series](/multifractality-time-series "Multifractality of time series ").
+-   [Stochastic ant colony model](/stochastic-ant-colony-model),
+-   [Agent based herding model of financial markets](/agent-based-herding-model-financial-markets),
+-   [Multifractality of time series](/multifractality-time-series).
 
 You can freely read a draft version in the arxiv. Or if you have access
 to sciencedirect.com you'll find the final version there. Note that you

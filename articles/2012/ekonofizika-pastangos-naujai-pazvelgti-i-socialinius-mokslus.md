@@ -1,7 +1,7 @@
 Title: V. Gontis: Econophysics - brand new outlook into social sciences
 Date: 2012-12-17 13:46
 Author: Vygintas Gontis
-Tags: Agent-based models, Econometrics, Economics, Stochastic models, A. Kononovicius, V. Gontis, agent-based reasoning, financial markets, literature, politics, sociology, statistical physics
+Tags: Agent-based models, Economics, Stochastic models, A. Kononovicius, V. Gontis, financial markets, politics, sociology, statistical physics
 Slug: econophysics-brand-new-outlook-into-social-sciences
 Status: published
 

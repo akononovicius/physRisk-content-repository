@@ -1,7 +1,7 @@
 Title: Axelrod's culture dissemination model
 Date: 2017-12-19 08:00
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, politics, culture, R. Axelrod, opinion dynamics
+Tags: Agent-based models, Interactive models, politics, culture, Axelrod model, opinion dynamics
 Slug: axelrod-culture-dissemination-model
 Status: published
 Image_url: uploads/2017/12/axelrod-plural-fixed.png

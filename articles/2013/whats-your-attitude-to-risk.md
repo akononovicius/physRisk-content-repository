@@ -1,7 +1,7 @@
 Title: What's your attitude to risk?
 Date: 2013-06-10 07:37
 Author: Aleksejus Kononovicius
-Tags: General information, internet
+Tags: General information, announcement
 Slug: whats-your-attitude-to-risk
 Status: published
 

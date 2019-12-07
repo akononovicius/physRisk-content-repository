@@ -1,7 +1,7 @@
 Title: Sznajd (United we stand, divided we fall) model
 Date: 2019-01-22 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, opinion dynamics, voter model, Sznajd model, postdoctoral project
+Tags: Interactive models, Agent-based models, opinion dynamics, voter model, Ising model, Sznajd model, postdoctoral project
 Slug: sznajd-united-we-stand-divided-we-fall-model
 Status: published
 Image_url: uploads/2019/sznajd-model.png

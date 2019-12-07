@@ -1,7 +1,7 @@
-Title: Didier Sornette: How we can predict the next financial crisis?
+Title: D. Sornette: How we can predict the next financial crisis?
 Date: 2013-07-01 07:22
 Author: Aleksejus Kononovicius
-Tags: Econometrics, D. Sornette, financial markets, politics, popular culture, ted.com, video
+Tags: Economics, D. Sornette, financial markets, ted.com, video
 Slug: didier-sornette-how-we-can-predict-the-next-financial-crisis
 Status: published
 

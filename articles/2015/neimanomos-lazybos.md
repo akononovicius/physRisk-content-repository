@@ -1,7 +1,7 @@
 Title: An impossible bet
 Date: 2015-02-03 07:50
 Author: Aleksejus Kononovicius
-Tags: General models, Network models, internet, literature, popular culture, video
+Tags: Network models, video
 Slug: impossible-bet
 Status: published
 

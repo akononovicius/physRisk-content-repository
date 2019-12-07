@@ -1,7 +1,7 @@
 Title: Computational history is something like playing Civilization
 Date: 2014-03-24 07:23
 Author: Aleksejus Kononovicius
-Tags: General models, P. Turchin, evolution models, conflicts, competition, literature, newscientist.com, popular culture
+Tags: conflicts, history, newscientist.com
 Slug: computational-history-is-something-like-playing-civilization
 Status: published
 

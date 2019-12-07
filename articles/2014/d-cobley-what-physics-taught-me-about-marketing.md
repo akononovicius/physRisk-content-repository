@@ -1,7 +1,7 @@
 Title: D. Cobley: What physics taught me about marketing
 Date: 2014-11-17 07:28
 Author: Aleksejus Kononovicius
-Tags: Business processes, D. Cobley, statistical physics, ted.com, video
+Tags: marketing, D. Cobley, statistical physics, ted.com, video
 Slug: d-cobley-what-physics-taught-me-about-marketing
 Status: published
 

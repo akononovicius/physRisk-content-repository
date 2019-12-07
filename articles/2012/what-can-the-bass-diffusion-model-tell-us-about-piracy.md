@@ -1,7 +1,7 @@
 Title: Aleksejus Kononovicius: What can the Bass diffusion model tell us about piracy?
 Date: 2012-03-19 09:09
 Author: Aleksejus Kononovicius
-Tags: Business processes, A. Kononovicius, Bass model, popular culture, marketing
+Tags: A. Kononovicius, Bass model, marketing
 Slug: what-can-the-bass-diffusion-model-tell-us-about-piracy
 Status: published
 

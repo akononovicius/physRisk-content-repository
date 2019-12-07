@@ -1,7 +1,7 @@
 Title: Berkson's paradox
 Date: 2018-10-09 08:00
 Author: Aleksejus Kononovicius
-Tags: Numberphile, popular culture, video, paradox, statistics, ASAPScience
+Tags: Numberphile, video, paradox, Berkson paradox, statistics, ASAPScience
 Slug: berkson-paradox
 Status: published
 

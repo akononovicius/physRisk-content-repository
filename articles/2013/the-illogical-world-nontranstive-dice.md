@@ -1,7 +1,7 @@
 Title: The illogical world - nontranstive dice
 Date: 2013-11-18 07:48
 Author: Aleksejus Kononovicius
-Tags: General models, Interactive models, illogical world, nontransitivity, paradox
+Tags: Interactive models, nontransitivity, paradox
 Slug: the-illogical-world-nontranstive-dice
 Status: published
 

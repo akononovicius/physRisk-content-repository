@@ -1,7 +1,7 @@
 Title: Steve Mould: I predicted the exact time of my daughter's birth using science and data
 Date: 2017-12-26 08:00
 Author: Aleksejus Kononovicius
-Tags: popular culture, video, data science
+Tags: video, data science
 Slug: steve-mould-predicted-daughters-birth
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Kirman's ant colony model
 Date: 2010-04-11 17:34
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, A. Kirman, Kirman model, S. Alfarano, T. Lux, biology
+Tags: Agent-based models, Interactive models, Kirman model, biology
 Slug: kirman-ants
 Status: published
 

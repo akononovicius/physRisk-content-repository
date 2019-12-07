@@ -1,7 +1,7 @@
 Title: Acchieving high clustering in scale-free networks
 Date: 2014-05-26 07:59
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Network models, Barabasi-Albert model, Erdos-Renyi model, scale free network, hybrid network formation models, small world, network formation models
+Tags: Interactive models, Network models, Barabasi-Albert model, Erdos-Renyi model, scale free network, small world
 Slug: acchieving-high-clustering-in-scale-free-networks
 Status: published
 

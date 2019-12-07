@@ -1,7 +1,7 @@
 Title: V. Gontis: Going to the roots of econophysics
 Date: 2014-11-30 07:15
 Author: Vygintas Gontis
-Tags: General information, Economics, Baltic-American Freedom Foundation, Boston University, H. E. Stanley, V. Gontis, financial markets, statistical physics
+Tags: General information, Economics, Baltic-American Freedom Foundation, Boston University, V. Gontis, financial markets, statistical physics
 Slug: v-gontis-going-to-roots-of-econophysics
 Status: published
 

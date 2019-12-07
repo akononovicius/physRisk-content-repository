@@ -1,7 +1,7 @@
 Title: Obtaining surface area using Monte Carlo method
 Date: 2012-04-08 11:35
 Author: Aleksejus Kononovicius
-Tags: General models, Monte Carlo, methods, statistical physics
+Tags: Monte Carlo, methods, statistical physics
 Slug: obtaining-surface-area-using-monte-carlo-method
 Status: published
 

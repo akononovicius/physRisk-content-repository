@@ -1,7 +1,7 @@
-Title: Alex Laskey: How behavioral science can lower your energy bill
+Title: A. Laskey: How behavioral science can lower your energy bill
 Date: 2014-01-27 07:06
 Author: Aleksejus Kononovicius
-Tags: Economics, A. Laskey, literature, popular culture, sociology, ted.com, video
+Tags: Economics, A. Laskey, popular culture, sociology, ted.com, video
 Slug: alex-laskey-how-behavioral-science-can-lower-your-energy-bill
 Status: published
 

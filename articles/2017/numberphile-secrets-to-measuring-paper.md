@@ -1,7 +1,7 @@
 Title: Numberphile: Secrets to measuring a piece of paper
 Date: 2017-11-14 08:00
 Author: Aleksejus Kononovicius
-Tags: Numberphile, popular culture, video, math, good science
+Tags: Numberphile, video, math
 Slug: numberphile-secrets-to-measuring-piece-of-paper
 Status: published
 

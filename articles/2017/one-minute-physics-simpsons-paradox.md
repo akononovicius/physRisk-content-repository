@@ -1,7 +1,7 @@
 Title: One Minute Physics: Simpson's paradox
 Date: 2017-11-27 07:26
 Author: Aleksejus Kononovicius
-Tags: General models, popular culture, video, One Minute Physics, statistics, Simpson's paradox, paradox
+Tags: video, One Minute Physics, statistics, Simpson's paradox, paradox
 Slug: one-minute-physics-simpsons-paradox
 Status: published
 

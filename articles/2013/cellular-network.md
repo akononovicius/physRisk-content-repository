@@ -1,7 +1,7 @@
 Title: Cellular network
 Date: 2013-09-23 07:12
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Network models, Erdos-Renyi model, small world, network formation models
+Tags: Interactive models, Network models, Erdos-Renyi model, small world
 Slug: cellular-network
 Status: published
 
