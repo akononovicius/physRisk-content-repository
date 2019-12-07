@@ -1,5 +1,5 @@
 Title: Seeker: How Chaos Theory Unravels the Mysteries of Nature
-Date: 2019-12-10 08:00
+Date: 2020-03-17 08:00
 Author: Aleksejus Kononovicius
 Tags: Seeker, video, Dynamical chaos
 Slug: seeker-how-chaos-theory-unravels-the-mysteries-of-nature
