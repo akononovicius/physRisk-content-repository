@@ -21,7 +21,7 @@ The app we make available with this post is quite similar to the one from the
 [earlier post]({filename}/articles/2020/compartmental-voter-model.md), but
 this one is different as we report distinct quantities: total number of agents
 in the compartment (blue dots) and scaled number of agents of the first type
-(red dots). We report spatial rank share distributions for both of them.
+(red dots). We report spatial rank-size distributions for both of them.
 
 If capacity would have no impact on the model dynamics, then both observables
 would have similar rank-size distributions and the curves would noticeably
