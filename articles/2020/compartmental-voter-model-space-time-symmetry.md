@@ -59,7 +59,7 @@ cases with zeros:
 f\_i = 0 , \quad \text{if} N\_i=0 .
 \end{equation}
 
-# Interactive app
+## Interactive app
 
 Once again the app is quite similar to the one in the
 [original post]({filename}/articles/2020/compartmental-voter-model.md). The main

@@ -29,7 +29,7 @@ functions. This is because with low \\\( M \\\) spatial rank-size distribution
 plot is somewhat uninformative as one can have at most \\\( M \\\) points in
 those plots.
 
-# Interactive app
+## Interactive app
 
 The app we make available with this post is quite similar to the one from the
 [earlier post]({filename}/articles/2020/compartmental-voter-model.md), but

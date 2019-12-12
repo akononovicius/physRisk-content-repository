@@ -31,7 +31,7 @@ overlap.
 
 ![We can see that the capacity does have influence if it is finite.](/uploads/2020/cvm-pops-2.png "We can see that capacity does have influence if it is finite.")
 
-# Interactive app
+## Interactive app
 
 As always, feel free to explore on your own!
 

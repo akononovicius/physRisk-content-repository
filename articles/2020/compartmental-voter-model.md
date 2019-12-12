@@ -95,7 +95,7 @@ this approach is equivalent to observing an ensemble), while compartmental
 distributions are obtained by observing the model over space at fixed time.
 They do not need to match, yet they do.
 
-# Interactive app
+## Interactive app
 
 Meanwhile we invite you to explore interactive app, which implements the
 compartmental voter model. Though there are few restrictions.
