@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Ising model, Schelling model, voter model, opinion dynamics, sociology, postdoctoral project, compartmental voter model
 Slug: compartmental-voter-model
 Status: draft
-Image_url: uploades/2020/cvm.png
+Image_url: uploads/2020/cvm-schema.png
 
 In [sociological](/tag/sociology/) papers it is quite common to see the analysis
 of how specific socio-demographic factors influence voting behavior. In
@@ -46,7 +46,9 @@ compartments are not overcrowded (they are assume to have inherent capacity
 Let us assume that the movements between compartments are based on homophily.
 With the actual rule inspired by the
 [original voter model]({filename}/articles/2016/rinkejo-modelis.md). Given
-\\\( i \neq j \\\) and \\\( N\_j < C \\\):
+different source and destination compartments, \\\( i \neq j \\\), and that
+the destination compartment is not over its capacity, \\\( N\_j < C \\\), the
+transition rate is assumed to be:
 
 \begin{equation}
 \lambda\_{\left(k\right)}^{i\rightarrow j} = X\_{i}^{\left(k\right)}\left(\varepsilon^{\left(k\right)}+X\_{j}^{\left(k\right)}\right) .
@@ -75,7 +77,7 @@ the stationary probability density functions and not to the compartmental
 [rank-size distributions]({filename}/articles/2020/rank-size-distribution-and-uk-census-2011-data.md)
 in which we are interested in.
 
-**For the infinite capacity case** it can be easily shown that the stationary
+For the infinite capacity case it can be easily shown that the stationary
 distribution is Beta distribution, or for finite \\\( N \\\) it is Beta-binomial
 distribution instead.
 
@@ -92,24 +94,6 @@ observing the model over time at fixed spatial unit (as the model is ergodic,
 this approach is equivalent to observing an ensemble), while compartmental
 distributions are obtained by observing the model over space at fixed time.
 They do not need to match, yet they do.
-
-**If capacity is finite,** we have to rely on the fact that our model is in fact
-a Markov chain. Thus we can obtain the stationary distribution by solving
-eigenproblem with the transition matrix. While this is doable, it is extremely
-impractical as the effective number of system states grows extremely fast with
-\\\( M \\\) and \\\( T \\\). Thus we can obtain, in reasonable time, results
-for small values of \\\( M \\\) and \\\( T \\\). While \\\( N \\\) can be
-larger, but it still should not be extremely big. Note, that stationary
-distribution we have obtained in certain cases posses discontinuous jumps.
-
-![Model \(red\) vs MC result \(black\) for finite capacity: N=100, M=2 and T=2 \(\(a\) and \(b\)\), N=90, M=3 and T=1 \(\(c\) and \(d\)\), C=40 \(c\), 60 \(\(a\) and \(d\)\) and 80 \(b\), ε=2 \(\(a\) and \(c\)\) and 0.03 \(\(b\) and \(d\)\).](/uploads/2020/cvm-caps.png "Model \(red\) vs MC result \(black\) for finite capacity: N=100, M=2 and T=2 \(\(a\) and \(b\)\), N=90\\\), M=3 and T=1 \(\(c\) and \(d\)\), C=40 \(c\), 60 \(\(a\) and \(d\)\) and 80 \(b\), ε=2 \(\(a\) and \(c\)\) and 0.03 \(\(b\) and \(d\)\).")
-
-Calculating rank-size distributions for these values of \\\( M \\\) and
-\\\( T \\\) is not very interesting or informative (as we have  just two or
-three points in the rank-size distribution). But we can investigate symmetry
-between space and time by comparing temporal and compartmental rank-size
-distributions obtained with larger \\\( M \\\) and \\\( T \\\), but let us
-leave this topic for the next post.
 
 # Interactive app
 
@@ -129,14 +113,19 @@ is optimal, because the simulation is still not that resource intensive, but we
 can also see pattern in the rank-size distribution.
 
 Note that in this app you specify not the total number of agents, \\\( N \\\),
-but \\\( N\_i(0) \\\), which corresponds to the number of agents in any given
-compartment \\\( i \\\) at time \\\( t = 0 \\\). Therefore initial distribution
-of agents is uniform over compartments.
+but \\\( X\_i(0) \\\), which corresponds to the number of agents in any given
+compartment \\\( i \\\) at time \\\( t = 0 \\\). Therefore initial spatial
+distribution of the agents is uniform over compartments.
 
-Note that if \\\( C < N\_i(0) \cdot M \\\), you can change the fitting curve
+Note that if \\\( C < N\_i(0) \cdot M \\\), you can change the fitting 
 parameters, \\\( \alpha \\\) and \\\( \beta \\\). Otherwise they are set
 automatically to values obtained during analytical derivation of the stationary
 distribution.
+
+Finally, allow some time for the stationary distribution, which is obtained
+from the first compartment time series, to converge. It does take some time as
+well as enough data points are needed for the probability density function to
+start look smoother.
 
 So feel free to explore the model using the app below. Note that in a few weeks
 time, with new posts on this same model, we will add a few apps more.
