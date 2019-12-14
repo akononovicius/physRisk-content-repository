@@ -1,5 +1,5 @@
 Title: Compartmental voter model
-Date: 2020-04-07 08:00
+Date: 2020-04-21 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Ising model, Schelling model, voter model, opinion dynamics, sociology, postdoctoral project, compartmental voter model
 Slug: compartmental-voter-model

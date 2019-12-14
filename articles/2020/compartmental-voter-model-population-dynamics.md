@@ -1,5 +1,5 @@
 Title: Total population dynamics in the compartmental voter model
-Date: 2020-05-19 08:00
+Date: 2020-06-02 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, voter model, opinion dynamics, postdoctoral project, compartmental voter model
 Slug: total-population-dynamics-in-the-compartmental-voter-model

@@ -1,5 +1,5 @@
 Title: Compartmental voter model with finite capacity
-Date: 2020-04-21 08:00
+Date: 2020-05-05 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, voter model, opinion dynamics, postdoctoral project, compartmental voter model
 Slug: compartmental-voter-model-with-finite-capacity
