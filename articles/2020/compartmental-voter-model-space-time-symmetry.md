@@ -1,5 +1,5 @@
 Title: Space and time symmetry in the compartmental voter model
-Date: 2020-05-19191919191919191919191919191919191919 08:00
+Date: 2020-05-19 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, voter model, opinion dynamics, postdoctoral project, compartmental voter model
 Slug: space-and-time-symmetry-in-the-compartmental-voter-model
