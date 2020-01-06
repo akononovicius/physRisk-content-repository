@@ -3,7 +3,7 @@ Date: 2020-01-07 08:00
 Author: Aleksejus Kononovicius
 Tags: General information
 Slug: quite-productive-2019
-Status: draft
+Status: published
 Image_url: uploads/2020/rf-posts.png
 
 The topic we have started last year, [opinion dynamics](/tag/opinion-dynamics/),
