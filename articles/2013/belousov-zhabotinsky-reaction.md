@@ -10,7 +10,7 @@ reaction \[cite id="Zhabotinsky2007"\] is a chemical reaction, or more
 precisely a reaction family, known for exhibiting temporal and spatial
 oscillations.
 
-[youtube.com v="3JAqrRnKFHo"]
+[youtube.com v="IBa4kgXI4Cg"]
 
 This reaction is one of the classical examples of the natural non-linear
 oscillations. Another prominent example is the previously analyzed
