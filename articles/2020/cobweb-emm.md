@@ -3,7 +3,7 @@ Date: 2020-01-14 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, Walrasian Market, Economics, supply and demand, free market, market price, Cobweb model
 Slug: cobweb-model-and-efficient-market-maker-order-book-model
-Status: draft
+Status: published
 Image_url: uploads/2020/cobweb-emm.png
 
 Two years ago I have covered a classical price discovery model known as the
