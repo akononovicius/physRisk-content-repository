@@ -3,7 +3,7 @@ Date: 2020-01-21 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Wisecrack, Netflix, Amazon, Google, Economics, free market
 Slug: wisecrack-how-platforms-own-you
-Status: draft
+Status: published 
 
 Emergence and growth of streaming platforms reshapes the face of modern economy.
 This can potentially result in better tomorrow for all of us, or we could return
