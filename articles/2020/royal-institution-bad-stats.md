@@ -3,7 +3,7 @@ Date: 2020-02-04 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, The Royal Institution
 Slug: j-rogers-how-not-to-fall-for-bad-statistics
-Status: draft
+Status: published
 
 Most people hate math and (I would like to claim that) they hate
 [statistics](/tag/statistics) even more, because statistics are often harder
