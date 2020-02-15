@@ -74,6 +74,6 @@ agents. For simplicity sake we have simply fixed number of agents at
 \\\( N = 100 \\\).
 
 [html5-interactive mode="iframe" width="510" height="270"
-src="/uploads/models/repulsion-in-controversial-debate/index.html"]
+src="/uploads/models/repulsion-controversial-debate-model/index.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]
