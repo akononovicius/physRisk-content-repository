@@ -72,6 +72,8 @@ Use the interactive app below to explore the model dynamics. You can change
 all of the aforementioned parameters of this model except for the number of
 agents. For simplicity sake we have simply fixed number of agents at
 \\\( N = 100 \\\).
+The interactive plots fractions of agents who hold positive
+(blue), negative (red) and neutral (gray) opinions.
 
 [html5-interactive mode="iframe" width="510" height="270"
 src="/uploads/models/repulsion-controversial-debate-model/index.html"]
