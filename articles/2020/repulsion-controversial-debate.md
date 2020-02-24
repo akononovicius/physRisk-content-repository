@@ -9,7 +9,7 @@ Image_url: uploads/2020/repulsion-controversial-debate.png
 Controversial debates are often marked by an emergence of polarized state. In
 this post we will consider yet another variation of the
 [voter model](/tag/voter-model) proposed by a group of German researchers
-[cite id="Krause2019"], which shows large animosity (or repulsion) leads to
+[cite id="Krause2019"], which shows that significant repulsion leads to
 the polarized fifty-fifty state.
 <!--more-->
 
