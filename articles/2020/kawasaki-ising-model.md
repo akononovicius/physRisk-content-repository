@@ -3,7 +3,7 @@ Date: 2020-03-10 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Ising model, magnetism, statistical physics
 Slug: kawasaki-ising-model
-Status: draft
+Status: published
 
 Recall that the Ising model (see [other posts](/tag/ising-model/)) is a
 well-known model in statistical physics, which describes magnetization
