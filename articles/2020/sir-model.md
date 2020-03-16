@@ -16,9 +16,12 @@ time quarantine (just 9 cases at the time of the decision; all of them coming
 back from abroad). There also many optimistic people who believe that timely
 quarantine can decrease the number of infected (and thus the number of deaths)
 by almost 40%! While this is not necessarily a lie, the number itself is more
-than likely to be invented. One needs to make certain assumptions about the
-spread of disease and the efficiency of quarantine to get any reasonable
-estimate.
+than likely to be invented (edit: quick online search reveals that this number
+is given in
+[this article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca),
+which is an excelent article in many regards).
+One needs to make certain assumptions about the spread of disease and the
+efficiency of quarantine to get any reasonable estimate.
 
 So this time we will talk about a classical model in
 [epidemiology](/tag/epidemiology) known as Susceptible-Infected-Recovered model
