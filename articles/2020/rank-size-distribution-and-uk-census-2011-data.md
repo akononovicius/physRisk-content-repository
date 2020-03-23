@@ -3,7 +3,7 @@ Date: 2020-03-24 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, methods, data science, sociology, voter model, Ising model, opinion dynamics
 Slug: rank-size-distribution-and-uk-census-2011-data-set
-Status: draft
+Status: published
 
 While we haven't told you the previous post on
 [Kawasaki dynamics]({filename}/articles/2020/kawasaki-ising-model.md) is actually
