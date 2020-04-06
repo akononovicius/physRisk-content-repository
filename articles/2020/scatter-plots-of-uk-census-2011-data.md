@@ -3,7 +3,7 @@ Date: 2020-04-07 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, methods, data science, sociology
 Slug: scatter-plot-of-uk-census-2011-data-set
-Status: draft
+Status: published
 
 Let us continue examining UK census 2011 data set (see
 [the previous post]({filename}/articles/2020/rank-size-distribution-and-uk-census-2011-data.md)).
