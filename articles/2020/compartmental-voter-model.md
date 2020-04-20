@@ -3,7 +3,7 @@ Date: 2020-04-21 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Ising model, Schelling model, voter model, opinion dynamics, sociology, postdoctoral project, compartmental voter model
 Slug: compartmental-voter-model
-Status: draft
+Status: published
 Image_url: uploads/2020/cvm-schema.png
 
 In [sociological](/tag/sociology/) papers it is quite common to see the analysis
