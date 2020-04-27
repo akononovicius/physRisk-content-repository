@@ -3,7 +3,7 @@ Date: 2020-04-28 08:00
 Author: Aleksejus Kononovicius
 Tags: Economics, video, financial markets, Extra Credits
 Slug: extra-credits-the-1929-stock-market-crash
-Status: draft
+Status: published
 
 It seems that COVID-19 "wind" has blown on the house of cards, which we have
 been carefully rebuilding since 2008 crisis. Though the markets are not the
