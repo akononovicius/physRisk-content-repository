@@ -7,7 +7,7 @@ Status: published
 Image_url: uploads/2020/cvm-caps.png
 
 In the [last post]({filename}/articles/2020/compartmental-voter-model.md) we
-have introduce you to the compartmental voter model
+have introduced you to the compartmental voter model
 [cite id="Kononovicius2019Comp"]. While we have introduced the concept of
 capacity and allowed for a brief exploration of it, this time we dig slightly
 deeper into this topic.<!--more-->
