@@ -6,7 +6,7 @@ Slug: r-axtell-modeling-the-economy-with-million-agents
 Status: published
 
 In this rather dated video (back from 2011) prof. Rob Axtell (one of the
-contemporary gurus of agent-based modeling and general intedisciplinary
+contemporary gurus of agent-based modeling and general interdisciplinary
 numerical simulation) talks about the possibilities of agent-based models.
 He also talks about his work in modeling of the economy with huge number of
 agents.

@@ -19,7 +19,7 @@ by almost 40%! While this is not necessarily a lie, the number itself is more
 than likely to be invented (edit: quick online search reveals that this number
 is given in
 [this article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca),
-which is an excelent article in many regards).
+which is an excellent article in many regards).
 One needs to make certain assumptions about the spread of disease and the
 efficiency of quarantine to get any reasonable estimate.
 
@@ -112,7 +112,7 @@ start of the simulation.
 
 Note that the app will draw two curves: one (red) of the current simulation,
 and the other (gray) of the previous simulation. You can use this opportunity to
-explore the effect of quarantine (isolation) or to compate the effects when
+explore the effect of quarantine (isolation) or to compare the effects when
 quarantine is applied early and late.
 
 [html5-interactive mode="iframe"
