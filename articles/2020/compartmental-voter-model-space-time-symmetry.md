@@ -3,7 +3,7 @@ Date: 2020-05-19 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, voter model, opinion dynamics, postdoctoral project, compartmental voter model
 Slug: space-and-time-symmetry-in-the-compartmental-voter-model
-Status: draft
+Status: published
 Image_url: uploads/2020/cvm-symmetry.png
 
 Today we continue our [series of posts](/tag/compartmental-voter-model) on
