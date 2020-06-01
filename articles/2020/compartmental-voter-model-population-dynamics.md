@@ -3,7 +3,7 @@ Date: 2020-06-02 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, voter model, opinion dynamics, postdoctoral project, compartmental voter model
 Slug: total-population-dynamics-in-the-compartmental-voter-model
-Status: draft
+Status: published
 Image_url: uploads/2020/cvm-pops.png
 
 Today we continue our [series of posts](/tag/compartmental-voter-model) on
