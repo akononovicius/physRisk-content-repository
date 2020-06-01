@@ -24,4 +24,4 @@ After this quick introduction we invite you to explore the data set from the
 scatter plot perspective using the interactive app below.
 
 [html5-interactive url="/uploads/models/uk-census/index.html"
-width="510" height="510" mode="iframe"]
+width="520" height="510" mode="iframe"]

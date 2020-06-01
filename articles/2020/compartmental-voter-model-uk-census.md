@@ -39,6 +39,6 @@ app is somewhat resource hungry and thus might be quite slow.
 
 [html5-interactive
 url="/uploads/models/compartmental-voter-model/index.html"
-width="510" height="330" mode="iframe"]
+width="520" height="330" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017"]

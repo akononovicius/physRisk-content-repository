@@ -70,6 +70,6 @@ we report only the rank-size distributions: red dots correspond to the temporal
 
 [html5-interactive
 url="/uploads/models/compartmental-voter-model/index-symmetry.html"
-width="510" height="270" mode="iframe"]
+width="520" height="270" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017"]

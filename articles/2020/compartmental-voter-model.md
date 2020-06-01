@@ -132,6 +132,6 @@ time, with new posts on this same model, we will add a few apps more.
 
 [html5-interactive
 url="/uploads/models/compartmental-voter-model/index-single.html"
-width="510" height="300" mode="iframe"]
+width="520" height="300" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017"]

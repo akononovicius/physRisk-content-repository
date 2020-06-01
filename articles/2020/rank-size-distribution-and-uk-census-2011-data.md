@@ -45,4 +45,4 @@ After this quick introduction we invite you to explore scaling behavior of the
 UK census 2011 data using the interactive app below.
 
 [html5-interactive url="/uploads/models/uk-census/rsd.html"
-width="510" height="460" mode="iframe"]
+width="520" height="460" mode="iframe"]
