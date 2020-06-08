@@ -3,7 +3,7 @@ Date: 2020-06-09 08:00
 Author: Aleksejus Kononovicius
 Tags: Seeker, video, Dynamical chaos
 Slug: seeker-how-chaos-theory-unravels-the-mysteries-of-nature
-Status: draft
+Status: published
 
 Linear systems behave nicely - whenever you slightly increase the input, the
 output also increases only by a small amount. Thus linear systems are quite easy
