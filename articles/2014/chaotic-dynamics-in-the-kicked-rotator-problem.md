@@ -91,7 +91,7 @@ kicks, \\\(  K \\\). Period of the external force was set to one second.
 
 [html5-interactive
 src="/uploads/models/standard-map/separation.html"
-width="510" height="370" mode="iframe"]
+width="520" height="370" mode="iframe"]
 
 Many trajectory Poincare plot and Standard map
 ----------------------------------------------
