@@ -3,7 +3,7 @@ Date: 2020-06-16 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, voter model, opinion dynamics, postdoctoral project, compartmental voter model
 Slug: compartmental-voter-model-and-uk-census-data
-Status: draft
+Status: published
 Image_url: uploads/2020/cvm-london.png
 
 We are concluding the [ongoing series of posts](/tag/compartmental-voter-model)
