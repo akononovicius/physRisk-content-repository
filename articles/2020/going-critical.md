@@ -3,7 +3,7 @@ Date: 2020-06-23 08:00
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, Network models, epidemiology, opinion dynamics
 Slug: going-critical-with-k-simler
-Status: draft
+Status: published
 
 We have talked a lot about the [opinion dynamics](/tag/opinion-dynamics)
 recently, thus before going on summer holiday, we would like to share a very
