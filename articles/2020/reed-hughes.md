@@ -58,7 +58,7 @@ So we can reasonably expect that \\\( I \\\) should be power-law distributed.
 Note that as \\\( \tau > 0 \\\) is always true, \\\( I \\\) will take values
 large than \\\( 1 \\\). These observations as well as the restrictions are
 perfectly reasonable from the
-[empirical point-of-view]({filename}/articles/2020/covid-19-spatial-growth).
+[empirical point-of-view]({filename}/articles/2020/covid-19-spatial-growth.md).
 
 You can explore Reed-Hughes mechanism using the app below. Blue curve shows
 the probability density function of \\\( \tau \\\), while the red curve shows
