@@ -109,6 +109,12 @@ characterized by
     MSD(\Delta t) \sim \Delta t^\alpha , \quad 1 < \alpha < 2 .
 \end{equation}
 
+To be more precise[cite id="Zaburdaev2015RMP"] suggests that:
+
+\begin{equation}
+    \alpha \approx 3 - \gamma .
+\end{equation}
+
 When both of the moments are finite, Levy walk should be similar to Brownian
 walk and exhibit same MSD dependence as Brownian walk (linear growth).
 
