@@ -25,9 +25,3 @@ channel](https://www.twitch.tv/stockstream). But you can not only watch,
 but also influence the trades that will be executed. This can be done
 during session hours of New York Stock Exchange (workdays from 15:30 to
 22:00 in Lithuanian time).
-
-[iframe src="https://player.twitch.tv/?channel=stockstream" height="378" width="620"]
-
-[Watch
-live video from StockStream on
-www.twitch.tv](https://www.twitch.tv/stockstream?tt_medium=live_embed&tt_content=text_link)
