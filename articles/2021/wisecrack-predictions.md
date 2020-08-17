@@ -1,5 +1,5 @@
 Title: Wisecrack: Predictions: What went wrong?
-Date: 2020-01-12 08:00
+Date: 2021-01-12 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Wisecrack
 Slug: wisecrack-predictions
