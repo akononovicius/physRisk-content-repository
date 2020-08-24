@@ -23,5 +23,5 @@ Association](http://www.smd.ff.vu.lt/).
 [here](https://www.facebook.com/events/395011713904204/).
 
 **Slides:**
-[download](/uploads/biblio/biblio_1356082258.pdf)
+[download](/uploads/2012/03/Kononovicius2012SMD.pdf)
 (in Lithuanian).
