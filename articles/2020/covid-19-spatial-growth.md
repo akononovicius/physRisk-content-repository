@@ -7,7 +7,7 @@ Status: published
 Image_url: uploads/2020/covid-19-spatial-growth.png
 
 I have spent significant part of this summer reading papers on the modeling of
-COVID-19. It helped a lot that majority of them were quite terrible, so I those
+COVID-19. It helped a lot that majority of them were quite terrible, those
 have saved me some time. Though there were also a few more interesting ones.
 In [cite id="Burghardt2020"] it was shown that the distribution of deaths and
 cases over US counties follows a power-law distribution. This finding is quite
