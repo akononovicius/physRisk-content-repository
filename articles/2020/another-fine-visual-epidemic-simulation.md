@@ -3,7 +3,7 @@ Date: 2020-09-08 08:00
 Author: Aleksejus Kononovicius
 Tags: epidemiology, video, Agent-based models, Primer
 Slug: another-fine-visual-simulation-of-epidemic-spread
-Status: draft
+Status: published
 
 I would like to share another fine visual simulation of epidemic spread
 created by [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ),
