@@ -3,7 +3,7 @@ Date: 2020-09-15 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, epidemiology, statistics, Reed-Hughes mechanism
 Slug: reed-hughes-mechanism
-Status: draft
+Status: published
 Image_url: uploads/2020/reed-hughes-mechanism.png
 
 In this post we present a theoretical explore of the power-law distributions
