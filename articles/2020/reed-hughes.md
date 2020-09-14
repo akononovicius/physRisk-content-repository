@@ -6,14 +6,14 @@ Slug: reed-hughes-mechanism
 Status: published
 Image_url: uploads/2020/reed-hughes-mechanism.png
 
-In this post we present a theoretical explore of the power-law distributions
+In this post we present a theoretical explanation for the power-law distributions
 observed in the
 [spatial growth of COVID-19]({filename}/articles/2020/covid-19-spatial-growth.md).
 From theoretical point-of-view it is interesting why power-law distribution is
-observed in the data, as typically epidemic spread itself is characterized by
-an exponential law (at least [SIR model]({filename}/articles/2020/sir-model.md)
+observed in the data, as typical epidemic spread is characterized by
+an exponential distribution (at least the [SIR model]({filename}/articles/2020/sir-model.md)
 predicts this). Yet, the explanation is pretty simple and is based on
-Reed-Hughes mechanism [cite id="Reed2002PRE"].<!--more-->
+the Reed-Hughes mechanism [cite id="Reed2002PRE"].<!--more-->
 
 So, [SIR model]({filename}/articles/2020/sir-model.md) predicts that in the
 initial stage of epidemic the growth of confirmed cases will be exponential.
