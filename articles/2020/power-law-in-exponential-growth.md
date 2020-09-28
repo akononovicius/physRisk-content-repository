@@ -3,7 +3,7 @@ Date: 2020-09-29 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, epidemiology, statistics, Reed-Hughes mechanism
 Slug: power-law-in-exponential-growth
-Status: draft
+Status: published
 Image_url: uploads/2020/power-law-in-exp-growth.png
 
 In the last few posts we have considered
