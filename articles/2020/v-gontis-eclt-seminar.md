@@ -3,7 +3,7 @@ Date: 2020-10-06 08:00
 Authors: Vygintas Gontis
 Tags: Stochastic models, V. Gontis, video, burst statistics, order book, financial markets 
 Slug: v-gontis-eclt-seminar
-Status: draft
+Status: published
 
 [European Centre for Living Technology](https://www.unive.it/pag/23664/) is an
 international and interdisciplinary research network involving 17 research
