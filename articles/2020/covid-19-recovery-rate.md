@@ -3,7 +3,7 @@ Date: 2020-10-13 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, epidemiology, statistics
 Slug: covid-19-recovery-rate
-Status: draft
+Status: published
 Image_url: uploads/2020/covid-19-recovery-rate.png
 
 This summer one of my colleagues asked me if I know what is the recovery rate
