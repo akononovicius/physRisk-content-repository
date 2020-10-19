@@ -3,7 +3,7 @@ Date: 2020-10-20 08:00
 Author: Aleksejus Kononovicius
 Tags: SciShow, methods, video
 Slug: scishow-the-most-metal-algorithm-in-computer-science
-Status: draft
+Status: published
 
 Optimizing is easy, if the problem is small and functions involved are smooth
 with out local minima or maxima. But what happens when the problem is bigger or
