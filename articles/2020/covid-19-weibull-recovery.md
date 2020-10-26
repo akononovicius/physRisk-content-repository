@@ -3,7 +3,7 @@ Date: 2020-10-27 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, epidemiology, statistics
 Slug: covid-19-weibull-recovery
-Status: draft
+Status: published
 Image_url: uploads/2020/covid-19-weibull-recovery.png
 
 In the [previous post]({filename}/articles/2020/covid-19-recovery-rate.md) we
