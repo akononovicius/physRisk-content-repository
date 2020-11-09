@@ -3,7 +3,7 @@ Date: 2020-11-10 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, epidemiology, statistics, convolution
 Slug: covid-19-recovery-model-convolution
-Status: draft
+Status: published
 Image_url: uploads/2020/covid-19-recovery-model-convolution.png
 
 In the [previous post]({filename}/articles/2020/covid-19-weibull-recovery.md) we
