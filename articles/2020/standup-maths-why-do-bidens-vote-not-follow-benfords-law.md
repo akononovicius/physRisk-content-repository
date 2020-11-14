@@ -2,7 +2,7 @@ Title: Stand-up Maths: Why do Biden's votes not follow Benford's Law?
 Date: 2020-11-17 08:00
 Author: Aleksejus Kononovicius
 Tags: video, standupmaths, opinion dynamics, statistics, Benford law
-Slug: numberphile-hat-problems
+Slug: standupmaths-why-do-bidens-votes-not-follow-benfords-law
 Status: draft
 
 There are many unsubstantiated claim about election fraud in the recent US
