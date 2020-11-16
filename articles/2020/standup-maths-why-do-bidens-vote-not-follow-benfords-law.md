@@ -3,7 +3,7 @@ Date: 2020-11-17 08:00
 Author: Aleksejus Kononovicius
 Tags: video, standupmaths, opinion dynamics, statistics, Benford law
 Slug: standupmaths-why-do-bidens-votes-not-follow-benfords-law
-Status: draft
+Status: published
 
 There are many unsubstantiated claim about election fraud in the recent US
 presidential elections. Most of these claims provide no proofs or arguments,
