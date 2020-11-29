@@ -31,7 +31,7 @@ the group start to express their attitudes. Usually via protest.
 
 Lets us say that there is a certain number of activists, which no longer
 care about their own safety. They will protest no matter how hard the
-regime tries to suppress the protest. If their number is larger enough,
+regime tries to suppress the protest. If their number is large enough,
 it is possible that the perceived risk of expression will decline with
 growing number of protesters. Then the activists will be joined by the
 other less fearful groups. For example - students. As the students join
