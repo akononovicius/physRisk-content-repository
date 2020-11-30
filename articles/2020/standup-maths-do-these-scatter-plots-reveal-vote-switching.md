@@ -39,7 +39,7 @@ Republican voters and votes from defecting Democrat voters. Let us now obtain
 the expression for difference:
 
 \begin{equation}
-    \Delta = \left[ v\_r (1-p) + (1-v\_r) p \right] - v\_r = 
+    \Delta = \left[ v\_r (1-p) + (1-v\_r) p \right] - v\_r  
            = p ( 1 - 2 v\_r ) .
 \end{equation}
 
