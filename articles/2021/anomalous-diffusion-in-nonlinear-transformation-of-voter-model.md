@@ -7,7 +7,8 @@ Status: draft
 Image_url: uploads/2021/anomalous-diffusion-in-nonlinear-transformation-of-voter-model.png
 
 Lets continue the topic of [anomalous diffusion](/tag/anomalous-diffusion) by
-considering my recent manuscript together with R. Kazakevicius [cite id="Kazakevicius2021AnoVM"]. In the said manuscript we have considered two
+considering my recent manuscript together with R. Kazakevicius
+[cite id="Kazakevicius2021AnoVM"]. In the said manuscript we have considered two
 different non-linear transformations of the noisy
 [voter model](/tag/voter-model). Here we present you with non-linear
 transformation of the observable.<!--more-->
@@ -51,7 +52,7 @@ Namely, as soon as number of agents in the counted state, \\\( X \\\), reaches
 critical amount, both the total number of agents, \\\( N \\\), and \\\( X \\\)
 are divided by 10. This procedure is performed as long as \\\( N > 100 \\\).
 This number is not special, we just find it to be sufficient for the simulation
-to be presented on the web (our simulations in [cite id="Kazakevicius2021AnoVM]
+to be presented on the web (our simulations in [cite id="Kazakevicius2021AnoVM"]
 stop as soon as \\\( N \leq 10^3 \\\)).
 
 We can use such downscaling, because our \\\( \varepsilon \\\) parameters will
