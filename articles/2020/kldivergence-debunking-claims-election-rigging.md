@@ -3,7 +3,7 @@ Date: 2020-12-01 08:00
 Author: Aleksejus Kononovicius
 Tags: video, KLDivergence, opinion dynamics, statistics
 Slug: kldivergence-debunking-claims-of-election-rigging
-Status: draft
+Status: published
 
 Another group of people using statistical methods have shown that Biden has
 stolen Trump's votes! To be more precise, they have misused statistical methods
