@@ -3,7 +3,7 @@ Date: 2020-12-08 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistical physics, Stochastic models, anomalous diffusion
 Slug: brief-introduction-into-anomalous-diffusion
-Status: draft
+Status: published
 Image_url: uploads/2020/anomalous-diffusion.png
 
 A well-known example of "normal" diffusion is the Brownian walk. Brownian walk,
