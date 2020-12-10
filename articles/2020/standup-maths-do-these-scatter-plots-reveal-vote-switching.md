@@ -8,7 +8,7 @@ Status: published
 Another group of people using statistical methods have shown that Biden has
 stolen Trump's votes! To be more precise, they have misused statistical methods
 to prove their point. Well as you know there are
-[lies, damned lies and statistics](https://en.wikipedia.org/wiki/Lies,_damned_lies,_and_statistics).<!--more-->
+[lies, damned lies and statistics](https://en.wikipedia.org/wiki/Lies,_damned_lies,_and_statistics).
 
 The "proof" relies on a fact that multiple elections were held at the same time
 (at least in some states). The people who have conducted the analysis have
