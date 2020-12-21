@@ -3,7 +3,7 @@ Date: 2020-12-22 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistical physics, Stochastic models, anomalous diffusion
 Slug: standard-deviation-of-anomalous-diffusion
-Status: draft
+Status: published
 Image_url: uploads/2020/anomalous-diffusion-std.png
 
 In a [previous post]({filename}/articles/2020/anomalous-diffusion.md) we have
