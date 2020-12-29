@@ -3,7 +3,7 @@ Date: 2020-12-29 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Numberphile
 Slug: numberphile-hat-problems
-Status: draft
+Status: published
 
 Santa has a nice red hat, so for our Christmas and New Year holiday gap post
 we share a video about mathematical hat problems by
