@@ -3,7 +3,7 @@ Date: 2021-01-05 08:00
 Author: Aleksejus Kononovicius
 Tags: General information
 Slug: quite-productive-2020
-Status: draft
+Status: published
 Image_url: uploads/2021/rf-posts.png
 
 In the first half of 2020 we kept on posting about the
