@@ -1,5 +1,5 @@
 Title: Anomalous diffusion in non-linear transformation of voter model
-Date: 2021-03-16 08:00
+Date: 2021-03-02 08:00
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, anomalous diffusion, voter model, Kirman model, R. Kazakevicius
 Slug: anomalous-diffusion-in-nonlinear-transformation-of-voter-model
