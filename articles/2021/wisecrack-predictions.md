@@ -3,7 +3,7 @@ Date: 2021-01-12 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Wisecrack
 Slug: wisecrack-predictions
-Status: draft 
+Status: published 
 
 Why so many predictions go wrong? In my humble opinion it is because many
 people fail to understand that complex systems are complex. Namely, there are
