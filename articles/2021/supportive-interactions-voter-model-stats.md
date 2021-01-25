@@ -36,3 +36,6 @@ stationary distribution exists.
 
 [html5-interactive width="520" height="510" mode="iframe"
 url="/uploads/models/voter/support/stats-imitation-support.html"]
+
+[acknowledge id="postdoc-ak-2017-lit"]
+

@@ -107,3 +107,6 @@ statistical analysis.
 
 [html5-interactive width="520" height="300" mode="iframe"
 url="/uploads/models/voter/support/full-support.html"]
+
+[acknowledge id="postdoc-ak-2017-lit"]
+
