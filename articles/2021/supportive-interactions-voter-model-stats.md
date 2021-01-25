@@ -1,7 +1,7 @@
 Title: Stationary distribution of the noisy voter model with supportive interactions
 Date: 2021-04-27 08:00
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, voter model, postdoctoral project, Latane social impact theory
+Tags: Agent-based models, Interactive models, voter model, postdoctoral project, Latane social impact theory, opinion dynamics
 Slug: stationary-distribution-of-the-noisy-voter-model-with-supportive-interactions
 Status: draft
 Image_url: uploads/2021/stats-imitation-support.png

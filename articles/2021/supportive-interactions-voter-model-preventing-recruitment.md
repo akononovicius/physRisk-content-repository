@@ -1,7 +1,7 @@
 Title: Supportive interactions in the noisy voter model preventing recruitment
 Date: 2021-04-13 08:00
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, voter model, postdoctoral project, Latane social impact theory
+Tags: Agent-based models, Interactive models, voter model, postdoctoral project, Latane social impact theory, opinion dynamics
 Slug: supportive-interactions-voter-model-preventing-recruitment
 Status: draft
 Image_url: uploads/2021/full-supportive-phases.png
