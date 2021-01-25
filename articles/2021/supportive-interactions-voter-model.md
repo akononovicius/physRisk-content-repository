@@ -97,7 +97,7 @@ the article).")
 
 Use the app below to explore the four phases of the noisy voter model with
 supportive interactions. This app shows you two plots: time series plot
-(on the left) and rates plot (right). Time series plot show \\\( 10 \\\)
+(on the left) and rate plot (right). Time series plot show \\\( 10 \\\)
 sample trajectories, so that you could where different trajectories tend to.
 Rate plot shows to curves, red curve corresponds to death rate, while green
 curve corresponds to birth rate. Rate plot allows to anticipate where the
