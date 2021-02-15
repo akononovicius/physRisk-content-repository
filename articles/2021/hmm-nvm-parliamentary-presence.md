@@ -3,7 +3,7 @@ Date: 2021-02-16 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, anomalous diffusion, opinion dynamics, voter model, politics, postdoctoral project
 Slug: hidden-noisy-voter-model-for-the-parliamentary-presence
-Status: draft
+Status: published
 Image_url: uploads/2021/hmm-nvm-parliamentary-presence.png
 
 In an [earlier post]({filename}/articles/2021/anomalous-diffusion-parliamentary-presence-data.md)
