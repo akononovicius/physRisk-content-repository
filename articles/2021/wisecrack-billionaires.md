@@ -1,7 +1,7 @@
 Title: Wisecrack: Billionaires: What went wrong?
 Date: 2021-03-09 08:00
 Author: Aleksejus Kononovicius
-Tags: video, Wisecrack, free market
+Tags: video, Wisecrack, free market, economics
 Slug: wisecrack-billionaires
 Status: draft 
 

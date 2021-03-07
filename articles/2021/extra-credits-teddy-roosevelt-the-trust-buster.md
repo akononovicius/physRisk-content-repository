@@ -1,7 +1,7 @@
 Title: Extra Credits: Teddy Roosevelt the Trustbuster
 Date: 2021-04-06 08:00
 Author: Aleksejus Kononovicius
-Tags: video, politics, Extra Credits, free market
+Tags: video, politics, Extra Credits, free market, economics
 Slug: extra-credits-teddy-roosevelt-the-trustbuster
 Status: draft
 
