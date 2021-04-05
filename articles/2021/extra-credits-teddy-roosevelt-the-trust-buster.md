@@ -14,7 +14,7 @@ Wisecrack we have shared few weeks ago. Numerous historical billionaires
 mentioned in the Wisecrack videos are also seen in this series by [Extra
 Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg).
 
-We invite you to watch the first video and find later on the [Extra
+We invite you to watch the first video and find later videos on the [Extra
 Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) channel
 on Youtube.
 
