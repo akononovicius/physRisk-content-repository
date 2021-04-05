@@ -3,7 +3,7 @@ Date: 2021-04-06 08:00
 Author: Aleksejus Kononovicius
 Tags: video, politics, Extra Credits, free market, economics
 Slug: extra-credits-teddy-roosevelt-the-trustbuster
-Status: draft
+Status: published
 
 Another excellent series from [Extra
 Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) is
