@@ -3,7 +3,7 @@ Date: 2021-04-13 08:00
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, voter model, postdoctoral project, Latane social impact theory, opinion dynamics
 Slug: supportive-interactions-voter-model-preventing-recruitment
-Status: draft
+Status: published
 Image_url: uploads/2021/full-supportive-phases.png
 
 Typically [voter models](/tag/voter-model/) assume that recruitment occurs
