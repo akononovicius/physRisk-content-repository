@@ -32,11 +32,11 @@ V. Daniūnas, M. Alaburda, T. Meškauskas.
 * [prof. habil. dr. Bronislovas Kaulakys](http://www.itpa.lt/kaulakys/)
 * dr. Rytis Kazakevičius
 * [dr. Aleksejus Kononovicius](http://kononovicius.lt)
-* [dr. Julius Ruseckas](http://web.vu.lt/tfai/j.ruseckas/) (associated member)
 * [dr. Viktor Novičenko](http://www.itpa.lt/%7Enovicenko/) (associated member)
 
 ### Previous members
 
+* [dr. Julius Ruseckas](http://web.vu.lt/tfai/j.ruseckas/)
 * dr. V. Juknevičius
 * dr. M. Alaburda
 * dr. T. Meškauskas
