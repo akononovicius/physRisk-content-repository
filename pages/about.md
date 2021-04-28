@@ -36,7 +36,7 @@ V. Daniūnas, M. Alaburda, T. Meškauskas.
 
 ### Previous members
 
-* [dr. Julius Ruseckas](http://web.vu.lt/tfai/j.ruseckas/)
+* [dr. Julius Ruseckas](https://juliusruseckas.github.io/)
 * dr. V. Juknevičius
 * dr. M. Alaburda
 * dr. T. Meškauskas
