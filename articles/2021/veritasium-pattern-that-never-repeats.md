@@ -3,7 +3,7 @@ Date: 2021-05-04 08:00
 Author: Aleksejus Kononovicius
 Tags: Veritasium, video, fractals
 Slug: veritasium-pattern-that-never-repeats
-Status: draft
+Status: published
 
 It is obvious that you can perfectly tile floor of a room using square or
 rhomboid tiles. Similarly it would be easy if we would triangular or
