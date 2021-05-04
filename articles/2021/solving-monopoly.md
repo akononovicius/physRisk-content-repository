@@ -8,7 +8,7 @@ Status: draft
 When teaching Numerical Methods and Matlab I like to challenge myself and
 take upon doing some new practical project to show my students how to apply
 their newly acquired skills to do something fun. [Last
-time]({filename}/articles/2019/football-model) I have built a simple
+time]({filename}/articles/2019/football-model.md) I have built a simple
 statistical football model and "played" a few fictional seasons to see how
 likely was the outcome of the studied season. This year I have decided to
 look into "solving" Monopoly using Linear Algebra.<!--more-->
