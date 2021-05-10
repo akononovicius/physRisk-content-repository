@@ -3,7 +3,7 @@ Date: 2021-05-11 08:00
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, voter model, postdoctoral project, opinion dynamics
 Slug: partisan-voter-model
-Status: draft
+Status: published
 Image_url: uploads/2021/partisan-voter-model-full.png
 
 While doing literature review for my postdoctoral project I have taken a
