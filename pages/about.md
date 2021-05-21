@@ -32,9 +32,10 @@ V. Daniūnas, M. Alaburda, T. Meškauskas.
 * [prof. habil. dr. Bronislovas Kaulakys](http://www.itpa.lt/kaulakys/)
 * dr. Rytis Kazakevičius
 * [dr. Aleksejus Kononovicius](http://kononovicius.lt)
+* dr. Dalia Šatkovskienė (affiliated scientist)
 * [dr. Viktor Novičenko](http://www.itpa.lt/%7Enovicenko/) (associated member)
 
-### Previous members
+### Former members
 
 * [dr. Julius Ruseckas](https://juliusruseckas.github.io/)
 * dr. V. Juknevičius
